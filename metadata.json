@@ -1,0 +1,6 @@
+{
+  "name": "Imobiliária Inteligente",
+  "description": "Aplicativo para corretores gerenciarem imóveis, clientes, visitas, matchmaking automático e busca por IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
