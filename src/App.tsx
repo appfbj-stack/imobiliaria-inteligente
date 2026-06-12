@@ -8,13 +8,14 @@ import StatsDashboard from './components/StatsDashboard';
 import { 
   Home, Users, Calendar, Sparkles, Plus, Search, 
   Trash2, Edit, ChevronRight, Check, Send, 
-  MapPin, SlidersHorizontal, ArrowUpDown, RefreshCw, X, Eye, HeartHandshake, EyeOff
+  MapPin, SlidersHorizontal, ArrowUpDown, RefreshCw, X, Eye, HeartHandshake, EyeOff, Menu
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 
 export default function App() {
   // General State
   const [activeTab, setActiveTab] = useState<'dashboard' | 'properties' | 'clients' | 'visits' | 'matchmaker'>('dashboard');
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [properties, setProperties] = useState<Property[]>([]);
   const [clients, setClients] = useState<Client[]>([]);
   const [visits, setVisits] = useState<Visit[]>([]);
@@ -410,12 +411,20 @@ export default function App() {
         )}
       </AnimatePresence>
 
+      {/* Mobile Backdrop overlay */}
+      {mobileMenuOpen && (
+        <div 
+          onClick={() => setMobileMenuOpen(false)}
+          className="fixed inset-0 bg-slate-950/60 backdrop-blur-xs z-40 md:hidden transition-opacity duration-200"
+        />
+      )}
+
       {/* Modern Split View - Left Sidebar */}
-      <aside className="w-64 bg-slate-900 text-slate-300 flex flex-col shrink-0 justify-between">
+      <aside className={`fixed md:relative z-45 inset-y-0 left-0 transform ${mobileMenuOpen ? 'translate-x-0' : '-translate-x-full'} md:translate-x-0 transition-transform duration-200 ease-in-out w-64 bg-slate-900 text-slate-300 flex flex-col shrink-0 justify-between h-full`}>
         
         {/* Logo and Nav Menu */}
         <div>
-          <div className="p-6 border-b border-slate-800">
+          <div className="p-6 border-b border-slate-800 flex items-center justify-between">
             <div className="flex items-center gap-3">
               <div id="company-logo" className="w-9 h-9 bg-blue-600 rounded-xl flex items-center justify-center font-black text-white text-base tracking-sm shadow-md shadow-blue-500/10">
                 IM
@@ -425,6 +434,14 @@ export default function App() {
                 <span className="text-[10px] text-slate-500 uppercase tracking-widest font-black leading-none pb-0.5">Gestor de Parcerias</span>
               </div>
             </div>
+            
+            {/* Close button for mobile menu drawer */}
+            <button 
+              onClick={() => setMobileMenuOpen(false)}
+              className="md:hidden p-1.5 rounded-lg text-slate-400 hover:text-white hover:bg-slate-850/50 transition border border-slate-800"
+            >
+              <X className="w-4 h-4" />
+            </button>
           </div>
 
           <nav className="py-6 flex flex-col gap-1.5 px-3">
@@ -432,7 +449,7 @@ export default function App() {
             
             <button 
               id="nav-dashboard"
-              onClick={() => setActiveTab('dashboard')}
+              onClick={() => { setActiveTab('dashboard'); setMobileMenuOpen(false); }}
               className={`flex items-center gap-3 px-4 py-3 rounded-xl font-bold text-xs transition duration-200 text-left ${
                 activeTab === 'dashboard' ? 'bg-blue-600 text-white shadow-lg shadow-blue-600/10' : 'hover:bg-slate-800/60 hover:text-white text-slate-400'
               }`}
@@ -443,7 +460,7 @@ export default function App() {
 
             <button 
               id="nav-properties"
-              onClick={() => setActiveTab('properties')}
+              onClick={() => { setActiveTab('properties'); setMobileMenuOpen(false); }}
               className={`flex items-center gap-3 px-4 py-3 rounded-xl font-bold text-xs transition duration-200 text-left ${
                 activeTab === 'properties' ? 'bg-blue-600 text-white shadow-lg shadow-blue-600/10' : 'hover:bg-slate-800/60 hover:text-white text-slate-400'
               }`}
@@ -454,7 +471,7 @@ export default function App() {
 
             <button 
               id="nav-clients"
-              onClick={() => setActiveTab('clients')}
+              onClick={() => { setActiveTab('clients'); setMobileMenuOpen(false); }}
               className={`flex items-center gap-3 px-4 py-3 rounded-xl font-bold text-xs transition duration-200 text-left ${
                 activeTab === 'clients' ? 'bg-blue-600 text-white shadow-lg shadow-blue-600/10' : 'hover:bg-slate-800/60 hover:text-white text-slate-400'
               }`}
@@ -465,7 +482,7 @@ export default function App() {
 
             <button 
               id="nav-visits"
-              onClick={() => setActiveTab('visits')}
+              onClick={() => { setActiveTab('visits'); setMobileMenuOpen(false); }}
               className={`flex items-center gap-3 px-4 py-3 rounded-xl font-bold text-xs transition duration-200 text-left ${
                 activeTab === 'visits' ? 'bg-blue-600 text-white shadow-lg shadow-blue-600/10' : 'hover:bg-slate-800/60 hover:text-white text-slate-400'
               }`}
@@ -478,7 +495,7 @@ export default function App() {
             
             <button 
               id="nav-matchmaker"
-              onClick={() => setActiveTab('matchmaker')}
+              onClick={() => { setActiveTab('matchmaker'); setMobileMenuOpen(false); }}
               className={`flex items-center gap-3 px-4 py-3 rounded-xl font-bold text-xs transition duration-200 text-left ${
                 activeTab === 'matchmaker' ? 'bg-blue-600 text-white shadow-lg shadow-blue-600/10' : 'hover:bg-slate-800/60 hover:text-white text-slate-400'
               }`}
@@ -510,7 +527,7 @@ export default function App() {
               showNotice("Dados do servidor sincronizados!", 'info');
             }}
             className="p-1.5 hover:bg-slate-800 rounded-lg text-slate-500 hover:text-white transition"
-            title="Sincronizar dados das nuvens"
+            title="Sincronizar dados"
           >
             <RefreshCw className="w-3.5 h-3.5" />
           </button>
@@ -521,10 +538,29 @@ export default function App() {
       <main className="flex-1 flex flex-col overflow-hidden bg-slate-50">
         
         {/* Top Header Section */}
-        <header className="h-20 bg-white border-b border-slate-100 px-8 flex items-center justify-between shrink-0">
+        <header className="min-h-20 h-auto md:h-20 bg-white border-b border-slate-100 px-4 md:px-8 py-4 md:py-0 flex flex-col md:flex-row items-center justify-between gap-3 shrink-0">
           
+          <div className="flex items-center justify-between w-full md:w-auto">
+            {/* Hamburger trigger for mobile */}
+            <button 
+              id="mobile-hamburger-btn"
+              onClick={() => setMobileMenuOpen(true)} 
+              className="md:hidden p-2.5 text-slate-600 hover:text-slate-900 hover:bg-slate-50 border border-slate-200 rounded-xl transition"
+            >
+              <Menu className="w-4 h-4" />
+            </button>
+
+            {/* Micro logo shown only on mobile */}
+            <div className="md:hidden flex items-center gap-1.5">
+              <span className="w-6 h-6 bg-blue-600 rounded-lg flex items-center justify-center font-black text-white text-[10px] shadow-xs">IM</span>
+              <span className="text-slate-900 font-extrabold text-[11px] tracking-tight">ImobiInteligente</span>
+            </div>
+
+            <div className="w-8 md:hidden" /> {/* Spacer to center heading visually */}
+          </div>
+
           {/* Intelligent AI Natural Language Query Search Bar */}
-          <form onSubmit={handleAISearchSubmit} className="relative w-md">
+          <form onSubmit={handleAISearchSubmit} className="relative w-full max-w-sm md:w-md md:max-w-none">
             <div className="relative group/search">
               <span className="absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400 text-sm">
                 {aiSearching ? <div className="w-4 h-4 border-2 border-indigo-500 border-t-transparent rounded-full animate-spin" /> : <Sparkles className="w-4 h-4 text-indigo-500" />}
@@ -560,18 +596,18 @@ export default function App() {
             </div>
           </form>
 
-          {/* User action cluster depending on tab */}
-          <div className="flex items-center gap-3">
+          {/* User action cluster depending on tab with scroll overflow for small screen widths */}
+          <div className="flex items-center gap-2 overflow-x-auto w-full md:w-auto pb-1 md:pb-0 scrollbar-none justify-start md:justify-end shrink-0">
             <button 
               id="header-shortcut-client"
               onClick={() => {
                 setSelectedClient(null);
                 setIsClientModalOpen(true);
               }}
-              className="flex items-center gap-1.5 px-3.5 py-2.5 border border-slate-200 hover:bg-slate-50 text-slate-700 rounded-xl text-xs font-bold transition duration-150"
+              className="flex items-center gap-1.5 px-3 py-2 border border-slate-200 hover:bg-slate-50 text-slate-700 rounded-xl text-xs font-bold transition duration-150 shrink-0 whitespace-nowrap"
             >
               <Users className="w-3.5 h-3.5" />
-              + Novo Cliente
+              + Cliente
             </button>
             <button 
               id="header-shortcut-visit"
@@ -579,10 +615,10 @@ export default function App() {
                 setSelectedVisit(null);
                 setIsVisitModalOpen(true);
               }}
-              className="flex items-center gap-1.5 px-3.5 py-2.5 border border-slate-200 hover:bg-slate-50 text-slate-700 rounded-xl text-xs font-bold transition duration-150"
+              className="flex items-center gap-1.5 px-3 py-2 border border-slate-200 hover:bg-slate-50 text-slate-700 rounded-xl text-xs font-bold transition duration-150 shrink-0 whitespace-nowrap"
             >
               <Calendar className="w-3.5 h-3.5" />
-              + Agendar Visita
+              + Agenda
             </button>
             <button 
               id="header-create-property-btn"
@@ -590,15 +626,15 @@ export default function App() {
                 setSelectedProperty(null);
                 setIsPropertyModalOpen(true);
               }}
-              className="flex items-center gap-2 px-4.5 py-2.5 bg-blue-600 hover:bg-blue-700 text-white rounded-xl text-xs font-extrabold transition duration-150 shadow-md shadow-blue-500/10"
+              className="flex items-center gap-1.5 px-4.5 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-xl text-xs font-extrabold transition duration-150 shadow-md shadow-blue-500/10 shrink-0 whitespace-nowrap"
             >
-              <span>+</span> Cadastrar Imóvel
+              <span>+</span> Imóvel
             </button>
           </div>
         </header>
 
         {/* Content View Routing Area */}
-        <div className="flex-1 overflow-y-auto p-8 space-y-6">
+        <div className="flex-1 overflow-y-auto p-4 md:p-8 space-y-6">
           
           {/* AI Response Explanation Header Panel if AI Search is active */}
           {aiResponseExplanation && (

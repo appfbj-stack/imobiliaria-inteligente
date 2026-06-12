@@ -11,7 +11,7 @@ interface StatsDashboardProps {
 export default function StatsDashboard({ stats, loading }: StatsDashboardProps) {
   if (loading) {
     return (
-      <div className="grid grid-cols-2 lg:grid-cols-5 gap-4 animate-pulse">
+      <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4 animate-pulse">
         {[...Array(5)].map((_, i) => (
           <div key={i} className="h-24 bg-slate-100 rounded-2xl" />
         ))}
@@ -66,7 +66,7 @@ export default function StatsDashboard({ stats, loading }: StatsDashboardProps) 
   ];
 
   return (
-    <div className="grid grid-cols-2 lg:grid-cols-5 gap-4">
+    <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
       {statItems.map((item, idx) => {
         const Icon = item.icon;
         return (

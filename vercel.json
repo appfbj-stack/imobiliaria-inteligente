@@ -6,7 +6,7 @@
       "destination": "/api/index.ts"
     },
     {
-      "source": "/(.*)",
+      "source": "/((?!assets/|icon.svg|manifest.json|sw.js).*)$",
       "destination": "/index.html"
     }
   ]
