@@ -20,7 +20,10 @@ const ai = process.env.GEMINI_API_KEY
     })
   : null;
 
-const DB_PATH = path.join(process.cwd(), "database.json");
+let DB_PATH = path.join(process.cwd(), "database.json");
+if (process.env.VERCEL) {
+  DB_PATH = path.join("/tmp", "database.json");
+}
 
 // Safe helper to write / read database
 function loadDatabase() {
@@ -160,6 +163,18 @@ function loadDatabase() {
 
   try {
     if (!fs.existsSync(DB_PATH)) {
+      if (process.env.VERCEL) {
+        const rootDbPath = path.join(process.cwd(), "database.json");
+        if (fs.existsSync(rootDbPath)) {
+          const rootData = fs.readFileSync(rootDbPath, "utf8");
+          try {
+            fs.writeFileSync(DB_PATH, rootData, "utf8");
+          } catch (e) {
+            console.error("Could not seed /tmp database:", e);
+          }
+          return JSON.parse(rootData);
+        }
+      }
       fs.writeFileSync(DB_PATH, JSON.stringify(defaultDb, null, 2), "utf8");
       return defaultDb;
     }
@@ -179,8 +194,10 @@ function saveDatabase(db: any) {
   }
 }
 
+const app = express();
+export { app };
+
 async function startServer() {
-  const app = express();
   const PORT = 3000;
 
   // Set limits higher so brokers can upload base64 images directly to local storage inside our JSON database
@@ -596,23 +613,27 @@ Retorne o seu veredito em formato JSON estrito com a seguinte estrutura:
   });
 
   // Vite development middleware vs Static fallback for production
-  if (process.env.NODE_ENV !== "production") {
-    const vite = await createViteServer({
-      server: { middlewareMode: true },
-      appType: "spa",
-    });
-    app.use(vite.middlewares);
-  } else {
-    const distPath = path.join(process.cwd(), "dist");
-    app.use(express.static(distPath));
-    app.get("*", (req, res) => {
-      res.sendFile(path.join(distPath, "index.html"));
+  if (!process.env.VERCEL) {
+    if (process.env.NODE_ENV !== "production") {
+      const vite = await createViteServer({
+        server: { middlewareMode: true },
+        appType: "spa",
+      });
+      app.use(vite.middlewares);
+    } else {
+      const distPath = path.join(process.cwd(), "dist");
+      app.use(express.static(distPath));
+      app.get("*", (req, res) => {
+        res.sendFile(path.join(distPath, "index.html"));
+      });
+    }
+
+    app.listen(PORT, "0.0.0.0", () => {
+      console.log(`[Imobiliária Inteligente] Server listening on http://0.0.0.0:${PORT}`);
     });
   }
-
-  app.listen(PORT, "0.0.0.0", () => {
-    console.log(`[Imobiliária Inteligente] Server listening on http://0.0.0.0:${PORT}`);
-  });
 }
 
 startServer();
+
+export default app;
