@@ -1,6 +1,6 @@
 {
-  "name": "Imobiliária Inteligente",
-  "description": "Aplicativo para corretores gerenciarem imóveis, clientes, visitas, matchmaking automático e busca por IA.",
+  "name": "Kairós Imobiliária",
+  "description": "CRM imobiliário premium da plataforma Kairós: imóveis, clientes, corretores, contratos e visitas, com o assistente Aion e busca por IA.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

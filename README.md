@@ -2,9 +2,9 @@
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
 
-# Run and deploy your AI Studio app
+# Kairós Imobiliária
 
-This contains everything you need to run your app locally.
+CRM imobiliário premium com o assistente Aion, construído a partir de um app do AI Studio. Este repositório contém tudo que você precisa para rodar o app localmente.
 
 View your app in AI Studio: https://ai.studio/apps/f83421fc-efcf-4d02-9894-81e86cb97a60
 
