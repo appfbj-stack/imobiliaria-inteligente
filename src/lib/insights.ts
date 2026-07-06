@@ -145,7 +145,7 @@ export function staleClients(clients: MockClient[], days = 60, reference = new D
 }
 
 /** People (brokers/owners) with a birthday matching the reference date's month/day. */
-export function birthdaysOn(people: { birthDate: string }[], reference = new Date()) {
+export function birthdaysOn<T extends { birthDate: string }>(people: T[], reference = new Date()) {
   const month = String(reference.getMonth() + 1).padStart(2, '0');
   const day = String(reference.getDate()).padStart(2, '0');
   return people.filter((p) => p.birthDate.slice(5, 7) === month && p.birthDate.slice(8, 10) === day);

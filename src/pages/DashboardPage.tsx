@@ -14,6 +14,7 @@ import { AnalyticsDrawer } from '../components/dashboard/AnalyticsDrawer';
 import { OpportunityRadar } from '../components/dashboard/OpportunityRadar';
 import { monthlyCounts, percentChange } from '../lib/timeseries';
 import { computeOpportunityRadar } from '../lib/insights';
+import { useAionUI } from '../aion/AionUIContext';
 import type { Column } from '../components/ui/Table';
 
 interface KpiConfig {
@@ -31,6 +32,7 @@ export function DashboardPage() {
   const { stats, loadingStats, properties, clients } = useRealData();
   const { properties: mockProperties, clients: mockClients, visits: mockVisits, contracts, brokers } = useDemoData();
   const { visits: realVisits } = useRealData();
+  const { openAion } = useAionUI();
 
   const [activeKpi, setActiveKpi] = useState<string | null>(null);
 
@@ -186,7 +188,7 @@ export function DashboardPage() {
         )}
       </div>
 
-      <OpportunityRadar insights={insights} />
+      <OpportunityRadar insights={insights} onOpenAion={openAion} />
 
       <div className="grid grid-cols-1 gap-6 lg:grid-cols-12">
         <Card className="lg:col-span-8">
