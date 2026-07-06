@@ -61,3 +61,39 @@ body {
   background-color: var(--color-border);
   border-radius: 9999px;
 }
+
+/* Leaflet dark-map chrome + custom divIcon pins (MapView) */
+.kairos-marker-pin {
+  width: 14px;
+  height: 14px;
+  border-radius: 9999px;
+  border: 2px solid var(--color-background);
+  box-shadow: 0 0 6px rgba(0, 204, 255, 0.6);
+}
+.kairos-cluster-pin {
+  width: 34px;
+  height: 34px;
+  border-radius: 9999px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #04121a;
+  font-weight: 800;
+  font-size: 12px;
+  border: 2px solid var(--color-background);
+}
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  background: var(--color-surface);
+  color: var(--color-text-primary);
+}
+.leaflet-container a.leaflet-popup-close-button {
+  color: var(--color-text-secondary);
+}
+.leaflet-control-attribution {
+  background: rgba(18, 28, 46, 0.7) !important;
+  color: var(--color-text-secondary) !important;
+}
+.leaflet-control-attribution a {
+  color: var(--color-text-secondary) !important;
+}

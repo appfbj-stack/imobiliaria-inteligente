@@ -1,7 +1,7 @@
 import type { HTMLAttributes } from 'react';
 import { cn } from '../../lib/cn';
 
-type Tone = 'success' | 'warning' | 'danger' | 'info' | 'neutral' | 'demo';
+export type Tone = 'success' | 'warning' | 'danger' | 'info' | 'neutral' | 'demo';
 
 const toneClasses: Record<Tone, string> = {
   success: 'bg-success/15 text-success border-success/30',

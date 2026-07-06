@@ -4,6 +4,7 @@ import { DashboardPage } from './pages/DashboardPage';
 import { PropertiesPage } from './pages/PropertiesPage';
 import { ClientsPage } from './pages/ClientsPage';
 import { VisitsPage } from './pages/VisitsPage';
+import { MapaPage } from './pages/MapaPage';
 import { PlaceholderPage } from './pages/PlaceholderPage';
 import { NAV_ITEMS } from './config/navigation';
 
@@ -19,7 +20,6 @@ const PLACEHOLDER_DESCRIPTIONS: Record<string, string> = {
   financeiro: 'Entradas, saídas, comissões, recebimentos, fluxo de caixa e inadimplência.',
   documentos: 'Documentos de imóveis, clientes e contratos centralizados.',
   aniversariantes: 'Clientes, corretores, proprietários e parceiros aniversariantes do período.',
-  mapa: 'Mapa interativo com imóveis, corretores, clientes e visitas por região.',
   relatorios: 'Relatórios exportáveis em PDF e Excel sobre todo o negócio.',
   configuracoes: 'Preferências da conta, equipe e integrações da Kairós.',
 };
@@ -32,6 +32,7 @@ export default function App() {
         <Route path="/imoveis" element={<PropertiesPage />} />
         <Route path="/clientes" element={<ClientsPage />} />
         <Route path="/visitas" element={<VisitsPage />} />
+        <Route path="/mapa" element={<MapaPage />} />
 
         {NAV_ITEMS.filter((item) => PLACEHOLDER_DESCRIPTIONS[item.id]).map((item) => (
           <Route
