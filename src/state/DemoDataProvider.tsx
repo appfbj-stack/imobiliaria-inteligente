@@ -47,6 +47,12 @@ interface DemoDataContextValue {
   deleteLead: (id: string) => void;
   upsertProposal: (proposal: Proposal) => void;
   updateContractStatus: (id: string, status: Contract['status']) => void;
+  upsertMockProperty: (property: MockProperty) => void;
+  deleteMockProperty: (id: string) => void;
+  upsertMockClient: (client: MockClient) => void;
+  deleteMockClient: (id: string) => void;
+  upsertMockVisit: (visit: MockVisit) => void;
+  deleteMockVisit: (id: string) => void;
 }
 
 const DemoDataContext = createContext<DemoDataContextValue | null>(null);
@@ -54,9 +60,9 @@ const DemoDataContext = createContext<DemoDataContextValue | null>(null);
 export function DemoDataProvider({ children }: { children: ReactNode }) {
   const [brokers] = useState<Broker[]>(mockBrokers);
   const [owners] = useState<Owner[]>(mockOwners);
-  const [properties] = useState<MockProperty[]>(mockProperties);
-  const [clients] = useState<MockClient[]>(mockClients);
-  const [visits] = useState<MockVisit[]>(mockVisits);
+  const [properties, setProperties] = useState<MockProperty[]>(mockProperties);
+  const [clients, setClients] = useState<MockClient[]>(mockClients);
+  const [visits, setVisits] = useState<MockVisit[]>(mockVisits);
   const [contracts, setContracts] = useState<Contract[]>(mockContracts);
   const [proposals, setProposals] = useState<Proposal[]>(mockProposals);
   const [documents] = useState<DocumentItem[]>(mockDocuments);
@@ -85,6 +91,39 @@ export function DemoDataProvider({ children }: { children: ReactNode }) {
     setContracts((prev) => prev.map((c) => (c.id === id ? { ...c, status } : c)));
   }, []);
 
+  const upsertMockProperty = useCallback((property: MockProperty) => {
+    setProperties((prev) => {
+      const exists = prev.some((p) => p.id === property.id);
+      return exists ? prev.map((p) => (p.id === property.id ? property : p)) : [property, ...prev];
+    });
+  }, []);
+
+  const deleteMockProperty = useCallback((id: string) => {
+    setProperties((prev) => prev.filter((p) => p.id !== id));
+  }, []);
+
+  const upsertMockClient = useCallback((client: MockClient) => {
+    setClients((prev) => {
+      const exists = prev.some((c) => c.id === client.id);
+      return exists ? prev.map((c) => (c.id === client.id ? client : c)) : [client, ...prev];
+    });
+  }, []);
+
+  const deleteMockClient = useCallback((id: string) => {
+    setClients((prev) => prev.filter((c) => c.id !== id));
+  }, []);
+
+  const upsertMockVisit = useCallback((visit: MockVisit) => {
+    setVisits((prev) => {
+      const exists = prev.some((v) => v.id === visit.id);
+      return exists ? prev.map((v) => (v.id === visit.id ? visit : v)) : [visit, ...prev];
+    });
+  }, []);
+
+  const deleteMockVisit = useCallback((id: string) => {
+    setVisits((prev) => prev.filter((v) => v.id !== id));
+  }, []);
+
   const value = useMemo(
     () => ({
       brokers,
@@ -101,8 +140,35 @@ export function DemoDataProvider({ children }: { children: ReactNode }) {
       deleteLead,
       upsertProposal,
       updateContractStatus,
+      upsertMockProperty,
+      deleteMockProperty,
+      upsertMockClient,
+      deleteMockClient,
+      upsertMockVisit,
+      deleteMockVisit,
     }),
-    [brokers, owners, properties, clients, visits, contracts, proposals, documents, leads, finance, upsertLead, deleteLead, upsertProposal, updateContractStatus],
+    [
+      brokers,
+      owners,
+      properties,
+      clients,
+      visits,
+      contracts,
+      proposals,
+      documents,
+      leads,
+      finance,
+      upsertLead,
+      deleteLead,
+      upsertProposal,
+      updateContractStatus,
+      upsertMockProperty,
+      deleteMockProperty,
+      upsertMockClient,
+      deleteMockClient,
+      upsertMockVisit,
+      deleteMockVisit,
+    ],
   );
 
   return <DemoDataContext.Provider value={value}>{children}</DemoDataContext.Provider>;

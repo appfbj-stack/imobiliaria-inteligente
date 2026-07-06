@@ -1,17 +1,30 @@
-import { useState } from 'react';
-import { Plus, Edit, Trash2, Sparkles, Send } from 'lucide-react';
+import { useMemo, useState } from 'react';
+import { Plus, Edit, Trash2, Sparkles, Send, Search } from 'lucide-react';
 import type { Client, MatchmakingResult } from '../types';
 import { useRealData } from '../state/RealDataContext';
+import { useDemoData } from '../state/DemoDataProvider';
+import { scoreClientAgainstProperties } from '../lib/matching';
 import ClientModal from '../components/client/ClientModal';
 import { Card } from '../components/ui/Card';
 import { Button } from '../components/ui/Button';
 import { Badge } from '../components/ui/Badge';
+import { Input } from '../components/ui/Input';
 import { Drawer } from '../components/ui/Drawer';
 import { EmptyState } from '../components/ui/EmptyState';
 import { Skeleton } from '../components/ui/Skeleton';
 
+const PAGE_SIZE = 20;
+
+function isMockId(id: string) {
+  return id.startsWith('MKT-CLI-');
+}
+
 export function ClientsPage() {
-  const { clients, loadingClients, saveClient, deleteClient, fetchMatches } = useRealData();
+  const { clients, loadingClients, saveClient, deleteClient, fetchMatches, properties } = useRealData();
+  const { clients: mockClients, upsertMockClient, deleteMockClient, properties: mockProperties } = useDemoData();
+
+  const [searchTerm, setSearchTerm] = useState('');
+  const [page, setPage] = useState(1);
 
   const [isModalOpen, setIsModalOpen] = useState(false);
   const [selectedClient, setSelectedClient] = useState<Client | null>(null);
@@ -20,22 +33,37 @@ export function ClientsPage() {
   const [matchResult, setMatchResult] = useState<MatchmakingResult | null>(null);
   const [matchLoading, setMatchLoading] = useState(false);
 
+  const allClients = useMemo(() => [...clients, ...mockClients], [clients, mockClients]);
+  const allProperties = useMemo(() => [...properties, ...mockProperties], [properties, mockProperties]);
+
+  const filteredClients = useMemo(() => {
+    if (!searchTerm.trim()) return allClients;
+    const q = searchTerm.toLowerCase();
+    return allClients.filter((c) => c.name.toLowerCase().includes(q) || c.email.toLowerCase().includes(q));
+  }, [allClients, searchTerm]);
+
+  const totalPages = Math.max(1, Math.ceil(filteredClients.length / PAGE_SIZE));
+  const pageItems = filteredClients.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE);
+
   const openMatchmaking = async (client: Client) => {
     setMatchClient(client);
     setMatchLoading(true);
     setMatchResult(null);
-    const result = await fetchMatches(client.id);
+    const result = isMockId(client.id) ? scoreClientAgainstProperties(client, allProperties) : await fetchMatches(client.id);
     setMatchResult(result);
     setMatchLoading(false);
   };
 
+  const handleDelete = (id: string) => (isMockId(id) ? deleteMockClient(id) : deleteClient(id));
+
   return (
     <div className="space-y-6">
-      <Card className="flex items-center justify-between border-primary/20 bg-primary/5 p-5">
+      <Card className="flex flex-col items-start justify-between gap-4 border-primary/20 bg-primary/5 p-5 md:flex-row md:items-center">
         <div>
           <h3 className="text-xs font-extrabold uppercase tracking-wider text-primary">Gestão inteligente de contatos</h3>
           <p className="mt-1 text-xs text-text-secondary">
-            Clique em "Compatibilidade IA" para cruzar automaticamente um cliente com o catálogo de imóveis.
+            {filteredClients.length} clientes ({clients.length} reais + {mockClients.length} de demonstração) · clique em
+            "Compatibilidade IA" para cruzar com o catálogo.
           </p>
         </div>
         <Button
@@ -48,91 +76,122 @@ export function ClientsPage() {
         </Button>
       </Card>
 
+      <div className="relative w-full md:w-80">
+        <Search className="pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-text-secondary" size={16} />
+        <Input
+          placeholder="Buscar por nome ou e-mail..."
+          value={searchTerm}
+          onChange={(e) => {
+            setSearchTerm(e.target.value);
+            setPage(1);
+          }}
+          className="pl-9"
+        />
+      </div>
+
       {loadingClients ? (
         <div className="grid grid-cols-1 gap-6 md:grid-cols-2">
           {Array.from({ length: 2 }).map((_, i) => (
             <Skeleton key={i} className="h-56" />
           ))}
         </div>
-      ) : clients.length > 0 ? (
-        <div className="grid grid-cols-1 gap-6 md:grid-cols-2">
-          {clients.map((client) => (
-            <Card key={client.id} className="flex flex-col justify-between p-6">
-              <div>
-                <div className="flex items-start justify-between">
-                  <div>
-                    <h4 className="font-black leading-tight text-text-primary">{client.name}</h4>
-                    <p className="mt-1 text-[10px] font-bold uppercase tracking-wider text-text-secondary">
-                      CPF: {client.cpf || 'Não preenchido'}
-                    </p>
-                  </div>
-                  <Badge tone={client.interest === 'compra' ? 'success' : client.interest === 'aluguel' ? 'warning' : 'info'}>
-                    {client.interest}
-                  </Badge>
-                </div>
-
-                <div className="my-4 grid grid-cols-2 gap-3 border-y border-border py-3 text-[11px]">
-                  <div>
-                    <span className="block text-[9px] font-bold uppercase text-text-secondary">Telefone</span>
-                    <span className="font-semibold text-text-primary">{client.phone}</span>
-                  </div>
-                  <div>
-                    <span className="block text-[9px] font-bold uppercase text-text-secondary">E-mail</span>
-                    <span className="block truncate font-medium text-text-primary">{client.email}</span>
-                  </div>
-                </div>
-
-                <div className="mb-4 space-y-2 rounded-2xl bg-surface-hover/70 p-4.5 text-xs text-text-primary">
-                  <div className="flex items-baseline justify-between">
-                    <span className="block text-[10px] font-bold uppercase tracking-wider text-text-secondary">Faixa de preço</span>
-                    <span className="font-extrabold text-text-primary">
-                      R$ {client.priceRangeMin.toLocaleString('pt-BR')} - R$ {client.priceRangeMax.toLocaleString('pt-BR')}
-                    </span>
-                  </div>
-                  <div>
-                    <span className="mb-1 block text-[10px] font-bold uppercase tracking-wider text-text-secondary">Tipos desejados</span>
-                    <div className="flex flex-wrap gap-1.5">
-                      {client.propertyTypeInterest.map((t) => (
-                        <Badge key={t} tone="neutral" className="capitalize">
-                          {t}
-                        </Badge>
-                      ))}
+      ) : pageItems.length > 0 ? (
+        <>
+          <div className="grid grid-cols-1 gap-6 md:grid-cols-2">
+            {pageItems.map((client) => (
+              <Card key={client.id} className="flex flex-col justify-between p-6">
+                <div>
+                  <div className="flex items-start justify-between gap-2">
+                    <div>
+                      <h4 className="font-black leading-tight text-text-primary">{client.name}</h4>
+                      <p className="mt-1 text-[10px] font-bold uppercase tracking-wider text-text-secondary">
+                        CPF: {client.cpf || 'Não preenchido'}
+                      </p>
+                    </div>
+                    <div className="flex flex-col items-end gap-1.5">
+                      <Badge tone={client.interest === 'compra' ? 'success' : client.interest === 'aluguel' ? 'warning' : 'info'}>
+                        {client.interest}
+                      </Badge>
+                      {isMockId(client.id) && <Badge tone="demo">Demonstração</Badge>}
                     </div>
                   </div>
-                  {client.observations && (
-                    <div className="mt-2 border-t border-border pt-2">
-                      <span className="block text-[10px] font-bold uppercase tracking-wider text-primary">Observações</span>
-                      <p className="mt-0.5 text-[11px] italic leading-relaxed text-text-secondary">"{client.observations}"</p>
-                    </div>
-                  )}
-                </div>
-              </div>
 
-              <div className="flex items-center gap-3">
-                <Button onClick={() => openMatchmaking(client)} className="flex-1">
-                  <Sparkles size={14} /> Compatibilidade IA
-                </Button>
-                <Button
-                  variant="secondary"
-                  size="icon"
-                  onClick={() => {
-                    setSelectedClient(client);
-                    setIsModalOpen(true);
-                  }}
-                  title="Editar"
-                >
-                  <Edit size={15} />
-                </Button>
-                <Button variant="danger" size="icon" onClick={() => deleteClient(client.id)} title="Excluir">
-                  <Trash2 size={15} />
-                </Button>
-              </div>
-            </Card>
-          ))}
-        </div>
+                  <div className="my-4 grid grid-cols-2 gap-3 border-y border-border py-3 text-[11px]">
+                    <div>
+                      <span className="block text-[9px] font-bold uppercase text-text-secondary">Telefone</span>
+                      <span className="font-semibold text-text-primary">{client.phone}</span>
+                    </div>
+                    <div>
+                      <span className="block text-[9px] font-bold uppercase text-text-secondary">E-mail</span>
+                      <span className="block truncate font-medium text-text-primary">{client.email}</span>
+                    </div>
+                  </div>
+
+                  <div className="mb-4 space-y-2 rounded-2xl bg-surface-hover/70 p-4.5 text-xs text-text-primary">
+                    <div className="flex items-baseline justify-between">
+                      <span className="block text-[10px] font-bold uppercase tracking-wider text-text-secondary">Faixa de preço</span>
+                      <span className="font-extrabold text-text-primary">
+                        R$ {client.priceRangeMin.toLocaleString('pt-BR')} - R$ {client.priceRangeMax.toLocaleString('pt-BR')}
+                      </span>
+                    </div>
+                    <div>
+                      <span className="mb-1 block text-[10px] font-bold uppercase tracking-wider text-text-secondary">Tipos desejados</span>
+                      <div className="flex flex-wrap gap-1.5">
+                        {client.propertyTypeInterest.map((t) => (
+                          <Badge key={t} tone="neutral" className="capitalize">
+                            {t}
+                          </Badge>
+                        ))}
+                      </div>
+                    </div>
+                    {client.observations && (
+                      <div className="mt-2 border-t border-border pt-2">
+                        <span className="block text-[10px] font-bold uppercase tracking-wider text-primary">Observações</span>
+                        <p className="mt-0.5 text-[11px] italic leading-relaxed text-text-secondary">"{client.observations}"</p>
+                      </div>
+                    )}
+                  </div>
+                </div>
+
+                <div className="flex items-center gap-3">
+                  <Button onClick={() => openMatchmaking(client)} className="flex-1">
+                    <Sparkles size={14} /> Compatibilidade IA
+                  </Button>
+                  <Button
+                    variant="secondary"
+                    size="icon"
+                    onClick={() => {
+                      setSelectedClient(client);
+                      setIsModalOpen(true);
+                    }}
+                    title="Editar"
+                  >
+                    <Edit size={15} />
+                  </Button>
+                  <Button variant="danger" size="icon" onClick={() => handleDelete(client.id)} title="Excluir">
+                    <Trash2 size={15} />
+                  </Button>
+                </div>
+              </Card>
+            ))}
+          </div>
+          {totalPages > 1 && (
+            <div className="flex items-center justify-center gap-3">
+              <Button variant="secondary" size="sm" disabled={page === 1} onClick={() => setPage((p) => p - 1)}>
+                Anterior
+              </Button>
+              <span className="text-xs font-bold text-text-secondary">
+                Página {page} de {totalPages}
+              </span>
+              <Button variant="secondary" size="sm" disabled={page === totalPages} onClick={() => setPage((p) => p + 1)}>
+                Próxima
+              </Button>
+            </div>
+          )}
+        </>
       ) : (
         <EmptyState
-          title="Nenhum cliente cadastrado ainda"
+          title="Nenhum cliente encontrado"
           description="Registre compradores ou inquilinos para calcular compatibilidades automaticamente com o portfólio."
         />
       )}
@@ -145,6 +204,13 @@ export function ClientsPage() {
           setSelectedClient(null);
         }}
         onSave={async (formData) => {
+          if (formData.id && isMockId(formData.id)) {
+            const original = mockClients.find((c) => c.id === formData.id);
+            if (original) upsertMockClient({ ...original, ...formData });
+            setIsModalOpen(false);
+            setSelectedClient(null);
+            return;
+          }
           const ok = await saveClient(formData);
           if (ok) {
             setIsModalOpen(false);
@@ -189,7 +255,7 @@ export function ClientsPage() {
               </h4>
               {matchResult.matches.length > 0 ? (
                 <div className="space-y-4">
-                  {matchResult.matches.map((match) => (
+                  {matchResult.matches.slice(0, 20).map((match) => (
                     <Card key={match.property.id} className="flex flex-col gap-4 p-5 md:flex-row">
                       <div className="relative h-28 w-full shrink-0 overflow-hidden rounded-xl bg-surface-hover md:w-40">
                         <img

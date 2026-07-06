@@ -11,9 +11,10 @@ interface PropertyCardProps {
   property: Property;
   onEdit: (property: Property) => void;
   onDelete: (id: string) => void | Promise<void>;
+  demo?: boolean;
 }
 
-export default function PropertyCard({ property, onEdit, onDelete }: PropertyCardProps) {
+export default function PropertyCard({ property, onEdit, onDelete, demo = false }: PropertyCardProps) {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
   const [showShareMenu, setShowShareMenu] = useState(false);
 
@@ -106,6 +107,11 @@ export default function PropertyCard({ property, onEdit, onDelete }: PropertyCar
             {property.code}
           </span>
           {getStatusBadge()}
+          {demo && (
+            <span className="bg-fuchsia-500/20 border border-fuchsia-400/40 backdrop-blur-xs text-fuchsia-200 text-[10px] uppercase tracking-wider font-bold px-2.5 py-1 rounded-md">
+              Demonstração
+            </span>
+          )}
         </div>
 
         {/* Floating Status / Property Type pill */}

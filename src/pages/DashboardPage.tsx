@@ -1,25 +1,141 @@
+import { useMemo, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { Home, TrendingUp, Inbox, Users, Calendar, Sparkles, Zap } from 'lucide-react';
 import { useRealData } from '../state/RealDataContext';
+import { useDemoData } from '../state/DemoDataProvider';
 import { Card, CardContent, CardHeader, CardTitle } from '../components/ui/Card';
 import { Button } from '../components/ui/Button';
 import { KpiCard } from '../components/ui/KpiCard';
 import { Badge } from '../components/ui/Badge';
 import { SkeletonCard } from '../components/ui/Skeleton';
+import { Sparkline } from '../components/charts/Sparkline';
+import { LineChart } from '../components/charts/LineChart';
+import { AnalyticsDrawer } from '../components/dashboard/AnalyticsDrawer';
+import { OpportunityRadar } from '../components/dashboard/OpportunityRadar';
+import { monthlyCounts, percentChange } from '../lib/timeseries';
+import { computeOpportunityRadar } from '../lib/insights';
+import type { Column } from '../components/ui/Table';
+
+interface KpiConfig {
+  id: string;
+  icon: React.ReactNode;
+  label: string;
+  value: number;
+  series: { value: number }[];
+  columns: Column<Record<string, string | number>>[];
+  rows: Record<string, string | number>[];
+}
 
 export function DashboardPage() {
   const navigate = useNavigate();
   const { stats, loadingStats, properties, clients } = useRealData();
+  const { properties: mockProperties, clients: mockClients, visits: mockVisits, contracts, brokers } = useDemoData();
+  const { visits: realVisits } = useRealData();
+
+  const [activeKpi, setActiveKpi] = useState<string | null>(null);
 
   const data = stats ?? { totalProperties: 0, totalSold: 0, totalRented: 0, totalClients: 0, totalVisits: 0 };
 
-  const kpis = [
-    { icon: <Home size={18} />, label: 'Total de Imóveis', value: data.totalProperties },
-    { icon: <TrendingUp size={18} />, label: 'Imóveis Vendidos', value: data.totalSold },
-    { icon: <Inbox size={18} />, label: 'Imóveis Alugados', value: data.totalRented },
-    { icon: <Users size={18} />, label: 'Clientes Cadastrados', value: data.totalClients },
-    { icon: <Calendar size={18} />, label: 'Visitas Agendadas', value: data.totalVisits },
-  ];
+  const kpis = useMemo<KpiConfig[]>(() => {
+    const salesContracts = contracts.filter((c) => c.tipo === 'venda');
+    const rentalContracts = contracts.filter((c) => c.tipo === 'locacao');
+
+    return [
+      {
+        id: 'imoveis',
+        icon: <Home size={18} />,
+        label: 'Total de Imóveis',
+        value: data.totalProperties + mockProperties.length,
+        series: monthlyCounts(mockProperties.map((p) => p.createdAt)),
+        columns: [
+          { key: 'code', header: 'Código', render: (r) => String(r.code) },
+          { key: 'tipo', header: 'Tipo', render: (r) => String(r.tipo) },
+          { key: 'cidade', header: 'Cidade', render: (r) => String(r.cidade) },
+          { key: 'preco', header: 'Preço', render: (r) => `R$ ${Number(r.preco).toLocaleString('pt-BR')}` },
+          { key: 'status', header: 'Status', render: (r) => String(r.status) },
+        ],
+        rows: [...mockProperties]
+          .sort((a, b) => b.views - a.views)
+          .slice(0, 30)
+          .map((p) => ({ code: p.code, tipo: p.type, cidade: p.cidade, preco: p.price, status: p.status })),
+      },
+      {
+        id: 'vendidos',
+        icon: <TrendingUp size={18} />,
+        label: 'Imóveis Vendidos',
+        value: data.totalSold + salesContracts.filter((c) => c.status === 'assinado').length,
+        series: monthlyCounts(salesContracts.map((c) => c.createdAt)),
+        columns: [
+          { key: 'id', header: 'Contrato', render: (r) => String(r.id) },
+          { key: 'valor', header: 'Valor', render: (r) => `R$ ${Number(r.valor).toLocaleString('pt-BR')}` },
+          { key: 'comissao', header: 'Comissão', render: (r) => `R$ ${Number(r.comissao).toLocaleString('pt-BR')}` },
+          { key: 'status', header: 'Status', render: (r) => String(r.status) },
+        ],
+        rows: salesContracts.slice(0, 30).map((c) => ({ id: c.id, valor: c.value, comissao: c.commission, status: c.status })),
+      },
+      {
+        id: 'alugados',
+        icon: <Inbox size={18} />,
+        label: 'Imóveis Alugados',
+        value: data.totalRented + rentalContracts.filter((c) => c.status === 'ativo').length,
+        series: monthlyCounts(rentalContracts.map((c) => c.createdAt)),
+        columns: [
+          { key: 'id', header: 'Contrato', render: (r) => String(r.id) },
+          { key: 'valor', header: 'Aluguel', render: (r) => `R$ ${Number(r.valor).toLocaleString('pt-BR')}` },
+          { key: 'fim', header: 'Vencimento', render: (r) => String(r.fim) },
+          { key: 'status', header: 'Status', render: (r) => String(r.status) },
+        ],
+        rows: rentalContracts.slice(0, 30).map((c) => ({ id: c.id, valor: c.value, fim: c.endDate ?? '-', status: c.status })),
+      },
+      {
+        id: 'clientes',
+        icon: <Users size={18} />,
+        label: 'Clientes Cadastrados',
+        value: data.totalClients + mockClients.length,
+        series: monthlyCounts(mockClients.map((c) => c.lastContactDate)),
+        columns: [
+          { key: 'name', header: 'Nome', render: (r) => String(r.name) },
+          { key: 'interesse', header: 'Interesse', render: (r) => String(r.interesse) },
+          { key: 'faixa', header: 'Faixa de preço', render: (r) => String(r.faixa) },
+        ],
+        rows: mockClients.slice(0, 30).map((c) => ({
+          name: c.name,
+          interesse: c.interest,
+          faixa: `R$ ${c.priceRangeMin.toLocaleString('pt-BR')} - R$ ${c.priceRangeMax.toLocaleString('pt-BR')}`,
+        })),
+      },
+      {
+        id: 'visitas',
+        icon: <Calendar size={18} />,
+        label: 'Visitas Agendadas',
+        value: data.totalVisits + mockVisits.length,
+        series: monthlyCounts(mockVisits.map((v) => v.date)),
+        columns: [
+          { key: 'id', header: 'Visita', render: (r) => String(r.id) },
+          { key: 'data', header: 'Data', render: (r) => `${r.data} ${r.hora}` },
+          { key: 'status', header: 'Status', render: (r) => String(r.status) },
+        ],
+        rows: mockVisits.slice(0, 30).map((v) => ({ id: v.id, data: v.date, hora: v.time, status: v.status })),
+      },
+    ];
+  }, [data, mockProperties, mockClients, mockVisits, contracts]);
+
+  const insights = useMemo(
+    () =>
+      computeOpportunityRadar({
+        properties,
+        mockProperties,
+        clients,
+        mockClients,
+        visits: realVisits,
+        mockVisits,
+        contracts,
+        brokers,
+      }),
+    [properties, mockProperties, clients, mockClients, realVisits, mockVisits, contracts, brokers],
+  );
+
+  const activeKpiConfig = kpis.find((k) => k.id === activeKpi);
 
   return (
     <div className="space-y-6">
@@ -33,11 +149,7 @@ export function DashboardPage() {
             contratos e visitas em dashboards analíticos, com o Aion como seu consultor imobiliário inteligente.
           </p>
           <div className="mt-6 flex flex-wrap items-center gap-3">
-            <Button
-              onClick={() => document.getElementById('ai-phrase-input')?.focus()}
-              variant="primary"
-              size="sm"
-            >
+            <Button onClick={() => document.getElementById('ai-phrase-input')?.focus()} variant="primary" size="sm">
               <Sparkles size={14} /> Experimentar busca por IA
             </Button>
             <Button onClick={() => navigate('/clientes')} variant="secondary" size="sm">
@@ -60,11 +172,21 @@ export function DashboardPage() {
         ) : (
           <div className="grid grid-cols-2 gap-4 md:grid-cols-3 lg:grid-cols-5">
             {kpis.map((kpi) => (
-              <KpiCard key={kpi.label} icon={kpi.icon} label={kpi.label} value={String(kpi.value)} />
+              <KpiCard
+                key={kpi.id}
+                icon={kpi.icon}
+                label={kpi.label}
+                value={kpi.value.toLocaleString('pt-BR')}
+                deltaPct={percentChange(kpi.series)}
+                sparkline={<Sparkline data={kpi.series} />}
+                onClick={() => setActiveKpi(kpi.id)}
+              />
             ))}
           </div>
         )}
       </div>
+
+      <OpportunityRadar insights={insights} />
 
       <div className="grid grid-cols-1 gap-6 lg:grid-cols-12">
         <Card className="lg:col-span-8">
@@ -153,6 +275,20 @@ export function DashboardPage() {
           </Card>
         </div>
       </div>
+
+      {activeKpiConfig && (
+        <AnalyticsDrawer
+          open={!!activeKpi}
+          onClose={() => setActiveKpi(null)}
+          title={activeKpiConfig.label}
+          chart={<LineChart data={activeKpiConfig.series.map((s, i) => ({ mes: `M${i + 1}`, valor: s.value }))} xKey="mes" series={[{ key: 'valor', label: activeKpiConfig.label }]} />}
+          columns={activeKpiConfig.columns}
+          exportColumns={activeKpiConfig.columns.map((c) => ({ key: c.key, header: c.header }))}
+          rows={activeKpiConfig.rows}
+          rowKey={(r) => JSON.stringify(r)}
+          toExportRow={(r) => r}
+        />
+      )}
     </div>
   );
 }

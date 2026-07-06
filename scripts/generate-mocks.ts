@@ -61,6 +61,35 @@ const CITIES: City[] = [
 ];
 
 const PROPERTY_TYPES = ['casa', 'apartamento', 'terreno', 'chácara'] as const;
+
+// faker's pt_BR locale has no localized location.county() data (it falls
+// back to English county names), so bairros are drawn from a curated list
+// of common Brazilian neighborhood names instead.
+const BAIRROS = [
+  'Centro',
+  'Jardim América',
+  'Vila Nova',
+  'Boa Vista',
+  'Santa Mônica',
+  'Jardim Europa',
+  'Vila Madalena',
+  'Bela Vista',
+  'Cidade Jardim',
+  'Jardim Botânico',
+  'Vila Mariana',
+  'Alto da Boa Vista',
+  'Jardim das Flores',
+  'Vila Isabel',
+  'Parque das Nações',
+  'Jardim Paulista',
+  'Vila Olímpia',
+  'Recreio',
+  'Itaim Bibi',
+  'Moema',
+];
+function randomBairro() {
+  return faker.helpers.arrayElement(BAIRROS);
+}
 const AMENITY_POOL = [
   'piscina',
   'churrasqueira',
@@ -167,7 +196,7 @@ const mockProperties = Array.from({ length: PROPERTY_COUNT }, (_, i) => {
     code: `KRS-${10000 + i}`,
     type,
     address: faker.location.streetAddress(),
-    bairro: faker.location.county(),
+    bairro: randomBairro(),
     cidade: city.cidade,
     price,
     builtArea,
@@ -359,7 +388,7 @@ const leads = Array.from({ length: LEAD_COUNT }, (_, i) => {
     phone: faker.phone.number({ style: 'national' }),
     propertyType: faker.helpers.arrayElement(PROPERTY_TYPES),
     cidade: city.cidade,
-    bairro: faker.location.county(),
+    bairro: randomBairro(),
     estimatedValue: faker.number.int({ min: 120000, max: 2500000 }),
     stage: faker.helpers.arrayElement(['novo', 'contato', 'visita_agendada', 'avaliacao', 'captado', 'perdido'] as const),
     brokerId: broker.id,
@@ -373,14 +402,26 @@ const financeCategories = {
   entrada: ['Comissão de venda', 'Comissão de locação', 'Taxa de administração', 'Taxa de captação'],
   saida: ['Marketing', 'Folha de pagamento', 'Manutenção de imóveis', 'Despesas administrativas'],
 };
+// faker.finance.transactionDescription() isn't localized (English text +
+// random foreign currency codes), so descriptions are built from
+// Portuguese templates per category instead.
+function financeDescription(category: string, relatedContract: (typeof contracts)[number] | null) {
+  if (relatedContract) {
+    return `${category} referente ao contrato ${relatedContract.id} (${relatedContract.tipo})`;
+  }
+  const company = faker.company.name();
+  return `${category} · ${company}`;
+}
+
 const finance = Array.from({ length: FINANCE_COUNT }, (_, i) => {
   const type = faker.helpers.arrayElement(['entrada', 'saida'] as const);
   const relatedContract = type === 'entrada' && faker.datatype.boolean(0.6) ? faker.helpers.arrayElement(contracts) : null;
+  const category = faker.helpers.arrayElement(financeCategories[type]);
   return {
     id: `FIN-${pad(i + 1)}`,
     type,
-    category: faker.helpers.arrayElement(financeCategories[type]),
-    description: faker.finance.transactionDescription(),
+    category,
+    description: financeDescription(category, relatedContract),
     value: relatedContract ? relatedContract.commission : faker.number.int({ min: 800, max: 45000 }),
     date: isoDate(daysAgo(faker.number.int({ min: 0, max: 365 }))),
     relatedContractId: relatedContract?.id,
