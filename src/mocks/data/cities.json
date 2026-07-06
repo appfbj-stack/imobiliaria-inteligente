@@ -1,0 +1,86 @@
+[
+  {
+    "cidade": "Blumenau",
+    "uf": "SC",
+    "lat": -26.9194,
+    "lng": -49.0661,
+    "priceMultiplier": 1
+  },
+  {
+    "cidade": "Balneário Camboriú",
+    "uf": "SC",
+    "lat": -26.9926,
+    "lng": -48.6353,
+    "priceMultiplier": 1.6
+  },
+  {
+    "cidade": "Florianópolis",
+    "uf": "SC",
+    "lat": -27.5954,
+    "lng": -48.548,
+    "priceMultiplier": 1.7
+  },
+  {
+    "cidade": "Curitiba",
+    "uf": "PR",
+    "lat": -25.4284,
+    "lng": -49.2733,
+    "priceMultiplier": 1.2
+  },
+  {
+    "cidade": "São Paulo",
+    "uf": "SP",
+    "lat": -23.5505,
+    "lng": -46.6333,
+    "priceMultiplier": 1.9
+  },
+  {
+    "cidade": "Campinas",
+    "uf": "SP",
+    "lat": -22.9099,
+    "lng": -47.0626,
+    "priceMultiplier": 1.15
+  },
+  {
+    "cidade": "Sorocaba",
+    "uf": "SP",
+    "lat": -23.5015,
+    "lng": -47.4526,
+    "priceMultiplier": 1
+  },
+  {
+    "cidade": "Ribeirão Preto",
+    "uf": "SP",
+    "lat": -21.1775,
+    "lng": -47.8103,
+    "priceMultiplier": 1.05
+  },
+  {
+    "cidade": "Santos",
+    "uf": "SP",
+    "lat": -23.9608,
+    "lng": -46.3336,
+    "priceMultiplier": 1.3
+  },
+  {
+    "cidade": "Rio de Janeiro",
+    "uf": "RJ",
+    "lat": -22.9068,
+    "lng": -43.1729,
+    "priceMultiplier": 1.75
+  },
+  {
+    "cidade": "Belo Horizonte",
+    "uf": "MG",
+    "lat": -19.9167,
+    "lng": -43.9345,
+    "priceMultiplier": 1.1
+  },
+  {
+    "cidade": "Porto Alegre",
+    "uf": "RS",
+    "lat": -30.0346,
+    "lng": -51.2177,
+    "priceMultiplier": 1.1
+  }
+]

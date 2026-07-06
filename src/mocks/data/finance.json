@@ -1,0 +1,3317 @@
+[
+  {
+    "id": "FIN-0001",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Payment of BYN 698.33 for payment at Xavier-Moraes, processed with card ending ****1711 linked to account ***3124.",
+    "value": 10744,
+    "date": "2025-08-01"
+  },
+  {
+    "id": "FIN-0002",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Payment of AOA 845.42 for payment at Moreira, Macedo e Costa, processed with card ending ****7265 linked to account ***6952.",
+    "value": 28513,
+    "date": "2025-11-23"
+  },
+  {
+    "id": "FIN-0003",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Payment of NOK 28.85 for payment at Franco-Santos, processed with card ending ****9822 linked to account ***9204.",
+    "value": 12149,
+    "date": "2026-03-18"
+  },
+  {
+    "id": "FIN-0004",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "payment at Moraes-Batista with a card ending in ****6804 for RWF 870.35 from account ***3522.",
+    "value": 19710,
+    "date": "2025-10-22"
+  },
+  {
+    "id": "FIN-0005",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Transaction alert: invoice at Macedo, Batista e Silva using card ending ****1668 for an amount of GEL 461.14 on account ***5128.",
+    "value": 8178,
+    "date": "2026-05-14",
+    "relatedContractId": "CTR-0446"
+  },
+  {
+    "id": "FIN-0006",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "invoice at Martins Comércio with a card ending in ****6059 for PKR 708.99 from account ***7041.",
+    "value": 19132,
+    "date": "2025-10-09"
+  },
+  {
+    "id": "FIN-0007",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "deposit at Albuquerque, Martins e Franco with a card ending in ****1996 for BAM 328.49 from account ***7559.",
+    "value": 59,
+    "date": "2026-06-05",
+    "relatedContractId": "CTR-0513"
+  },
+  {
+    "id": "FIN-0008",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Transaction alert: invoice at Costa LTDA using card ending ****9055 for an amount of QAR 937.68 on account ***3223.",
+    "value": 6075,
+    "date": "2026-07-05"
+  },
+  {
+    "id": "FIN-0009",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Your withdrawal of ERN 775.88 at Souza LTDA was successful. Charged via card ****0341 to account ***6570.",
+    "value": 30721,
+    "date": "2026-01-08"
+  },
+  {
+    "id": "FIN-0010",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "deposit confirmed at Franco S.A. for CDF 603.81, card ending in ****6777 associated with account ***8066.",
+    "value": 2460,
+    "date": "2026-01-16"
+  },
+  {
+    "id": "FIN-0011",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "You made a deposit of UYU 34.36 at Saraiva-Martins using card ending in ****2689 from account ***2484.",
+    "value": 7052,
+    "date": "2026-01-13"
+  },
+  {
+    "id": "FIN-0012",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Payment of XPF 777.99 for invoice at Moreira-Martins, processed with card ending ****3810 linked to account ***3943.",
+    "value": 3182,
+    "date": "2025-11-06"
+  },
+  {
+    "id": "FIN-0013",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "You made a payment of CLP 708.43 at Melo Comércio using card ending in ****2132 from account ***3901.",
+    "value": 23717,
+    "date": "2025-10-08"
+  },
+  {
+    "id": "FIN-0014",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "payment transaction at Saraiva LTDA using card ending with ****1980 for BBD 466.87 in account ***5566.",
+    "value": 42244,
+    "date": "2026-02-11"
+  },
+  {
+    "id": "FIN-0015",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Your withdrawal of NOK 737.14 at Martins, Melo e Saraiva was successful. Charged via card ****8143 to account ***9355.",
+    "value": 77596,
+    "date": "2025-10-18",
+    "relatedContractId": "CTR-0429"
+  },
+  {
+    "id": "FIN-0016",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "withdrawal confirmed at Moraes-Moraes for FKP 915.96, card ending in ****2292 associated with account ***7479.",
+    "value": 33837,
+    "date": "2026-01-08"
+  },
+  {
+    "id": "FIN-0017",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "deposit of ISK 92.60 at Melo e Associados charged to account ending in 8425 using card ending in ****7427.",
+    "value": 38265,
+    "date": "2026-04-07"
+  },
+  {
+    "id": "FIN-0018",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "deposit of XOF 494.98 at Macedo S.A. charged to account ending in 2913 using card ending in ****8870.",
+    "value": 31629,
+    "date": "2026-01-23",
+    "relatedContractId": "CTR-0052"
+  },
+  {
+    "id": "FIN-0019",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "A withdrawal of GMD 361.98 occurred at Moraes-Barros using a card ending in ****7622 for account ***2755.",
+    "value": 57294,
+    "date": "2025-08-07",
+    "relatedContractId": "CTR-0205"
+  },
+  {
+    "id": "FIN-0020",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "payment confirmed at Barros S.A. for BWP 598.20, card ending in ****1505 associated with account ***5007.",
+    "value": 23377,
+    "date": "2026-04-20"
+  },
+  {
+    "id": "FIN-0021",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "deposit at Melo LTDA with a card ending in ****3485 for NGN 42.48 from account ***4621.",
+    "value": 1824,
+    "date": "2026-05-02"
+  },
+  {
+    "id": "FIN-0022",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "withdrawal of LAK 649.18 at Franco S.A. charged to account ending in 9927 using card ending in ****1490.",
+    "value": 31566,
+    "date": "2025-07-21"
+  },
+  {
+    "id": "FIN-0023",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "You made a payment of AED 259.62 at Martins, Reis e Carvalho using card ending in ****5909 from account ***0216.",
+    "value": 39906,
+    "date": "2026-06-13"
+  },
+  {
+    "id": "FIN-0024",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Your invoice of ZAR 816.67 at Silva S.A. was successful. Charged via card ****5221 to account ***6188.",
+    "value": 1831,
+    "date": "2025-11-10"
+  },
+  {
+    "id": "FIN-0025",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "payment confirmed at Moraes e Associados for BBD 771.41, card ending in ****9936 associated with account ***6448.",
+    "value": 18429,
+    "date": "2025-07-09"
+  },
+  {
+    "id": "FIN-0026",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "A withdrawal of AUD 320.92 occurred at Pereira, Carvalho e Carvalho using a card ending in ****1432 for account ***7957.",
+    "value": 5230,
+    "date": "2026-03-20",
+    "relatedContractId": "CTR-0149"
+  },
+  {
+    "id": "FIN-0027",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Your withdrawal of SRD 353.69 at Moreira, Macedo e Santos was successful. Charged via card ****0725 to account ***2728.",
+    "value": 48324,
+    "date": "2026-04-05",
+    "relatedContractId": "CTR-0393"
+  },
+  {
+    "id": "FIN-0028",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Transaction alert: withdrawal at Costa, Saraiva e Melo using card ending ****5866 for an amount of BTN 352.87 on account ***8386.",
+    "value": 12484,
+    "date": "2026-05-03"
+  },
+  {
+    "id": "FIN-0029",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "invoice at Saraiva S.A. with a card ending in ****3677 for XCD 543.53 from account ***1168.",
+    "value": 11232,
+    "date": "2025-08-31"
+  },
+  {
+    "id": "FIN-0030",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "deposit processed at Costa e Associados for IRR 282.95, using card ending ****1852. Account: ***5905.",
+    "value": 27830,
+    "date": "2026-05-22"
+  },
+  {
+    "id": "FIN-0031",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "deposit of NZD 583.72 at Santos S.A. charged to account ending in 3450 using card ending in ****5435.",
+    "value": 13253,
+    "date": "2026-04-20"
+  },
+  {
+    "id": "FIN-0032",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Payment of CNY 604.07 for invoice at Melo, Franco e Barros, processed with card ending ****8626 linked to account ***7329.",
+    "value": 36402,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FIN-0033",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "withdrawal confirmed at Souza, Braga e Souza for SLE 259.83, card ending in ****6218 associated with account ***4027.",
+    "value": 66985,
+    "date": "2026-04-30",
+    "relatedContractId": "CTR-0398"
+  },
+  {
+    "id": "FIN-0034",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "deposit confirmed at Braga, Macedo e Pereira for LSL 23.32, card ending in ****4542 associated with account ***0160.",
+    "value": 11289,
+    "date": "2026-05-22"
+  },
+  {
+    "id": "FIN-0035",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "You made a payment of GIP 519.28 at Martins, Santos e Melo using card ending in ****6692 from account ***2793.",
+    "value": 11258,
+    "date": "2026-03-29"
+  },
+  {
+    "id": "FIN-0036",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Your withdrawal of TND 565.99 at Santos-Moreira was successful. Charged via card ****6662 to account ***0795.",
+    "value": 1841,
+    "date": "2025-11-04"
+  },
+  {
+    "id": "FIN-0037",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "A invoice for CUP 256.92 was made at Costa Comércio via card ending ****6121 on account ***5595.",
+    "value": 12756,
+    "date": "2026-03-20"
+  },
+  {
+    "id": "FIN-0038",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Payment of GBP 268.24 for withdrawal at Xavier-Santos, processed with card ending ****9896 linked to account ***1809.",
+    "value": 30778,
+    "date": "2026-05-06"
+  },
+  {
+    "id": "FIN-0039",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "A withdrawal of PYG 193.99 occurred at Melo-Santos using a card ending in ****4118 for account ***8774.",
+    "value": 32785,
+    "date": "2025-09-21"
+  },
+  {
+    "id": "FIN-0040",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "You made a withdrawal of GYD 189.26 at Barros, Barros e Moreira using card ending in ****1823 from account ***9064.",
+    "value": 17592,
+    "date": "2026-06-24"
+  },
+  {
+    "id": "FIN-0041",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "deposit processed at Nogueira-Reis for FKP 975.08, using card ending ****4326. Account: ***2304.",
+    "value": 34721,
+    "date": "2026-02-27"
+  },
+  {
+    "id": "FIN-0042",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "invoice processed at Pereira-Xavier for NOK 240.61, using card ending ****4880. Account: ***2318.",
+    "value": 6565,
+    "date": "2026-05-06"
+  },
+  {
+    "id": "FIN-0043",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Your payment of LKR 809.86 at Braga, Macedo e Xavier was successful. Charged via card ****0212 to account ***8814.",
+    "value": 11011,
+    "date": "2026-05-16"
+  },
+  {
+    "id": "FIN-0044",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "You made a deposit of HTG 308.15 at Reis-Souza using card ending in ****1366 from account ***9441.",
+    "value": 2903,
+    "date": "2026-03-19"
+  },
+  {
+    "id": "FIN-0045",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Payment of MOP 253.94 for payment at Pereira, Pereira e Moreira, processed with card ending ****3754 linked to account ***7521.",
+    "value": 17799,
+    "date": "2026-02-03",
+    "relatedContractId": "CTR-0204"
+  },
+  {
+    "id": "FIN-0046",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Transaction alert: deposit at Melo, Saraiva e Santos using card ending ****2654 for an amount of GNF 936.17 on account ***7032.",
+    "value": 77,
+    "date": "2026-02-05",
+    "relatedContractId": "CTR-0660"
+  },
+  {
+    "id": "FIN-0047",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "payment processed at Batista, Oliveira e Santos for AZN 968.56, using card ending ****7818. Account: ***0124.",
+    "value": 10703,
+    "date": "2025-08-15",
+    "relatedContractId": "CTR-0219"
+  },
+  {
+    "id": "FIN-0048",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Your payment of AMD 122.76 at Melo LTDA was successful. Charged via card ****1151 to account ***7563.",
+    "value": 4061,
+    "date": "2026-07-05",
+    "relatedContractId": "CTR-0138"
+  },
+  {
+    "id": "FIN-0049",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Payment of BIF 230.40 for deposit at Melo, Nogueira e Franco, processed with card ending ****1643 linked to account ***7131.",
+    "value": 120824,
+    "date": "2026-06-12",
+    "relatedContractId": "CTR-0444"
+  },
+  {
+    "id": "FIN-0050",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "invoice confirmed at Albuquerque, Santos e Barros for DKK 419.51, card ending in ****2103 associated with account ***8325.",
+    "value": 41682,
+    "date": "2025-10-28"
+  },
+  {
+    "id": "FIN-0051",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "A withdrawal for BZD 198.92 was made at Franco Comércio via card ending ****8010 on account ***5371.",
+    "value": 29507,
+    "date": "2025-11-04"
+  },
+  {
+    "id": "FIN-0052",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "deposit of KGS 900.13 at Carvalho-Oliveira charged to account ending in 5956 using card ending in ****6447.",
+    "value": 28141,
+    "date": "2025-10-31",
+    "relatedContractId": "CTR-0067"
+  },
+  {
+    "id": "FIN-0053",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Transaction alert: deposit at Carvalho-Moraes using card ending ****7588 for an amount of MWK 920.94 on account ***9197.",
+    "value": 28452,
+    "date": "2025-07-31"
+  },
+  {
+    "id": "FIN-0054",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "A invoice of ILS 257.26 occurred at Oliveira e Associados using a card ending in ****9565 for account ***1833.",
+    "value": 29297,
+    "date": "2025-10-16"
+  },
+  {
+    "id": "FIN-0055",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "payment confirmed at Franco, Batista e Moraes for BGN 444.12, card ending in ****8605 associated with account ***1300.",
+    "value": 10093,
+    "date": "2025-10-12"
+  },
+  {
+    "id": "FIN-0056",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Your deposit of LKR 799.48 at Melo, Pereira e Nogueira was successful. Charged via card ****5383 to account ***5081.",
+    "value": 33847,
+    "date": "2025-07-14"
+  },
+  {
+    "id": "FIN-0057",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "deposit processed at Batista-Macedo for SGD 272.61, using card ending ****7550. Account: ***1842.",
+    "value": 30971,
+    "date": "2025-08-26"
+  },
+  {
+    "id": "FIN-0058",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "A deposit for MZN 701.94 was made at Nogueira-Braga via card ending ****7084 on account ***5721.",
+    "value": 22653,
+    "date": "2025-08-13"
+  },
+  {
+    "id": "FIN-0059",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "payment confirmed at Albuquerque, Saraiva e Moraes for CDF 498.75, card ending in ****5059 associated with account ***0516.",
+    "value": 4540,
+    "date": "2025-08-10"
+  },
+  {
+    "id": "FIN-0060",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "withdrawal processed at Melo, Silva e Carvalho for AUD 622.15, using card ending ****6160. Account: ***2404.",
+    "value": 9776,
+    "date": "2026-03-27"
+  },
+  {
+    "id": "FIN-0061",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "A deposit for AZN 186.26 was made at Saraiva, Franco e Xavier via card ending ****4209 on account ***1104.",
+    "value": 18851,
+    "date": "2025-09-11"
+  },
+  {
+    "id": "FIN-0062",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "payment of MRU 928.53 at Oliveira, Santos e Franco charged to account ending in 7979 using card ending in ****1978.",
+    "value": 19404,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FIN-0063",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "A deposit of BWP 828.11 occurred at Pereira, Reis e Xavier using a card ending in ****6610 for account ***0666.",
+    "value": 28428,
+    "date": "2025-10-28"
+  },
+  {
+    "id": "FIN-0064",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "deposit at Batista-Saraiva with a card ending in ****7888 for UAH 263.50 from account ***8091.",
+    "value": 39851,
+    "date": "2025-09-15"
+  },
+  {
+    "id": "FIN-0065",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Transaction alert: invoice at Saraiva S.A. using card ending ****5652 for an amount of INR 818.39 on account ***0068.",
+    "value": 28084,
+    "date": "2025-09-30"
+  },
+  {
+    "id": "FIN-0066",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "You made a withdrawal of NOK 177.48 at Melo-Carvalho using card ending in ****3698 from account ***2653.",
+    "value": 14106,
+    "date": "2026-01-05"
+  },
+  {
+    "id": "FIN-0067",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "deposit of CLP 237.72 at Albuquerque Comércio charged to account ending in 6689 using card ending in ****7375.",
+    "value": 42484,
+    "date": "2025-08-09"
+  },
+  {
+    "id": "FIN-0068",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "A withdrawal of UAH 750.92 occurred at Batista, Silva e Batista using a card ending in ****5245 for account ***0714.",
+    "value": 39311,
+    "date": "2025-09-09"
+  },
+  {
+    "id": "FIN-0069",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Payment of IRR 101.00 for invoice at Batista LTDA, processed with card ending ****0669 linked to account ***4994.",
+    "value": 14746,
+    "date": "2026-01-09"
+  },
+  {
+    "id": "FIN-0070",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "A payment of DKK 884.64 occurred at Santos-Martins using a card ending in ****5576 for account ***0204.",
+    "value": 765,
+    "date": "2026-01-11",
+    "relatedContractId": "CTR-0602"
+  },
+  {
+    "id": "FIN-0071",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "A payment of QAR 206.15 occurred at Batista-Moraes using a card ending in ****8534 for account ***0598.",
+    "value": 46586,
+    "date": "2026-06-11",
+    "relatedContractId": "CTR-0277"
+  },
+  {
+    "id": "FIN-0072",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "payment confirmed at Pereira, Franco e Melo for SHP 791.99, card ending in ****0534 associated with account ***3590.",
+    "value": 58954,
+    "date": "2026-04-19",
+    "relatedContractId": "CTR-0441"
+  },
+  {
+    "id": "FIN-0073",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "You made a invoice of CHF 272.51 at Melo, Batista e Macedo using card ending in ****2223 from account ***2029.",
+    "value": 42554,
+    "date": "2025-10-18"
+  },
+  {
+    "id": "FIN-0074",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Your invoice of IRR 542.21 at Pereira, Carvalho e Batista was successful. Charged via card ****0996 to account ***0757.",
+    "value": 54,
+    "date": "2026-02-05",
+    "relatedContractId": "CTR-0631"
+  },
+  {
+    "id": "FIN-0075",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "withdrawal at Santos LTDA with a card ending in ****3066 for RWF 742.62 from account ***1815.",
+    "value": 36022,
+    "date": "2025-07-06"
+  },
+  {
+    "id": "FIN-0076",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Your invoice of XCD 574.89 at Silva-Melo was successful. Charged via card ****0178 to account ***3176.",
+    "value": 32736,
+    "date": "2026-06-16",
+    "relatedContractId": "CTR-0223"
+  },
+  {
+    "id": "FIN-0077",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "A deposit of CVE 160.15 occurred at Franco Comércio using a card ending in ****6908 for account ***7592.",
+    "value": 2750,
+    "date": "2025-09-23"
+  },
+  {
+    "id": "FIN-0078",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Payment of TTD 533.49 for invoice at Saraiva S.A., processed with card ending ****3396 linked to account ***8724.",
+    "value": 4506,
+    "date": "2025-09-03"
+  },
+  {
+    "id": "FIN-0079",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "A withdrawal of UGX 161.00 occurred at Souza-Souza using a card ending in ****5564 for account ***3745.",
+    "value": 16570,
+    "date": "2025-12-02"
+  },
+  {
+    "id": "FIN-0080",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "payment transaction at Moreira, Souza e Carvalho using card ending with ****5780 for GHS 204.55 in account ***2404.",
+    "value": 33218,
+    "date": "2026-01-06"
+  },
+  {
+    "id": "FIN-0081",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "withdrawal transaction at Franco-Albuquerque using card ending with ****0105 for BDT 652.57 in account ***2768.",
+    "value": 21313,
+    "date": "2026-02-13"
+  },
+  {
+    "id": "FIN-0082",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "withdrawal transaction at Saraiva-Franco using card ending with ****3609 for BGN 380.24 in account ***0588.",
+    "value": 134596,
+    "date": "2026-01-21",
+    "relatedContractId": "CTR-0251"
+  },
+  {
+    "id": "FIN-0083",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Payment of KRW 972.48 for deposit at Moreira, Moreira e Saraiva, processed with card ending ****0076 linked to account ***0225.",
+    "value": 6314,
+    "date": "2026-03-14",
+    "relatedContractId": "CTR-0104"
+  },
+  {
+    "id": "FIN-0084",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "invoice confirmed at Saraiva EIRELI for MKD 649.63, card ending in ****9436 associated with account ***2344.",
+    "value": 1339,
+    "date": "2026-05-18",
+    "relatedContractId": "CTR-0730"
+  },
+  {
+    "id": "FIN-0085",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "payment transaction at Melo e Associados using card ending with ****9490 for BZD 191.77 in account ***0655.",
+    "value": 83593,
+    "date": "2026-04-02",
+    "relatedContractId": "CTR-0060"
+  },
+  {
+    "id": "FIN-0086",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Payment of XOF 14.68 for deposit at Xavier-Braga, processed with card ending ****7884 linked to account ***7968.",
+    "value": 35090,
+    "date": "2026-03-12"
+  },
+  {
+    "id": "FIN-0087",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Payment of BBD 509.40 for deposit at Braga, Barros e Santos, processed with card ending ****6121 linked to account ***5014.",
+    "value": 33266,
+    "date": "2026-03-25"
+  },
+  {
+    "id": "FIN-0088",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "payment confirmed at Xavier, Barros e Carvalho for PHP 748.10, card ending in ****6943 associated with account ***0273.",
+    "value": 14434,
+    "date": "2025-10-20"
+  },
+  {
+    "id": "FIN-0089",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "A deposit for KMF 589.14 was made at Reis, Oliveira e Barros via card ending ****1211 on account ***4585.",
+    "value": 21740,
+    "date": "2026-03-11"
+  },
+  {
+    "id": "FIN-0090",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "A payment of CAD 706.61 occurred at Silva EIRELI using a card ending in ****0087 for account ***1757.",
+    "value": 12685,
+    "date": "2026-06-10"
+  },
+  {
+    "id": "FIN-0091",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "invoice transaction at Pereira, Albuquerque e Nogueira using card ending with ****8798 for JOD 374.61 in account ***7238.",
+    "value": 6714,
+    "date": "2026-06-28"
+  },
+  {
+    "id": "FIN-0092",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "A payment of USD 394.98 occurred at Barros-Moreira using a card ending in ****1705 for account ***4011.",
+    "value": 32202,
+    "date": "2025-09-30"
+  },
+  {
+    "id": "FIN-0093",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "A invoice for DZD 936.28 was made at Barros-Macedo via card ending ****0227 on account ***2631.",
+    "value": 77838,
+    "date": "2026-01-04",
+    "relatedContractId": "CTR-0097"
+  },
+  {
+    "id": "FIN-0094",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "withdrawal at Silva EIRELI with a card ending in ****1564 for GNF 492.19 from account ***9648.",
+    "value": 887,
+    "date": "2026-04-26"
+  },
+  {
+    "id": "FIN-0095",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Your payment of NGN 564.59 at Carvalho e Associados was successful. Charged via card ****8323 to account ***0812.",
+    "value": 20648,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FIN-0096",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "A invoice for SBD 697.40 was made at Costa, Melo e Martins via card ending ****0025 on account ***6592.",
+    "value": 888,
+    "date": "2026-01-24",
+    "relatedContractId": "CTR-0656"
+  },
+  {
+    "id": "FIN-0097",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Payment of PAB 858.38 for invoice at Batista, Braga e Saraiva, processed with card ending ****5516 linked to account ***5406.",
+    "value": 23729,
+    "date": "2026-01-10"
+  },
+  {
+    "id": "FIN-0098",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "payment transaction at Reis Comércio using card ending with ****1063 for SSP 873.72 in account ***7551.",
+    "value": 28267,
+    "date": "2026-03-03"
+  },
+  {
+    "id": "FIN-0099",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "A withdrawal for BAM 182.99 was made at Oliveira-Souza via card ending ****7523 on account ***9553.",
+    "value": 5799,
+    "date": "2026-01-02"
+  },
+  {
+    "id": "FIN-0100",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Transaction alert: withdrawal at Oliveira-Carvalho using card ending ****2200 for an amount of MDL 728.29 on account ***2797.",
+    "value": 17165,
+    "date": "2025-09-19"
+  },
+  {
+    "id": "FIN-0101",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "A withdrawal for NPR 915.83 was made at Nogueira, Albuquerque e Moreira via card ending ****0546 on account ***9209.",
+    "value": 35102,
+    "date": "2025-10-20",
+    "relatedContractId": "CTR-0264"
+  },
+  {
+    "id": "FIN-0102",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Transaction alert: invoice at Franco, Reis e Moraes using card ending ****7834 for an amount of ARS 189.94 on account ***7353.",
+    "value": 9958,
+    "date": "2025-08-31"
+  },
+  {
+    "id": "FIN-0103",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "deposit processed at Santos LTDA for GHS 870.84, using card ending ****3288. Account: ***5243.",
+    "value": 4838,
+    "date": "2026-06-24"
+  },
+  {
+    "id": "FIN-0104",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "payment processed at Saraiva EIRELI for SSP 608.52, using card ending ****8870. Account: ***2426.",
+    "value": 2148,
+    "date": "2025-10-22"
+  },
+  {
+    "id": "FIN-0105",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Your deposit of TOP 804.85 at Barros Comércio was successful. Charged via card ****0490 to account ***7064.",
+    "value": 9330,
+    "date": "2025-08-21"
+  },
+  {
+    "id": "FIN-0106",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "deposit confirmed at Oliveira S.A. for IQD 950.80, card ending in ****6603 associated with account ***9322.",
+    "value": 3591,
+    "date": "2026-02-06"
+  },
+  {
+    "id": "FIN-0107",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "deposit of NPR 594.99 at Albuquerque, Xavier e Batista charged to account ending in 8256 using card ending in ****4414.",
+    "value": 32267,
+    "date": "2026-06-15"
+  },
+  {
+    "id": "FIN-0108",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "deposit of RUB 926.86 at Martins-Barros charged to account ending in 7380 using card ending in ****4879.",
+    "value": 42489,
+    "date": "2025-08-25"
+  },
+  {
+    "id": "FIN-0109",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "A withdrawal for LBP 937.88 was made at Carvalho, Martins e Moreira via card ending ****3250 on account ***5228.",
+    "value": 87811,
+    "date": "2025-12-21",
+    "relatedContractId": "CTR-0151"
+  },
+  {
+    "id": "FIN-0110",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "payment at Oliveira-Braga with a card ending in ****7251 for BMD 11.87 from account ***0971.",
+    "value": 42823,
+    "date": "2025-10-04"
+  },
+  {
+    "id": "FIN-0111",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Payment of PEN 26.80 for invoice at Souza e Associados, processed with card ending ****7435 linked to account ***0859.",
+    "value": 8857,
+    "date": "2026-05-05",
+    "relatedContractId": "CTR-0008"
+  },
+  {
+    "id": "FIN-0112",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Transaction alert: payment at Reis, Braga e Costa using card ending ****5218 for an amount of KGS 581.25 on account ***5852.",
+    "value": 44746,
+    "date": "2026-05-24"
+  },
+  {
+    "id": "FIN-0113",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "A invoice of YER 714.92 occurred at Xavier-Nogueira using a card ending in ****7208 for account ***6025.",
+    "value": 43538,
+    "date": "2026-04-25"
+  },
+  {
+    "id": "FIN-0114",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "A payment for BWP 292.50 was made at Albuquerque LTDA via card ending ****3048 on account ***9777.",
+    "value": 481,
+    "date": "2026-04-09",
+    "relatedContractId": "CTR-0676"
+  },
+  {
+    "id": "FIN-0115",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "deposit confirmed at Melo EIRELI for TND 707.51, card ending in ****5479 associated with account ***4564.",
+    "value": 83578,
+    "date": "2026-01-06",
+    "relatedContractId": "CTR-0167"
+  },
+  {
+    "id": "FIN-0116",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "deposit transaction at Martins e Associados using card ending with ****7613 for TZS 729.26 in account ***0365.",
+    "value": 44385,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FIN-0117",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Transaction alert: withdrawal at Albuquerque S.A. using card ending ****2845 for an amount of XCD 138.84 on account ***1115.",
+    "value": 5901,
+    "date": "2026-03-03"
+  },
+  {
+    "id": "FIN-0118",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "invoice processed at Oliveira-Xavier for CRC 169.94, using card ending ****6166. Account: ***5282.",
+    "value": 73463,
+    "date": "2025-12-22",
+    "relatedContractId": "CTR-0025"
+  },
+  {
+    "id": "FIN-0119",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "invoice processed at Santos EIRELI for MVR 178.12, using card ending ****8571. Account: ***7230.",
+    "value": 3751,
+    "date": "2026-04-30"
+  },
+  {
+    "id": "FIN-0120",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Payment of ILS 551.69 for invoice at Saraiva-Souza, processed with card ending ****5510 linked to account ***9047.",
+    "value": 5052,
+    "date": "2025-10-13",
+    "relatedContractId": "CTR-0281"
+  },
+  {
+    "id": "FIN-0121",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "deposit confirmed at Melo, Saraiva e Moraes for GNF 921.06, card ending in ****2230 associated with account ***5246.",
+    "value": 26651,
+    "date": "2026-03-15"
+  },
+  {
+    "id": "FIN-0122",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "payment confirmed at Barros, Carvalho e Carvalho for MYR 873.80, card ending in ****4602 associated with account ***9550.",
+    "value": 11662,
+    "date": "2025-09-24"
+  },
+  {
+    "id": "FIN-0123",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "deposit of QAR 695.23 at Pereira-Pereira charged to account ending in 8718 using card ending in ****5797.",
+    "value": 35200,
+    "date": "2025-11-26"
+  },
+  {
+    "id": "FIN-0124",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Transaction alert: withdrawal at Oliveira-Franco using card ending ****8590 for an amount of YER 882.66 on account ***7735.",
+    "value": 19621,
+    "date": "2025-09-13"
+  },
+  {
+    "id": "FIN-0125",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "You made a invoice of ISK 372.43 at Nogueira EIRELI using card ending in ****7096 from account ***7566.",
+    "value": 8456,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FIN-0126",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "deposit of MZN 226.99 at Costa-Reis charged to account ending in 0018 using card ending in ****1275.",
+    "value": 98185,
+    "date": "2025-09-11",
+    "relatedContractId": "CTR-0389"
+  },
+  {
+    "id": "FIN-0127",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Payment of PKR 421.27 for withdrawal at Melo-Silva, processed with card ending ****1977 linked to account ***8140.",
+    "value": 2922,
+    "date": "2025-08-26"
+  },
+  {
+    "id": "FIN-0128",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Your deposit of KPW 229.28 at Moraes, Souza e Macedo was successful. Charged via card ****8710 to account ***6926.",
+    "value": 15285,
+    "date": "2026-01-25"
+  },
+  {
+    "id": "FIN-0129",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "payment at Macedo, Batista e Carvalho with a card ending in ****2484 for MWK 537.41 from account ***8968.",
+    "value": 70930,
+    "date": "2026-03-19",
+    "relatedContractId": "CTR-0270"
+  },
+  {
+    "id": "FIN-0130",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Payment of BND 171.62 for payment at Braga-Carvalho, processed with card ending ****9857 linked to account ***6918.",
+    "value": 30349,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FIN-0131",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "A deposit for SEK 536.65 was made at Carvalho, Costa e Oliveira via card ending ****3602 on account ***9114.",
+    "value": 36346,
+    "date": "2026-04-22"
+  },
+  {
+    "id": "FIN-0132",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Your invoice of CDF 272.39 at Reis-Martins was successful. Charged via card ****0032 to account ***7239.",
+    "value": 38260,
+    "date": "2025-09-07"
+  },
+  {
+    "id": "FIN-0133",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Your withdrawal of HNL 552.74 at Souza-Batista was successful. Charged via card ****9304 to account ***0547.",
+    "value": 22055,
+    "date": "2025-10-28"
+  },
+  {
+    "id": "FIN-0134",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "You made a deposit of HTG 56.35 at Moraes-Saraiva using card ending in ****2815 from account ***2982.",
+    "value": 63166,
+    "date": "2026-03-23",
+    "relatedContractId": "CTR-0499"
+  },
+  {
+    "id": "FIN-0135",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "payment at Franco Comércio with a card ending in ****2651 for KYD 619.47 from account ***5746.",
+    "value": 20645,
+    "date": "2025-10-24"
+  },
+  {
+    "id": "FIN-0136",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "withdrawal of LKR 516.57 at Reis EIRELI charged to account ending in 1119 using card ending in ****6716.",
+    "value": 36481,
+    "date": "2026-06-09"
+  },
+  {
+    "id": "FIN-0137",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Payment of CNY 501.23 for payment at Xavier S.A., processed with card ending ****8229 linked to account ***7145.",
+    "value": 10826,
+    "date": "2026-03-07"
+  },
+  {
+    "id": "FIN-0138",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "A deposit for LAK 141.61 was made at Melo EIRELI via card ending ****3477 on account ***1243.",
+    "value": 4573,
+    "date": "2025-08-23"
+  },
+  {
+    "id": "FIN-0139",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "payment transaction at Batista-Moraes using card ending with ****8832 for RWF 247.99 in account ***3503.",
+    "value": 36494,
+    "date": "2026-04-23"
+  },
+  {
+    "id": "FIN-0140",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "A deposit for RUB 668.77 was made at Santos-Silva via card ending ****5031 on account ***8279.",
+    "value": 43064,
+    "date": "2026-03-21"
+  },
+  {
+    "id": "FIN-0141",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "withdrawal transaction at Costa e Associados using card ending with ****9476 for EGP 386.18 in account ***1242.",
+    "value": 36813,
+    "date": "2026-05-13"
+  },
+  {
+    "id": "FIN-0142",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "withdrawal confirmed at Batista, Macedo e Nogueira for PKR 40.50, card ending in ****1996 associated with account ***6905.",
+    "value": 117546,
+    "date": "2025-10-04",
+    "relatedContractId": "CTR-0297"
+  },
+  {
+    "id": "FIN-0143",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Payment of UAH 95.86 for withdrawal at Barros LTDA, processed with card ending ****9239 linked to account ***5715.",
+    "value": 32408,
+    "date": "2026-06-11"
+  },
+  {
+    "id": "FIN-0144",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "A invoice of PLN 287.38 occurred at Moraes Comércio using a card ending in ****6741 for account ***1973.",
+    "value": 9666,
+    "date": "2025-11-13"
+  },
+  {
+    "id": "FIN-0145",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Your deposit of WST 586.40 at Melo S.A. was successful. Charged via card ****3078 to account ***0898.",
+    "value": 2379,
+    "date": "2026-03-23"
+  },
+  {
+    "id": "FIN-0146",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Payment of INR 540.27 for deposit at Pereira, Melo e Braga, processed with card ending ****7737 linked to account ***3196.",
+    "value": 5260,
+    "date": "2026-05-25",
+    "relatedContractId": "CTR-0152"
+  },
+  {
+    "id": "FIN-0147",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "A payment for SEK 209.55 was made at Braga-Albuquerque via card ending ****3358 on account ***5063.",
+    "value": 30351,
+    "date": "2026-03-10",
+    "relatedContractId": "CTR-0036"
+  },
+  {
+    "id": "FIN-0148",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "deposit of CVE 322.34 at Costa-Batista charged to account ending in 2067 using card ending in ****0547.",
+    "value": 4632,
+    "date": "2026-05-09",
+    "relatedContractId": "CTR-0279"
+  },
+  {
+    "id": "FIN-0149",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Transaction alert: withdrawal at Braga, Santos e Braga using card ending ****2253 for an amount of DOP 121.53 on account ***6379.",
+    "value": 16980,
+    "date": "2025-09-28"
+  },
+  {
+    "id": "FIN-0150",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Your deposit of DZD 151.74 at Braga-Santos was successful. Charged via card ****1735 to account ***0569.",
+    "value": 40466,
+    "date": "2026-01-11"
+  },
+  {
+    "id": "FIN-0151",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "invoice at Oliveira-Saraiva with a card ending in ****2453 for AED 994.55 from account ***2782.",
+    "value": 62633,
+    "date": "2025-09-04",
+    "relatedContractId": "CTR-0428"
+  },
+  {
+    "id": "FIN-0152",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Your withdrawal of MKD 694.08 at Saraiva-Reis was successful. Charged via card ****2615 to account ***0051.",
+    "value": 30813,
+    "date": "2025-09-11"
+  },
+  {
+    "id": "FIN-0153",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Your withdrawal of SRD 239.68 at Macedo-Souza was successful. Charged via card ****6643 to account ***0595.",
+    "value": 72,
+    "date": "2025-12-17",
+    "relatedContractId": "CTR-0740"
+  },
+  {
+    "id": "FIN-0154",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "A withdrawal for CDF 481.58 was made at Xavier Comércio via card ending ****3113 on account ***3370.",
+    "value": 9565,
+    "date": "2025-10-06"
+  },
+  {
+    "id": "FIN-0155",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "invoice of KHR 796.84 at Carvalho Comércio charged to account ending in 2671 using card ending in ****1081.",
+    "value": 37274,
+    "date": "2025-08-15"
+  },
+  {
+    "id": "FIN-0156",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Payment of FKP 96.62 for withdrawal at Batista-Franco, processed with card ending ****8206 linked to account ***5649.",
+    "value": 623,
+    "date": "2026-04-06",
+    "relatedContractId": "CTR-0724"
+  },
+  {
+    "id": "FIN-0157",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "A deposit for SEK 802.52 was made at Macedo, Macedo e Melo via card ending ****1963 on account ***4007.",
+    "value": 289,
+    "date": "2026-02-09",
+    "relatedContractId": "CTR-0616"
+  },
+  {
+    "id": "FIN-0158",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "deposit of GNF 650.04 at Moraes S.A. charged to account ending in 0999 using card ending in ****2925.",
+    "value": 86,
+    "date": "2025-09-16",
+    "relatedContractId": "CTR-0584"
+  },
+  {
+    "id": "FIN-0159",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Transaction alert: withdrawal at Martins-Franco using card ending ****1956 for an amount of CLP 469.44 on account ***6180.",
+    "value": 8321,
+    "date": "2025-07-24"
+  },
+  {
+    "id": "FIN-0160",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "payment at Batista, Santos e Reis with a card ending in ****7708 for GYD 729.33 from account ***3559.",
+    "value": 39633,
+    "date": "2025-08-16"
+  },
+  {
+    "id": "FIN-0161",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "payment confirmed at Melo, Carvalho e Melo for MVR 6.38, card ending in ****4399 associated with account ***0323.",
+    "value": 35286,
+    "date": "2026-02-16"
+  },
+  {
+    "id": "FIN-0162",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "A withdrawal of BBD 816.53 occurred at Reis S.A. using a card ending in ****8541 for account ***0660.",
+    "value": 19229,
+    "date": "2025-11-02"
+  },
+  {
+    "id": "FIN-0163",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Your payment of TND 744.52 at Souza-Melo was successful. Charged via card ****1939 to account ***2463.",
+    "value": 23530,
+    "date": "2025-08-06",
+    "relatedContractId": "CTR-0493"
+  },
+  {
+    "id": "FIN-0164",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "A withdrawal of SBD 423.54 occurred at Franco-Barros using a card ending in ****4389 for account ***8084.",
+    "value": 30952,
+    "date": "2026-01-08"
+  },
+  {
+    "id": "FIN-0165",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "A withdrawal for VND 738.11 was made at Batista Comércio via card ending ****1998 on account ***3013.",
+    "value": 32659,
+    "date": "2025-11-20"
+  },
+  {
+    "id": "FIN-0166",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "A withdrawal for LKR 573.65 was made at Barros, Silva e Costa via card ending ****8911 on account ***1406.",
+    "value": 28111,
+    "date": "2025-07-10"
+  },
+  {
+    "id": "FIN-0167",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "A invoice of VES 97.31 occurred at Santos, Silva e Reis using a card ending in ****1853 for account ***7178.",
+    "value": 29308,
+    "date": "2026-01-08"
+  },
+  {
+    "id": "FIN-0168",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Payment of LKR 43.93 for deposit at Silva-Silva, processed with card ending ****4739 linked to account ***9773.",
+    "value": 91951,
+    "date": "2025-12-31",
+    "relatedContractId": "CTR-0358"
+  },
+  {
+    "id": "FIN-0169",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "payment of HNL 287.77 at Braga-Saraiva charged to account ending in 8333 using card ending in ****5035.",
+    "value": 35250,
+    "date": "2026-06-12"
+  },
+  {
+    "id": "FIN-0170",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "withdrawal confirmed at Batista S.A. for CVE 949.82, card ending in ****1171 associated with account ***6808.",
+    "value": 36439,
+    "date": "2025-07-29"
+  },
+  {
+    "id": "FIN-0171",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Your invoice of MXN 701.08 at Santos-Reis was successful. Charged via card ****3374 to account ***8605.",
+    "value": 5814,
+    "date": "2025-09-11"
+  },
+  {
+    "id": "FIN-0172",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Transaction alert: invoice at Pereira-Albuquerque using card ending ****5602 for an amount of USD 505.48 on account ***2085.",
+    "value": 1293,
+    "date": "2026-07-02"
+  },
+  {
+    "id": "FIN-0173",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "invoice transaction at Carvalho-Oliveira using card ending with ****8367 for NGN 726.62 in account ***7353.",
+    "value": 95004,
+    "date": "2025-09-20",
+    "relatedContractId": "CTR-0212"
+  },
+  {
+    "id": "FIN-0174",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Payment of KYD 166.64 for deposit at Saraiva Comércio, processed with card ending ****3384 linked to account ***4634.",
+    "value": 39247,
+    "date": "2025-08-02"
+  },
+  {
+    "id": "FIN-0175",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "A payment for TZS 708.85 was made at Braga, Moreira e Moreira via card ending ****1142 on account ***8838.",
+    "value": 37608,
+    "date": "2025-08-10"
+  },
+  {
+    "id": "FIN-0176",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "payment at Moraes Comércio with a card ending in ****5492 for JPY 748.68 from account ***9238.",
+    "value": 37453,
+    "date": "2026-06-27"
+  },
+  {
+    "id": "FIN-0177",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "invoice at Silva EIRELI with a card ending in ****0182 for NIO 398.16 from account ***7232.",
+    "value": 4373,
+    "date": "2026-04-02",
+    "relatedContractId": "CTR-0148"
+  },
+  {
+    "id": "FIN-0178",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "A invoice of SEK 641.90 occurred at Costa-Silva using a card ending in ****9691 for account ***7788.",
+    "value": 81449,
+    "date": "2026-03-24",
+    "relatedContractId": "CTR-0020"
+  },
+  {
+    "id": "FIN-0179",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "withdrawal transaction at Albuquerque, Costa e Moreira using card ending with ****6278 for MKD 188.57 in account ***6216.",
+    "value": 4933,
+    "date": "2025-09-27"
+  },
+  {
+    "id": "FIN-0180",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "A deposit for PKR 367.97 was made at Nogueira Comércio via card ending ****4929 on account ***6551.",
+    "value": 428,
+    "date": "2026-02-27",
+    "relatedContractId": "CTR-0645"
+  },
+  {
+    "id": "FIN-0181",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Your deposit of DZD 371.81 at Nogueira S.A. was successful. Charged via card ****9508 to account ***7154.",
+    "value": 24938,
+    "date": "2025-09-12",
+    "relatedContractId": "CTR-0250"
+  },
+  {
+    "id": "FIN-0182",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "payment of BBD 227.70 at Souza, Santos e Santos charged to account ending in 2670 using card ending in ****9616.",
+    "value": 16437,
+    "date": "2026-02-28"
+  },
+  {
+    "id": "FIN-0183",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "A invoice for PEN 142.44 was made at Saraiva, Silva e Santos via card ending ****9499 on account ***3770.",
+    "value": 389,
+    "date": "2025-09-04",
+    "relatedContractId": "CTR-0563"
+  },
+  {
+    "id": "FIN-0184",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "invoice of LKR 421.01 at Santos S.A. charged to account ending in 4705 using card ending in ****4227.",
+    "value": 66565,
+    "date": "2026-01-03",
+    "relatedContractId": "CTR-0438"
+  },
+  {
+    "id": "FIN-0185",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Transaction alert: invoice at Saraiva Comércio using card ending ****5120 for an amount of ERN 755.86 on account ***6571.",
+    "value": 12558,
+    "date": "2025-07-12"
+  },
+  {
+    "id": "FIN-0186",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "You made a payment of AFN 708.44 at Nogueira e Associados using card ending in ****2164 from account ***7450.",
+    "value": 33694,
+    "date": "2025-07-24"
+  },
+  {
+    "id": "FIN-0187",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "A deposit of GMD 576.75 occurred at Carvalho, Saraiva e Costa using a card ending in ****1008 for account ***1553.",
+    "value": 50,
+    "date": "2026-02-11",
+    "relatedContractId": "CTR-0609"
+  },
+  {
+    "id": "FIN-0188",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "invoice of ILS 749.35 at Martins, Albuquerque e Barros charged to account ending in 4739 using card ending in ****2428.",
+    "value": 8337,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FIN-0189",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Transaction alert: payment at Moreira S.A. using card ending ****7969 for an amount of TWD 290.45 on account ***9720.",
+    "value": 462,
+    "date": "2026-07-05",
+    "relatedContractId": "CTR-0574"
+  },
+  {
+    "id": "FIN-0190",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Transaction alert: payment at Albuquerque Comércio using card ending ****7215 for an amount of NPR 452.67 on account ***9091.",
+    "value": 42966,
+    "date": "2025-09-18"
+  },
+  {
+    "id": "FIN-0191",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "withdrawal transaction at Costa, Pereira e Carvalho using card ending with ****8787 for KRW 877.27 in account ***7301.",
+    "value": 1128,
+    "date": "2026-02-08",
+    "relatedContractId": "CTR-0597"
+  },
+  {
+    "id": "FIN-0192",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "A payment of MXN 608.10 occurred at Barros, Nogueira e Albuquerque using a card ending in ****3743 for account ***2723.",
+    "value": 15814,
+    "date": "2026-07-04"
+  },
+  {
+    "id": "FIN-0193",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "payment at Santos EIRELI with a card ending in ****3114 for CDF 830.46 from account ***7506.",
+    "value": 40056,
+    "date": "2026-04-16"
+  },
+  {
+    "id": "FIN-0194",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "You made a invoice of YER 646.81 at Silva, Macedo e Pereira using card ending in ****6801 from account ***4535.",
+    "value": 8085,
+    "date": "2025-09-07"
+  },
+  {
+    "id": "FIN-0195",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "A withdrawal for BDT 332.82 was made at Franco e Associados via card ending ****8672 on account ***1159.",
+    "value": 41253,
+    "date": "2025-12-19"
+  },
+  {
+    "id": "FIN-0196",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "deposit of TWD 853.68 at Franco-Saraiva charged to account ending in 7101 using card ending in ****9281.",
+    "value": 13683,
+    "date": "2025-10-31"
+  },
+  {
+    "id": "FIN-0197",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "A invoice of NGN 447.04 occurred at Moraes, Moraes e Batista using a card ending in ****0342 for account ***5139.",
+    "value": 15242,
+    "date": "2025-09-14"
+  },
+  {
+    "id": "FIN-0198",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Payment of JOD 931.73 for deposit at Batista EIRELI, processed with card ending ****6651 linked to account ***7168.",
+    "value": 15174,
+    "date": "2026-02-26"
+  },
+  {
+    "id": "FIN-0199",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "invoice at Moraes, Melo e Barros with a card ending in ****5778 for MRU 731.95 from account ***7157.",
+    "value": 34570,
+    "date": "2026-01-24"
+  },
+  {
+    "id": "FIN-0200",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "withdrawal processed at Moreira-Batista for PLN 600.50, using card ending ****5434. Account: ***6103.",
+    "value": 39943,
+    "date": "2026-05-15",
+    "relatedContractId": "CTR-0461"
+  },
+  {
+    "id": "FIN-0201",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "deposit transaction at Oliveira, Batista e Martins using card ending with ****8554 for AWG 698.36 in account ***7783.",
+    "value": 41682,
+    "date": "2025-07-16"
+  },
+  {
+    "id": "FIN-0202",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "deposit of KHR 119.10 at Oliveira, Martins e Melo charged to account ending in 4103 using card ending in ****4706.",
+    "value": 18972,
+    "date": "2026-05-05"
+  },
+  {
+    "id": "FIN-0203",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "A withdrawal of BOB 921.10 occurred at Melo-Silva using a card ending in ****0201 for account ***2804.",
+    "value": 13759,
+    "date": "2025-08-07"
+  },
+  {
+    "id": "FIN-0204",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Transaction alert: payment at Pereira-Oliveira using card ending ****1161 for an amount of BGN 320.70 on account ***9733.",
+    "value": 59,
+    "date": "2026-04-26",
+    "relatedContractId": "CTR-0600"
+  },
+  {
+    "id": "FIN-0205",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "A deposit of CNY 573.51 occurred at Santos, Nogueira e Barros using a card ending in ****7984 for account ***6265.",
+    "value": 38501,
+    "date": "2025-10-06"
+  },
+  {
+    "id": "FIN-0206",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "A withdrawal of NZD 688.71 occurred at Xavier S.A. using a card ending in ****0305 for account ***2054.",
+    "value": 5905,
+    "date": "2025-08-12"
+  },
+  {
+    "id": "FIN-0207",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "A withdrawal of ERN 650.62 occurred at Reis-Batista using a card ending in ****7504 for account ***7396.",
+    "value": 7133,
+    "date": "2026-04-29"
+  },
+  {
+    "id": "FIN-0208",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "payment confirmed at Franco-Martins for IQD 426.68, card ending in ****2250 associated with account ***0820.",
+    "value": 44618,
+    "date": "2026-04-22"
+  },
+  {
+    "id": "FIN-0209",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Transaction alert: deposit at Melo, Xavier e Xavier using card ending ****3696 for an amount of TOP 986.30 on account ***9874.",
+    "value": 23854,
+    "date": "2026-05-26"
+  },
+  {
+    "id": "FIN-0210",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "A payment of VND 339.65 occurred at Moreira, Reis e Saraiva using a card ending in ****7913 for account ***3673.",
+    "value": 4129,
+    "date": "2025-07-12",
+    "relatedContractId": "CTR-0335"
+  },
+  {
+    "id": "FIN-0211",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "A invoice of SCR 265.97 occurred at Saraiva, Albuquerque e Reis using a card ending in ****9834 for account ***8572.",
+    "value": 24015,
+    "date": "2026-01-24"
+  },
+  {
+    "id": "FIN-0212",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "You made a deposit of ALL 705.51 at Batista, Melo e Macedo using card ending in ****7452 from account ***8341.",
+    "value": 337,
+    "date": "2026-04-22",
+    "relatedContractId": "CTR-0514"
+  },
+  {
+    "id": "FIN-0213",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "A deposit for KRW 50.74 was made at Reis-Saraiva via card ending ****5297 on account ***0335.",
+    "value": 45,
+    "date": "2026-04-05",
+    "relatedContractId": "CTR-0745"
+  },
+  {
+    "id": "FIN-0214",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Payment of DOP 147.00 for invoice at Albuquerque S.A., processed with card ending ****8038 linked to account ***5530.",
+    "value": 14987,
+    "date": "2026-06-25"
+  },
+  {
+    "id": "FIN-0215",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Payment of JMD 775.93 for withdrawal at Xavier, Reis e Reis, processed with card ending ****2968 linked to account ***0280.",
+    "value": 14070,
+    "date": "2026-06-18"
+  },
+  {
+    "id": "FIN-0216",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Transaction alert: payment at Pereira S.A. using card ending ****0515 for an amount of USD 39.66 on account ***6408.",
+    "value": 89575,
+    "date": "2025-07-14",
+    "relatedContractId": "CTR-0261"
+  },
+  {
+    "id": "FIN-0217",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Transaction alert: payment at Macedo, Macedo e Macedo using card ending ****5907 for an amount of MYR 305.16 on account ***7160.",
+    "value": 11080,
+    "date": "2026-03-30"
+  },
+  {
+    "id": "FIN-0218",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Your payment of SEK 918.30 at Batista-Batista was successful. Charged via card ****4970 to account ***0601.",
+    "value": 612,
+    "date": "2025-10-11",
+    "relatedContractId": "CTR-0577"
+  },
+  {
+    "id": "FIN-0219",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Payment of GMD 754.50 for invoice at Reis-Souza, processed with card ending ****3133 linked to account ***9965.",
+    "value": 16495,
+    "date": "2025-12-04"
+  },
+  {
+    "id": "FIN-0220",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "A invoice of CRC 604.45 occurred at Batista-Moraes using a card ending in ****3164 for account ***1364.",
+    "value": 33530,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FIN-0221",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "A deposit of LBP 385.53 occurred at Moraes, Saraiva e Macedo using a card ending in ****4988 for account ***5490.",
+    "value": 8385,
+    "date": "2025-11-19"
+  },
+  {
+    "id": "FIN-0222",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "payment transaction at Nogueira, Carvalho e Batista using card ending with ****0058 for CZK 154.85 in account ***9012.",
+    "value": 6845,
+    "date": "2026-01-08",
+    "relatedContractId": "CTR-0187"
+  },
+  {
+    "id": "FIN-0223",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "withdrawal at Silva, Carvalho e Melo with a card ending in ****3197 for CRC 493.00 from account ***3873.",
+    "value": 38169,
+    "date": "2026-06-05"
+  },
+  {
+    "id": "FIN-0224",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Payment of MAD 220.40 for deposit at Pereira e Associados, processed with card ending ****5922 linked to account ***9926.",
+    "value": 34388,
+    "date": "2026-05-27"
+  },
+  {
+    "id": "FIN-0225",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "You made a payment of MNT 920.75 at Costa, Xavier e Albuquerque using card ending in ****9146 from account ***3434.",
+    "value": 5576,
+    "date": "2026-03-24",
+    "relatedContractId": "CTR-0260"
+  },
+  {
+    "id": "FIN-0226",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "deposit at Moraes, Reis e Franco with a card ending in ****3177 for LBP 536.90 from account ***4844.",
+    "value": 86724,
+    "date": "2026-03-17",
+    "relatedContractId": "CTR-0195"
+  },
+  {
+    "id": "FIN-0227",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "A withdrawal of LSL 803.14 occurred at Nogueira-Carvalho using a card ending in ****9108 for account ***6326.",
+    "value": 33583,
+    "date": "2025-11-16"
+  },
+  {
+    "id": "FIN-0228",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "invoice confirmed at Braga, Martins e Braga for EUR 705.44, card ending in ****3249 associated with account ***4722.",
+    "value": 36003,
+    "date": "2025-12-01"
+  },
+  {
+    "id": "FIN-0229",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "A payment of MXN 718.90 occurred at Silva S.A. using a card ending in ****5253 for account ***8049.",
+    "value": 1381,
+    "date": "2025-09-23",
+    "relatedContractId": "CTR-0539"
+  },
+  {
+    "id": "FIN-0230",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "payment of MUR 518.93 at Moreira-Costa charged to account ending in 9573 using card ending in ****4671.",
+    "value": 4820,
+    "date": "2026-05-25",
+    "relatedContractId": "CTR-0127"
+  },
+  {
+    "id": "FIN-0231",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "payment processed at Xavier-Souza for ETB 488.71, using card ending ****7368. Account: ***1501.",
+    "value": 43258,
+    "date": "2026-06-25"
+  },
+  {
+    "id": "FIN-0232",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "A payment of TMT 472.06 occurred at Xavier S.A. using a card ending in ****4576 for account ***3274.",
+    "value": 14933,
+    "date": "2025-09-08"
+  },
+  {
+    "id": "FIN-0233",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "deposit at Moraes-Martins with a card ending in ****9012 for ERN 801.83 from account ***4889.",
+    "value": 40549,
+    "date": "2025-11-28"
+  },
+  {
+    "id": "FIN-0234",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "withdrawal confirmed at Saraiva EIRELI for ERN 65.39, card ending in ****3321 associated with account ***5801.",
+    "value": 16231,
+    "date": "2026-06-06"
+  },
+  {
+    "id": "FIN-0235",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Your deposit of PAB 708.43 at Silva, Moreira e Macedo was successful. Charged via card ****1601 to account ***2942.",
+    "value": 3328,
+    "date": "2026-06-18"
+  },
+  {
+    "id": "FIN-0236",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "deposit transaction at Oliveira, Oliveira e Barros using card ending with ****7675 for MDL 114.91 in account ***3141.",
+    "value": 3837,
+    "date": "2025-12-06",
+    "relatedContractId": "CTR-0161"
+  },
+  {
+    "id": "FIN-0237",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "withdrawal transaction at Xavier, Moraes e Oliveira using card ending with ****0082 for LBP 156.09 in account ***7753.",
+    "value": 726,
+    "date": "2025-12-15",
+    "relatedContractId": "CTR-0594"
+  },
+  {
+    "id": "FIN-0238",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Payment of NZD 250.53 for deposit at Carvalho e Associados, processed with card ending ****4708 linked to account ***6622.",
+    "value": 22339,
+    "date": "2025-10-16"
+  },
+  {
+    "id": "FIN-0239",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Your payment of XOF 645.24 at Moraes, Moreira e Saraiva was successful. Charged via card ****1387 to account ***8154.",
+    "value": 10120,
+    "date": "2026-01-04"
+  },
+  {
+    "id": "FIN-0240",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "payment of MRU 153.17 at Franco-Carvalho charged to account ending in 7765 using card ending in ****2229.",
+    "value": 4686,
+    "date": "2025-10-02"
+  },
+  {
+    "id": "FIN-0241",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "A payment for ZAR 429.83 was made at Franco-Albuquerque via card ending ****4016 on account ***6032.",
+    "value": 36315,
+    "date": "2026-01-25"
+  },
+  {
+    "id": "FIN-0242",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "deposit at Martins, Braga e Albuquerque with a card ending in ****2445 for LKR 475.10 from account ***2005.",
+    "value": 50,
+    "date": "2025-10-08",
+    "relatedContractId": "CTR-0609"
+  },
+  {
+    "id": "FIN-0243",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "payment confirmed at Souza Comércio for SDG 632.82, card ending in ****5006 associated with account ***1842.",
+    "value": 38650,
+    "date": "2026-04-19"
+  },
+  {
+    "id": "FIN-0244",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "invoice confirmed at Xavier Comércio for MVR 19.69, card ending in ****6726 associated with account ***0153.",
+    "value": 42117,
+    "date": "2025-11-23"
+  },
+  {
+    "id": "FIN-0245",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "withdrawal processed at Nogueira-Saraiva for RON 80.70, using card ending ****8343. Account: ***8398.",
+    "value": 25029,
+    "date": "2026-03-07"
+  },
+  {
+    "id": "FIN-0246",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Transaction alert: deposit at Melo LTDA using card ending ****6304 for an amount of MNT 235.23 on account ***3744.",
+    "value": 731,
+    "date": "2025-11-13",
+    "relatedContractId": "CTR-0636"
+  },
+  {
+    "id": "FIN-0247",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "withdrawal confirmed at Xavier Comércio for GEL 282.82, card ending in ****1566 associated with account ***9250.",
+    "value": 29857,
+    "date": "2025-09-01"
+  },
+  {
+    "id": "FIN-0248",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "withdrawal confirmed at Souza-Souza for WST 555.46, card ending in ****2011 associated with account ***1915.",
+    "value": 11175,
+    "date": "2026-06-09"
+  },
+  {
+    "id": "FIN-0249",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "A deposit of BYN 32.18 occurred at Reis LTDA using a card ending in ****0817 for account ***9861.",
+    "value": 44818,
+    "date": "2026-06-01"
+  },
+  {
+    "id": "FIN-0250",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "A invoice for PAB 919.04 was made at Moraes S.A. via card ending ****2636 on account ***0999.",
+    "value": 4100,
+    "date": "2026-05-11"
+  },
+  {
+    "id": "FIN-0251",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "You made a invoice of TOP 826.06 at Batista e Associados using card ending in ****7681 from account ***6012.",
+    "value": 23719,
+    "date": "2026-05-18"
+  },
+  {
+    "id": "FIN-0252",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Transaction alert: payment at Silva-Saraiva using card ending ****7154 for an amount of GTQ 606.39 on account ***4996.",
+    "value": 11196,
+    "date": "2025-11-27"
+  },
+  {
+    "id": "FIN-0253",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Payment of KHR 285.51 for deposit at Xavier-Nogueira, processed with card ending ****7352 linked to account ***6130.",
+    "value": 20570,
+    "date": "2026-04-17"
+  },
+  {
+    "id": "FIN-0254",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "withdrawal transaction at Santos-Souza using card ending with ****2919 for NAD 320.83 in account ***6938.",
+    "value": 8986,
+    "date": "2025-09-16"
+  },
+  {
+    "id": "FIN-0255",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "A withdrawal for LAK 626.51 was made at Xavier-Silva via card ending ****8615 on account ***7978.",
+    "value": 91472,
+    "date": "2025-12-10",
+    "relatedContractId": "CTR-0414"
+  },
+  {
+    "id": "FIN-0256",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Transaction alert: deposit at Barros S.A. using card ending ****9312 for an amount of PYG 57.33 on account ***0020.",
+    "value": 28916,
+    "date": "2025-10-18"
+  },
+  {
+    "id": "FIN-0257",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "You made a withdrawal of FJD 270.16 at Silva e Associados using card ending in ****9080 from account ***7510.",
+    "value": 33662,
+    "date": "2025-10-17"
+  },
+  {
+    "id": "FIN-0258",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "You made a payment of NIO 160.65 at Saraiva, Martins e Nogueira using card ending in ****3002 from account ***1643.",
+    "value": 11119,
+    "date": "2025-08-22"
+  },
+  {
+    "id": "FIN-0259",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "withdrawal transaction at Pereira-Macedo using card ending with ****2837 for IRR 298.55 in account ***4503.",
+    "value": 4974,
+    "date": "2026-02-11",
+    "relatedContractId": "CTR-0483"
+  },
+  {
+    "id": "FIN-0260",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "payment processed at Costa, Albuquerque e Franco for MKD 96.12, using card ending ****0090. Account: ***4034.",
+    "value": 10610,
+    "date": "2025-12-25"
+  },
+  {
+    "id": "FIN-0261",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Your invoice of DKK 904.84 at Franco, Melo e Braga was successful. Charged via card ****7814 to account ***5024.",
+    "value": 41563,
+    "date": "2025-11-27"
+  },
+  {
+    "id": "FIN-0262",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "deposit confirmed at Souza, Santos e Souza for HTG 932.66, card ending in ****7182 associated with account ***0598.",
+    "value": 26359,
+    "date": "2025-07-28"
+  },
+  {
+    "id": "FIN-0263",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Transaction alert: payment at Costa, Nogueira e Reis using card ending ****4299 for an amount of IDR 679.65 on account ***5791.",
+    "value": 562,
+    "date": "2026-02-22",
+    "relatedContractId": "CTR-0628"
+  },
+  {
+    "id": "FIN-0264",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Transaction alert: deposit at Albuquerque, Franco e Reis using card ending ****3155 for an amount of USD 599.10 on account ***7164.",
+    "value": 34776,
+    "date": "2025-12-24"
+  },
+  {
+    "id": "FIN-0265",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "A withdrawal of SCR 842.01 occurred at Xavier, Batista e Martins using a card ending in ****1489 for account ***5270.",
+    "value": 43465,
+    "date": "2025-09-06"
+  },
+  {
+    "id": "FIN-0266",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Your withdrawal of GYD 400.62 at Moraes LTDA was successful. Charged via card ****0848 to account ***5646.",
+    "value": 4428,
+    "date": "2026-01-30",
+    "relatedContractId": "CTR-0109"
+  },
+  {
+    "id": "FIN-0267",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "withdrawal confirmed at Saraiva-Carvalho for PGK 708.97, card ending in ****0979 associated with account ***6880.",
+    "value": 13892,
+    "date": "2025-11-26"
+  },
+  {
+    "id": "FIN-0268",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Your withdrawal of FKP 947.81 at Batista, Pereira e Souza was successful. Charged via card ****3330 to account ***1840.",
+    "value": 4465,
+    "date": "2026-01-02",
+    "relatedContractId": "CTR-0497"
+  },
+  {
+    "id": "FIN-0269",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "withdrawal transaction at Melo Comércio using card ending with ****8569 for RSD 182.96 in account ***9147.",
+    "value": 1161,
+    "date": "2026-01-18",
+    "relatedContractId": "CTR-0720"
+  },
+  {
+    "id": "FIN-0270",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Transaction alert: withdrawal at Martins, Carvalho e Melo using card ending ****5403 for an amount of BND 873.98 on account ***3693.",
+    "value": 19844,
+    "date": "2026-05-27",
+    "relatedContractId": "CTR-0053"
+  },
+  {
+    "id": "FIN-0271",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "withdrawal at Santos, Silva e Moreira with a card ending in ****0300 for DKK 230.11 from account ***0934.",
+    "value": 6187,
+    "date": "2026-01-06"
+  },
+  {
+    "id": "FIN-0272",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Your payment of PAB 584.83 at Reis-Xavier was successful. Charged via card ****3579 to account ***7901.",
+    "value": 28240,
+    "date": "2025-10-05"
+  },
+  {
+    "id": "FIN-0273",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Transaction alert: invoice at Braga, Souza e Batista using card ending ****5285 for an amount of AUD 692.69 on account ***7289.",
+    "value": 20890,
+    "date": "2025-11-17"
+  },
+  {
+    "id": "FIN-0274",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "invoice transaction at Moreira, Melo e Saraiva using card ending with ****1531 for MYR 603.18 in account ***2354.",
+    "value": 20120,
+    "date": "2026-04-30"
+  },
+  {
+    "id": "FIN-0275",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Your invoice of BDT 959.49 at Souza, Reis e Moreira was successful. Charged via card ****7019 to account ***1790.",
+    "value": 27079,
+    "date": "2026-05-11"
+  },
+  {
+    "id": "FIN-0276",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Transaction alert: invoice at Moraes, Melo e Martins using card ending ****2961 for an amount of DOP 234.47 on account ***4071.",
+    "value": 15720,
+    "date": "2026-04-09"
+  },
+  {
+    "id": "FIN-0277",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "invoice confirmed at Carvalho Comércio for ETB 406.54, card ending in ****2877 associated with account ***2122.",
+    "value": 66462,
+    "date": "2025-07-23",
+    "relatedContractId": "CTR-0252"
+  },
+  {
+    "id": "FIN-0278",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "withdrawal processed at Moraes e Associados for SGD 468.88, using card ending ****0282. Account: ***9135.",
+    "value": 21229,
+    "date": "2025-10-18"
+  },
+  {
+    "id": "FIN-0279",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "withdrawal processed at Batista, Macedo e Batista for BMD 513.23, using card ending ****6783. Account: ***6304.",
+    "value": 14017,
+    "date": "2026-05-15"
+  },
+  {
+    "id": "FIN-0280",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Payment of BRL 441.17 for payment at Reis, Xavier e Saraiva, processed with card ending ****8280 linked to account ***7329.",
+    "value": 8652,
+    "date": "2026-05-12"
+  },
+  {
+    "id": "FIN-0281",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Transaction alert: payment at Barros-Pereira using card ending ****5650 for an amount of BGN 490.41 on account ***4070.",
+    "value": 39092,
+    "date": "2026-06-01"
+  },
+  {
+    "id": "FIN-0282",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Payment of WST 679.44 for invoice at Braga S.A., processed with card ending ****0309 linked to account ***1666.",
+    "value": 12328,
+    "date": "2026-03-23"
+  },
+  {
+    "id": "FIN-0283",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Payment of GTQ 235.58 for invoice at Franco S.A., processed with card ending ****6447 linked to account ***4849.",
+    "value": 23905,
+    "date": "2026-01-22"
+  },
+  {
+    "id": "FIN-0284",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "A deposit for KYD 267.98 was made at Oliveira, Carvalho e Melo via card ending ****4601 on account ***8418.",
+    "value": 7749,
+    "date": "2025-09-21"
+  },
+  {
+    "id": "FIN-0285",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "invoice of PGK 809.56 at Macedo, Braga e Reis charged to account ending in 2643 using card ending in ****6482.",
+    "value": 9119,
+    "date": "2026-02-26"
+  },
+  {
+    "id": "FIN-0286",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "payment confirmed at Santos, Franco e Saraiva for TTD 835.14, card ending in ****4605 associated with account ***7237.",
+    "value": 9682,
+    "date": "2026-05-02"
+  },
+  {
+    "id": "FIN-0287",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "withdrawal of INR 813.93 at Saraiva e Associados charged to account ending in 9589 using card ending in ****3013.",
+    "value": 481,
+    "date": "2026-03-09",
+    "relatedContractId": "CTR-0676"
+  },
+  {
+    "id": "FIN-0288",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "deposit processed at Silva, Xavier e Costa for ARS 798.96, using card ending ****3905. Account: ***6625.",
+    "value": 39242,
+    "date": "2026-06-14"
+  },
+  {
+    "id": "FIN-0289",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "payment of BHD 658.02 at Reis-Silva charged to account ending in 5248 using card ending in ****1817.",
+    "value": 549,
+    "date": "2025-08-12",
+    "relatedContractId": "CTR-0542"
+  },
+  {
+    "id": "FIN-0290",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Transaction alert: deposit at Batista-Braga using card ending ****4075 for an amount of SDG 477.24 on account ***0201.",
+    "value": 28700,
+    "date": "2025-10-07"
+  },
+  {
+    "id": "FIN-0291",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "invoice processed at Pereira, Silva e Nogueira for SYP 775.09, using card ending ****7423. Account: ***8255.",
+    "value": 77,
+    "date": "2026-06-01",
+    "relatedContractId": "CTR-0545"
+  },
+  {
+    "id": "FIN-0292",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "A payment of NAD 257.87 occurred at Xavier-Martins using a card ending in ****6333 for account ***4474.",
+    "value": 4960,
+    "date": "2025-11-17"
+  },
+  {
+    "id": "FIN-0293",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Payment of LBP 64.60 for payment at Braga-Saraiva, processed with card ending ****8348 linked to account ***6944.",
+    "value": 39223,
+    "date": "2026-03-25"
+  },
+  {
+    "id": "FIN-0294",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Transaction alert: invoice at Batista-Pereira using card ending ****3107 for an amount of HTG 304.50 on account ***3218.",
+    "value": 37535,
+    "date": "2026-04-12"
+  },
+  {
+    "id": "FIN-0295",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Transaction alert: deposit at Reis EIRELI using card ending ****5289 for an amount of UYU 897.32 on account ***4738.",
+    "value": 1149,
+    "date": "2026-06-03"
+  },
+  {
+    "id": "FIN-0296",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Your withdrawal of UYU 903.48 at Santos S.A. was successful. Charged via card ****8132 to account ***4009.",
+    "value": 44826,
+    "date": "2026-05-11"
+  },
+  {
+    "id": "FIN-0297",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "withdrawal at Moraes, Souza e Silva with a card ending in ****6269 for PGK 659.28 from account ***0633.",
+    "value": 44462,
+    "date": "2025-08-05"
+  },
+  {
+    "id": "FIN-0298",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Transaction alert: invoice at Macedo-Xavier using card ending ****7272 for an amount of RUB 400.66 on account ***0328.",
+    "value": 6628,
+    "date": "2025-07-09"
+  },
+  {
+    "id": "FIN-0299",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "A deposit for MRU 60.24 was made at Barros S.A. via card ending ****5759 on account ***1266.",
+    "value": 45,
+    "date": "2025-08-22",
+    "relatedContractId": "CTR-0560"
+  },
+  {
+    "id": "FIN-0300",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Payment of TRY 380.83 for deposit at Barros e Associados, processed with card ending ****0632 linked to account ***3258.",
+    "value": 172401,
+    "date": "2025-07-24",
+    "relatedContractId": "CTR-0048"
+  },
+  {
+    "id": "FIN-0301",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "invoice confirmed at Pereira, Costa e Pereira for BMD 332.01, card ending in ****3245 associated with account ***9253.",
+    "value": 22586,
+    "date": "2026-06-10"
+  },
+  {
+    "id": "FIN-0302",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "invoice at Xavier, Xavier e Oliveira with a card ending in ****4446 for SOS 94.06 from account ***3097.",
+    "value": 24353,
+    "date": "2025-10-31"
+  },
+  {
+    "id": "FIN-0303",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "payment transaction at Nogueira-Silva using card ending with ****1066 for KMF 68.24 in account ***9716.",
+    "value": 35561,
+    "date": "2026-03-28"
+  },
+  {
+    "id": "FIN-0304",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "deposit of BZD 191.00 at Macedo EIRELI charged to account ending in 3298 using card ending in ****5984.",
+    "value": 6673,
+    "date": "2025-09-09"
+  },
+  {
+    "id": "FIN-0305",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "You made a withdrawal of GBP 27.03 at Batista, Silva e Moraes using card ending in ****7998 from account ***4287.",
+    "value": 58179,
+    "date": "2025-12-04",
+    "relatedContractId": "CTR-0086"
+  },
+  {
+    "id": "FIN-0306",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Your withdrawal of BSD 13.11 at Albuquerque, Franco e Batista was successful. Charged via card ****2301 to account ***5610.",
+    "value": 20036,
+    "date": "2026-05-01"
+  },
+  {
+    "id": "FIN-0307",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "payment of UAH 990.64 at Albuquerque-Costa charged to account ending in 5357 using card ending in ****3355.",
+    "value": 42817,
+    "date": "2026-06-14"
+  },
+  {
+    "id": "FIN-0308",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "You made a invoice of NAD 101.68 at Moreira, Souza e Batista using card ending in ****2335 from account ***3771.",
+    "value": 34696,
+    "date": "2026-05-24"
+  },
+  {
+    "id": "FIN-0309",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "You made a payment of XCD 934.22 at Xavier EIRELI using card ending in ****2062 from account ***8054.",
+    "value": 403,
+    "date": "2026-05-06",
+    "relatedContractId": "CTR-0579"
+  },
+  {
+    "id": "FIN-0310",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Transaction alert: payment at Moraes LTDA using card ending ****1455 for an amount of EGP 710.50 on account ***4546.",
+    "value": 5355,
+    "date": "2026-05-31",
+    "relatedContractId": "CTR-0319"
+  },
+  {
+    "id": "FIN-0311",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "A payment for MOP 813.79 was made at Pereira LTDA via card ending ****6256 on account ***7854.",
+    "value": 509,
+    "date": "2025-09-03",
+    "relatedContractId": "CTR-0555"
+  },
+  {
+    "id": "FIN-0312",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Payment of AWG 45.20 for invoice at Macedo-Moreira, processed with card ending ****8401 linked to account ***0100.",
+    "value": 10233,
+    "date": "2025-10-05"
+  },
+  {
+    "id": "FIN-0313",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Payment of SRD 123.81 for invoice at Melo, Martins e Souza, processed with card ending ****8791 linked to account ***7078.",
+    "value": 34339,
+    "date": "2025-08-15"
+  },
+  {
+    "id": "FIN-0314",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "A invoice of CZK 535.92 occurred at Albuquerque e Associados using a card ending in ****6426 for account ***3251.",
+    "value": 4327,
+    "date": "2025-12-03"
+  },
+  {
+    "id": "FIN-0315",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Transaction alert: deposit at Souza, Santos e Costa using card ending ****4980 for an amount of EGP 576.20 on account ***0663.",
+    "value": 591,
+    "date": "2026-05-20",
+    "relatedContractId": "CTR-0544"
+  },
+  {
+    "id": "FIN-0316",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "invoice at Pereira S.A. with a card ending in ****4067 for MVR 945.56 from account ***5490.",
+    "value": 11448,
+    "date": "2026-03-26",
+    "relatedContractId": "CTR-0450"
+  },
+  {
+    "id": "FIN-0317",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "A deposit of TND 496.09 occurred at Melo, Franco e Albuquerque using a card ending in ****0324 for account ***7562.",
+    "value": 16805,
+    "date": "2025-12-13"
+  },
+  {
+    "id": "FIN-0318",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Payment of HTG 795.37 for payment at Pereira, Pereira e Macedo, processed with card ending ****5237 linked to account ***2596.",
+    "value": 37530,
+    "date": "2026-03-16"
+  },
+  {
+    "id": "FIN-0319",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "You made a deposit of HNL 61.84 at Braga, Martins e Batista using card ending in ****4324 from account ***3437.",
+    "value": 38369,
+    "date": "2026-06-09"
+  },
+  {
+    "id": "FIN-0320",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "invoice transaction at Albuquerque, Macedo e Moreira using card ending with ****4742 for NIO 602.18 in account ***3353.",
+    "value": 16001,
+    "date": "2026-04-13"
+  },
+  {
+    "id": "FIN-0321",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Payment of ZWL 580.14 for payment at Carvalho-Santos, processed with card ending ****6387 linked to account ***5391.",
+    "value": 24203,
+    "date": "2025-07-31",
+    "relatedContractId": "CTR-0466"
+  },
+  {
+    "id": "FIN-0322",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "invoice processed at Martins-Reis for MNT 320.97, using card ending ****5655. Account: ***5439.",
+    "value": 28145,
+    "date": "2025-12-14"
+  },
+  {
+    "id": "FIN-0323",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Your payment of PEN 915.07 at Franco, Reis e Pereira was successful. Charged via card ****0799 to account ***8314.",
+    "value": 27907,
+    "date": "2025-08-17"
+  },
+  {
+    "id": "FIN-0324",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "withdrawal confirmed at Martins LTDA for MNT 937.06, card ending in ****7210 associated with account ***1040.",
+    "value": 2228,
+    "date": "2025-10-25"
+  },
+  {
+    "id": "FIN-0325",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "withdrawal processed at Santos-Macedo for GBP 978.08, using card ending ****7978. Account: ***0303.",
+    "value": 41882,
+    "date": "2025-07-07"
+  },
+  {
+    "id": "FIN-0326",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "A deposit for MAD 866.59 was made at Albuquerque, Braga e Xavier via card ending ****2176 on account ***7294.",
+    "value": 24024,
+    "date": "2025-11-08"
+  },
+  {
+    "id": "FIN-0327",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "deposit at Barros-Santos with a card ending in ****2968 for PEN 725.41 from account ***2693.",
+    "value": 12159,
+    "date": "2026-02-24"
+  },
+  {
+    "id": "FIN-0328",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "deposit processed at Carvalho, Franco e Moreira for AWG 705.76, using card ending ****9912. Account: ***3336.",
+    "value": 7418,
+    "date": "2026-03-11"
+  },
+  {
+    "id": "FIN-0329",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "payment at Batista LTDA with a card ending in ****9998 for FJD 848.27 from account ***5888.",
+    "value": 2684,
+    "date": "2025-10-08"
+  },
+  {
+    "id": "FIN-0330",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "withdrawal at Pereira LTDA with a card ending in ****5556 for SHP 374.87 from account ***0214.",
+    "value": 33153,
+    "date": "2025-09-21"
+  },
+  {
+    "id": "FIN-0331",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "withdrawal processed at Reis-Macedo for CHF 5.50, using card ending ****1033. Account: ***4505.",
+    "value": 34317,
+    "date": "2025-11-13"
+  },
+  {
+    "id": "FIN-0332",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Payment of BDT 742.16 for payment at Barros, Santos e Pereira, processed with card ending ****4125 linked to account ***3580.",
+    "value": 3562,
+    "date": "2026-07-03"
+  },
+  {
+    "id": "FIN-0333",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Payment of HKD 138.61 for deposit at Albuquerque, Albuquerque e Reis, processed with card ending ****3956 linked to account ***5938.",
+    "value": 27460,
+    "date": "2025-08-28"
+  },
+  {
+    "id": "FIN-0334",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "A invoice of XOF 789.57 occurred at Barros e Associados using a card ending in ****7915 for account ***6941.",
+    "value": 34576,
+    "date": "2026-06-10"
+  },
+  {
+    "id": "FIN-0335",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "deposit transaction at Moraes, Braga e Carvalho using card ending with ****3139 for AOA 760.44 in account ***2270.",
+    "value": 11037,
+    "date": "2026-05-23"
+  },
+  {
+    "id": "FIN-0336",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "invoice of UAH 465.61 at Macedo-Carvalho charged to account ending in 4456 using card ending in ****4039.",
+    "value": 16621,
+    "date": "2025-10-20"
+  },
+  {
+    "id": "FIN-0337",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "A withdrawal of HKD 579.00 occurred at Melo LTDA using a card ending in ****8170 for account ***4648.",
+    "value": 39189,
+    "date": "2025-08-25"
+  },
+  {
+    "id": "FIN-0338",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "A invoice for BTN 150.45 was made at Saraiva LTDA via card ending ****6826 on account ***1120.",
+    "value": 24623,
+    "date": "2025-09-06"
+  },
+  {
+    "id": "FIN-0339",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "A deposit for XPF 574.13 was made at Nogueira, Macedo e Souza via card ending ****7050 on account ***3542.",
+    "value": 6299,
+    "date": "2026-07-04"
+  },
+  {
+    "id": "FIN-0340",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Payment of AZN 43.52 for payment at Oliveira, Albuquerque e Santos, processed with card ending ****8402 linked to account ***0569.",
+    "value": 31445,
+    "date": "2025-08-14"
+  },
+  {
+    "id": "FIN-0341",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "A withdrawal of GTQ 309.95 occurred at Moraes-Santos using a card ending in ****0782 for account ***4664.",
+    "value": 43474,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FIN-0342",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "deposit transaction at Moraes e Associados using card ending with ****0338 for ERN 892.73 in account ***5941.",
+    "value": 20114,
+    "date": "2025-10-16"
+  },
+  {
+    "id": "FIN-0343",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "withdrawal transaction at Martins-Moreira using card ending with ****2278 for CUP 746.82 in account ***0231.",
+    "value": 1297,
+    "date": "2026-04-22",
+    "relatedContractId": "CTR-0722"
+  },
+  {
+    "id": "FIN-0344",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "payment of KZT 623.56 at Nogueira LTDA charged to account ending in 3912 using card ending in ****4667.",
+    "value": 5411,
+    "date": "2025-10-13",
+    "relatedContractId": "CTR-0183"
+  },
+  {
+    "id": "FIN-0345",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "A deposit of DZD 848.43 occurred at Melo-Batista using a card ending in ****6549 for account ***6642.",
+    "value": 69709,
+    "date": "2026-04-03",
+    "relatedContractId": "CTR-0460"
+  },
+  {
+    "id": "FIN-0346",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "invoice at Carvalho LTDA with a card ending in ****5842 for NZD 791.71 from account ***1185.",
+    "value": 37157,
+    "date": "2025-09-11"
+  },
+  {
+    "id": "FIN-0347",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Your withdrawal of RON 588.18 at Albuquerque, Souza e Silva was successful. Charged via card ****2975 to account ***1696.",
+    "value": 17769,
+    "date": "2026-02-10"
+  },
+  {
+    "id": "FIN-0348",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "deposit processed at Batista, Carvalho e Carvalho for MAD 990.03, using card ending ****5059. Account: ***2965.",
+    "value": 11424,
+    "date": "2025-11-16"
+  },
+  {
+    "id": "FIN-0349",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Transaction alert: deposit at Braga, Braga e Oliveira using card ending ****7314 for an amount of NIO 288.09 on account ***8120.",
+    "value": 231,
+    "date": "2026-04-02",
+    "relatedContractId": "CTR-0680"
+  },
+  {
+    "id": "FIN-0350",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "withdrawal processed at Franco-Moraes for NOK 869.30, using card ending ****8483. Account: ***2117.",
+    "value": 38335,
+    "date": "2026-04-07"
+  },
+  {
+    "id": "FIN-0351",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "invoice confirmed at Nogueira, Moreira e Barros for RON 955.48, card ending in ****1715 associated with account ***4298.",
+    "value": 41652,
+    "date": "2026-03-13"
+  },
+  {
+    "id": "FIN-0352",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "A invoice for XOF 408.10 was made at Saraiva EIRELI via card ending ****0789 on account ***3196.",
+    "value": 31031,
+    "date": "2026-04-02"
+  },
+  {
+    "id": "FIN-0353",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "A deposit for KWD 125.00 was made at Barros EIRELI via card ending ****9323 on account ***3409.",
+    "value": 3621,
+    "date": "2026-01-14",
+    "relatedContractId": "CTR-0295"
+  },
+  {
+    "id": "FIN-0354",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Payment of SCR 435.98 for invoice at Pereira LTDA, processed with card ending ****8941 linked to account ***9168.",
+    "value": 7126,
+    "date": "2026-03-17"
+  },
+  {
+    "id": "FIN-0355",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Your deposit of XAF 715.87 at Macedo, Pereira e Pereira was successful. Charged via card ****4851 to account ***5823.",
+    "value": 65936,
+    "date": "2025-09-12",
+    "relatedContractId": "CTR-0172"
+  },
+  {
+    "id": "FIN-0356",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "invoice confirmed at Moreira-Batista for NGN 862.66, card ending in ****6659 associated with account ***8763.",
+    "value": 60875,
+    "date": "2025-12-04",
+    "relatedContractId": "CTR-0087"
+  },
+  {
+    "id": "FIN-0357",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Your withdrawal of IRR 295.28 at Batista, Batista e Santos was successful. Charged via card ****5203 to account ***2297.",
+    "value": 20033,
+    "date": "2025-09-15"
+  },
+  {
+    "id": "FIN-0358",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "payment at Batista S.A. with a card ending in ****9219 for OMR 858.80 from account ***9745.",
+    "value": 141308,
+    "date": "2025-10-22",
+    "relatedContractId": "CTR-0147"
+  },
+  {
+    "id": "FIN-0359",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Transaction alert: invoice at Oliveira-Macedo using card ending ****7191 for an amount of BRL 344.98 on account ***7826.",
+    "value": 14464,
+    "date": "2025-08-08"
+  },
+  {
+    "id": "FIN-0360",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "invoice at Nogueira, Braga e Albuquerque with a card ending in ****2666 for AUD 928.44 from account ***8395.",
+    "value": 21441,
+    "date": "2025-07-10"
+  },
+  {
+    "id": "FIN-0361",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "withdrawal processed at Moreira, Pereira e Nogueira for SEK 517.29, using card ending ****7173. Account: ***0284.",
+    "value": 37920,
+    "date": "2025-08-14"
+  },
+  {
+    "id": "FIN-0362",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "payment confirmed at Batista-Souza for GYD 856.93, card ending in ****5706 associated with account ***5038.",
+    "value": 39790,
+    "date": "2026-06-25"
+  },
+  {
+    "id": "FIN-0363",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "withdrawal transaction at Moreira e Associados using card ending with ****5283 for VND 803.09 in account ***0178.",
+    "value": 24057,
+    "date": "2025-10-24"
+  },
+  {
+    "id": "FIN-0364",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "You made a withdrawal of TTD 177.95 at Santos, Macedo e Saraiva using card ending in ****1044 from account ***2476.",
+    "value": 2497,
+    "date": "2025-09-21"
+  },
+  {
+    "id": "FIN-0365",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "deposit processed at Silva, Albuquerque e Moraes for CUP 699.35, using card ending ****7659. Account: ***9524.",
+    "value": 4966,
+    "date": "2025-09-23"
+  },
+  {
+    "id": "FIN-0366",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "payment at Souza Comércio with a card ending in ****9365 for MRU 635.45 from account ***7741.",
+    "value": 20195,
+    "date": "2025-10-19"
+  },
+  {
+    "id": "FIN-0367",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Transaction alert: payment at Carvalho LTDA using card ending ****5848 for an amount of WST 812.68 on account ***6697.",
+    "value": 8672,
+    "date": "2025-11-10"
+  },
+  {
+    "id": "FIN-0368",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Payment of BSD 126.94 for withdrawal at Moreira-Moraes, processed with card ending ****0007 linked to account ***1130.",
+    "value": 77,
+    "date": "2025-11-20",
+    "relatedContractId": "CTR-0583"
+  },
+  {
+    "id": "FIN-0369",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "A payment for MYR 232.24 was made at Xavier-Costa via card ending ****4630 on account ***4659.",
+    "value": 717,
+    "date": "2025-08-29",
+    "relatedContractId": "CTR-0590"
+  },
+  {
+    "id": "FIN-0370",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "withdrawal confirmed at Saraiva EIRELI for ZAR 47.09, card ending in ****7989 associated with account ***4384.",
+    "value": 4649,
+    "date": "2026-05-30",
+    "relatedContractId": "CTR-0278"
+  },
+  {
+    "id": "FIN-0371",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "payment of VUV 552.43 at Santos, Martins e Oliveira charged to account ending in 7344 using card ending in ****2980.",
+    "value": 45732,
+    "date": "2025-10-17",
+    "relatedContractId": "CTR-0289"
+  },
+  {
+    "id": "FIN-0372",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "You made a deposit of SAR 588.70 at Martins-Costa using card ending in ****7735 from account ***0481.",
+    "value": 41863,
+    "date": "2025-09-20"
+  },
+  {
+    "id": "FIN-0373",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "withdrawal transaction at Martins, Moreira e Braga using card ending with ****8992 for CVE 799.35 in account ***4827.",
+    "value": 6756,
+    "date": "2026-03-23"
+  },
+  {
+    "id": "FIN-0374",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Transaction alert: payment at Santos-Albuquerque using card ending ****3076 for an amount of ZAR 72.33 on account ***3239.",
+    "value": 19474,
+    "date": "2026-04-05"
+  },
+  {
+    "id": "FIN-0375",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Your payment of MOP 464.47 at Martins-Oliveira was successful. Charged via card ****0805 to account ***1619.",
+    "value": 703,
+    "date": "2026-03-03",
+    "relatedContractId": "CTR-0667"
+  },
+  {
+    "id": "FIN-0376",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "A deposit of BTN 163.93 occurred at Albuquerque, Moraes e Nogueira using a card ending in ****3417 for account ***0388.",
+    "value": 550,
+    "date": "2026-05-15",
+    "relatedContractId": "CTR-0721"
+  },
+  {
+    "id": "FIN-0377",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "A deposit of INR 154.18 occurred at Saraiva-Braga using a card ending in ****0160 for account ***1340.",
+    "value": 50839,
+    "date": "2026-01-21",
+    "relatedContractId": "CTR-0080"
+  },
+  {
+    "id": "FIN-0378",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "deposit at Moraes, Oliveira e Souza with a card ending in ****9750 for BOB 163.98 from account ***9448.",
+    "value": 9823,
+    "date": "2026-02-10"
+  },
+  {
+    "id": "FIN-0379",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "You made a deposit of THB 831.94 at Martins-Saraiva using card ending in ****8625 from account ***5154.",
+    "value": 241,
+    "date": "2026-04-16",
+    "relatedContractId": "CTR-0531"
+  },
+  {
+    "id": "FIN-0380",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "You made a deposit of MXN 494.37 at Melo-Nogueira using card ending in ****7669 from account ***2744.",
+    "value": 5190,
+    "date": "2026-01-09",
+    "relatedContractId": "CTR-0132"
+  },
+  {
+    "id": "FIN-0381",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Payment of KGS 980.99 for deposit at Batista e Associados, processed with card ending ****5721 linked to account ***9298.",
+    "value": 43069,
+    "date": "2025-08-12"
+  },
+  {
+    "id": "FIN-0382",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "You made a payment of BYN 513.75 at Silva Comércio using card ending in ****3977 from account ***6136.",
+    "value": 3395,
+    "date": "2025-07-15"
+  },
+  {
+    "id": "FIN-0383",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "A invoice for AMD 46.88 was made at Xavier, Batista e Barros via card ending ****7578 on account ***2874.",
+    "value": 12848,
+    "date": "2025-11-22"
+  },
+  {
+    "id": "FIN-0384",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Transaction alert: deposit at Oliveira e Associados using card ending ****0014 for an amount of SOS 561.55 on account ***5203.",
+    "value": 3802,
+    "date": "2026-01-31"
+  },
+  {
+    "id": "FIN-0385",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "withdrawal at Nogueira-Braga with a card ending in ****8609 for KZT 678.01 from account ***3986.",
+    "value": 50,
+    "date": "2025-10-04",
+    "relatedContractId": "CTR-0527"
+  },
+  {
+    "id": "FIN-0386",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Your payment of HNL 323.91 at Silva, Xavier e Barros was successful. Charged via card ****5530 to account ***0548.",
+    "value": 40853,
+    "date": "2025-11-02"
+  },
+  {
+    "id": "FIN-0387",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Payment of SYP 394.60 for deposit at Oliveira-Melo, processed with card ending ****5896 linked to account ***2859.",
+    "value": 9690,
+    "date": "2026-05-01"
+  },
+  {
+    "id": "FIN-0388",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "invoice transaction at Albuquerque-Batista using card ending with ****3027 for BHD 468.77 in account ***2074.",
+    "value": 5021,
+    "date": "2026-04-16"
+  },
+  {
+    "id": "FIN-0389",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Payment of KMF 11.01 for withdrawal at Barros-Barros, processed with card ending ****2787 linked to account ***1665.",
+    "value": 238,
+    "date": "2026-06-02",
+    "relatedContractId": "CTR-0567"
+  },
+  {
+    "id": "FIN-0390",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "A deposit for MZN 119.29 was made at Martins, Pereira e Albuquerque via card ending ****0494 on account ***0170.",
+    "value": 107,
+    "date": "2025-11-19",
+    "relatedContractId": "CTR-0612"
+  },
+  {
+    "id": "FIN-0391",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "deposit at Silva, Oliveira e Melo with a card ending in ****9743 for USD 886.80 from account ***2166.",
+    "value": 7562,
+    "date": "2025-09-08"
+  },
+  {
+    "id": "FIN-0392",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "invoice transaction at Melo-Moraes using card ending with ****8806 for BRL 889.31 in account ***1993.",
+    "value": 6076,
+    "date": "2026-05-20"
+  },
+  {
+    "id": "FIN-0393",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "deposit processed at Santos-Souza for UGX 688.09, using card ending ****3407. Account: ***4432.",
+    "value": 39559,
+    "date": "2025-10-06"
+  },
+  {
+    "id": "FIN-0394",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "invoice of SOS 543.64 at Santos, Oliveira e Macedo charged to account ending in 0953 using card ending in ****8306.",
+    "value": 28028,
+    "date": "2026-01-23"
+  },
+  {
+    "id": "FIN-0395",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "invoice of CHF 607.11 at Reis-Reis charged to account ending in 4490 using card ending in ****9743.",
+    "value": 25252,
+    "date": "2025-10-13"
+  },
+  {
+    "id": "FIN-0396",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Payment of TZS 285.52 for withdrawal at Silva, Martins e Melo, processed with card ending ****8403 linked to account ***8550.",
+    "value": 6716,
+    "date": "2025-10-08",
+    "relatedContractId": "CTR-0117"
+  },
+  {
+    "id": "FIN-0397",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "withdrawal at Xavier, Santos e Santos with a card ending in ****9770 for AFN 608.59 from account ***2802.",
+    "value": 16033,
+    "date": "2025-10-11"
+  },
+  {
+    "id": "FIN-0398",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "A invoice of TRY 119.17 occurred at Santos LTDA using a card ending in ****8818 for account ***1326.",
+    "value": 37347,
+    "date": "2025-09-25"
+  },
+  {
+    "id": "FIN-0399",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Your payment of LBP 821.28 at Franco, Moreira e Pereira was successful. Charged via card ****8980 to account ***9070.",
+    "value": 78892,
+    "date": "2026-05-30",
+    "relatedContractId": "CTR-0144"
+  },
+  {
+    "id": "FIN-0400",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "payment of GIP 78.56 at Melo, Santos e Costa charged to account ending in 2003 using card ending in ****9305.",
+    "value": 7527,
+    "date": "2025-09-25",
+    "relatedContractId": "CTR-0242"
+  }
+]

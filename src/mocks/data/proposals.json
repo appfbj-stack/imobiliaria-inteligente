@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "PRP-0001",
+    "propertyId": "MKT-IMV-0507",
+    "clientId": "MKT-CLI-0098",
+    "brokerId": "COR-0033",
+    "value": 1157772,
+    "status": "negociacao",
+    "createdAt": "2026-02-25",
+    "notes": "Ratione natus facere modi eos."
+  },
+  {
+    "id": "PRP-0002",
+    "propertyId": "MKT-IMV-0266",
+    "clientId": "MKT-CLI-0927",
+    "brokerId": "COR-0104",
+    "value": 926563,
+    "status": "recusada",
+    "createdAt": "2026-03-22",
+    "notes": "Officia sed enim aliquid explicabo sequi suscipit id vel ea."
+  },
+  {
+    "id": "PRP-0003",
+    "propertyId": "MKT-IMV-0088",
+    "clientId": "MKT-CLI-0733",
+    "brokerId": "COR-0095",
+    "value": 1175526,
+    "status": "pendente",
+    "createdAt": "2026-01-07",
+    "notes": "Fugiat saepe repellendus labore magnam."
+  },
+  {
+    "id": "PRP-0004",
+    "propertyId": "MKT-IMV-0678",
+    "clientId": "MKT-CLI-0994",
+    "brokerId": "COR-0099",
+    "value": 659492,
+    "status": "negociacao",
+    "createdAt": "2026-04-05",
+    "notes": "Nam mollitia magnam."
+  },
+  {
+    "id": "PRP-0005",
+    "propertyId": "MKT-IMV-0109",
+    "clientId": "MKT-CLI-1102",
+    "brokerId": "COR-0093",
+    "value": 89723,
+    "status": "aceita",
+    "createdAt": "2026-03-01",
+    "notes": "Omnis natus voluptatum exercitationem."
+  },
+  {
+    "id": "PRP-0006",
+    "propertyId": "MKT-IMV-0575",
+    "clientId": "MKT-CLI-1425",
+    "brokerId": "COR-0020",
+    "value": 414322,
+    "status": "negociacao",
+    "createdAt": "2026-04-03",
+    "notes": "Facilis temporibus neque quam et impedit."
+  },
+  {
+    "id": "PRP-0007",
+    "propertyId": "MKT-IMV-0772",
+    "clientId": "MKT-CLI-1446",
+    "brokerId": "COR-0100",
+    "value": 1641063,
+    "status": "recusada",
+    "createdAt": "2026-04-12",
+    "notes": "Quam impedit reprehenderit sequi repellat necessitatibus sit."
+  },
+  {
+    "id": "PRP-0008",
+    "propertyId": "MKT-IMV-0412",
+    "clientId": "MKT-CLI-1266",
+    "brokerId": "COR-0102",
+    "value": 1660214,
+    "status": "recusada",
+    "createdAt": "2026-04-14",
+    "notes": "Debitis totam consequuntur neque quisquam."
+  },
+  {
+    "id": "PRP-0009",
+    "propertyId": "MKT-IMV-0098",
+    "clientId": "MKT-CLI-1372",
+    "brokerId": "COR-0042",
+    "value": 684655,
+    "status": "pendente",
+    "createdAt": "2026-02-10",
+    "notes": "Ratione sit perferendis possimus."
+  },
+  {
+    "id": "PRP-0010",
+    "propertyId": "MKT-IMV-0449",
+    "clientId": "MKT-CLI-0793",
+    "brokerId": "COR-0096",
+    "value": 2473825,
+    "status": "recusada",
+    "createdAt": "2026-03-14",
+    "notes": "Rem mollitia corporis iure architecto reprehenderit."
+  },
+  {
+    "id": "PRP-0011",
+    "propertyId": "MKT-IMV-0789",
+    "clientId": "MKT-CLI-0381",
+    "brokerId": "COR-0044",
+    "value": 1351072,
+    "status": "aceita",
+    "createdAt": "2026-05-25",
+    "notes": "Soluta placeat blanditiis tempora fugiat mollitia earum odit totam iusto."
+  },
+  {
+    "id": "PRP-0012",
+    "propertyId": "MKT-IMV-0241",
+    "clientId": "MKT-CLI-0658",
+    "brokerId": "COR-0146",
+    "value": 85734,
+    "status": "aceita",
+    "createdAt": "2026-04-11",
+    "notes": "Ipsam est sint."
+  },
+  {
+    "id": "PRP-0013",
+    "propertyId": "MKT-IMV-0507",
+    "clientId": "MKT-CLI-0346",
+    "brokerId": "COR-0033",
+    "value": 1226952,
+    "status": "aceita",
+    "createdAt": "2026-03-31",
+    "notes": "Sapiente adipisci mollitia aliquid aliquid corrupti alias ullam harum vero."
+  },
+  {
+    "id": "PRP-0014",
+    "propertyId": "MKT-IMV-0444",
+    "clientId": "MKT-CLI-0429",
+    "brokerId": "COR-0006",
+    "value": 435274,
+    "status": "pendente",
+    "createdAt": "2026-06-14",
+    "notes": "Architecto porro reprehenderit accusamus eius minima recusandae aut."
+  },
+  {
+    "id": "PRP-0015",
+    "propertyId": "MKT-IMV-0354",
+    "clientId": "MKT-CLI-0862",
+    "brokerId": "COR-0005",
+    "value": 1145703,
+    "status": "negociacao",
+    "createdAt": "2026-03-13",
+    "notes": "Esse iste dolor nobis optio modi."
+  },
+  {
+    "id": "PRP-0016",
+    "propertyId": "MKT-IMV-0022",
+    "clientId": "MKT-CLI-0718",
+    "brokerId": "COR-0119",
+    "value": 89592,
+    "status": "recusada",
+    "createdAt": "2026-04-17",
+    "notes": "Blanditiis voluptatibus porro quisquam."
+  },
+  {
+    "id": "PRP-0017",
+    "propertyId": "MKT-IMV-0777",
+    "clientId": "MKT-CLI-0575",
+    "brokerId": "COR-0038",
+    "value": 2865042,
+    "status": "pendente",
+    "createdAt": "2026-05-10",
+    "notes": "Consectetur cupiditate corrupti tempore dicta harum natus autem beatae."
+  },
+  {
+    "id": "PRP-0018",
+    "propertyId": "MKT-IMV-0088",
+    "clientId": "MKT-CLI-1397",
+    "brokerId": "COR-0095",
+    "value": 1095002,
+    "status": "negociacao",
+    "createdAt": "2026-06-01",
+    "notes": "Asperiores ad eum temporibus ratione."
+  },
+  {
+    "id": "PRP-0019",
+    "propertyId": "MKT-IMV-0261",
+    "clientId": "MKT-CLI-1091",
+    "brokerId": "COR-0006",
+    "value": 161162,
+    "status": "recusada",
+    "createdAt": "2026-06-10",
+    "notes": "Maiores nihil velit earum sapiente repellendus."
+  },
+  {
+    "id": "PRP-0020",
+    "propertyId": "MKT-IMV-0191",
+    "clientId": "MKT-CLI-0189",
+    "brokerId": "COR-0116",
+    "value": 912742,
+    "status": "negociacao",
+    "createdAt": "2026-01-15",
+    "notes": "Reiciendis veniam nesciunt architecto fuga commodi."
+  },
+  {
+    "id": "PRP-0021",
+    "propertyId": "MKT-IMV-0626",
+    "clientId": "MKT-CLI-0974",
+    "brokerId": "COR-0144",
+    "value": 850497,
+    "status": "aceita",
+    "createdAt": "2026-03-30",
+    "notes": "Nam sit quam quos."
+  },
+  {
+    "id": "PRP-0022",
+    "propertyId": "MKT-IMV-0675",
+    "clientId": "MKT-CLI-0757",
+    "brokerId": "COR-0113",
+    "value": 1564249,
+    "status": "negociacao",
+    "createdAt": "2026-03-24",
+    "notes": "Sed minus aliquid eos libero tempore laudantium aliquam."
+  },
+  {
+    "id": "PRP-0023",
+    "propertyId": "MKT-IMV-0514",
+    "clientId": "MKT-CLI-0885",
+    "brokerId": "COR-0114",
+    "value": 1921340,
+    "status": "aceita",
+    "createdAt": "2026-03-19",
+    "notes": "Accusantium architecto facilis illum."
+  },
+  {
+    "id": "PRP-0024",
+    "propertyId": "MKT-IMV-0003",
+    "clientId": "MKT-CLI-0573",
+    "brokerId": "COR-0125",
+    "value": 437781,
+    "status": "recusada",
+    "createdAt": "2026-06-28",
+    "notes": "Reprehenderit et minus facilis quia quod voluptates ratione."
+  },
+  {
+    "id": "PRP-0025",
+    "propertyId": "MKT-IMV-0463",
+    "clientId": "MKT-CLI-0301",
+    "brokerId": "COR-0091",
+    "value": 1679455,
+    "status": "pendente",
+    "createdAt": "2026-02-11",
+    "notes": "Quisquam quae natus."
+  },
+  {
+    "id": "PRP-0026",
+    "propertyId": "MKT-IMV-0493",
+    "clientId": "MKT-CLI-0827",
+    "brokerId": "COR-0129",
+    "value": 207248,
+    "status": "recusada",
+    "createdAt": "2026-01-30",
+    "notes": "Blanditiis odio ea placeat quos."
+  },
+  {
+    "id": "PRP-0027",
+    "propertyId": "MKT-IMV-0268",
+    "clientId": "MKT-CLI-1317",
+    "brokerId": "COR-0018",
+    "value": 1442449,
+    "status": "recusada",
+    "createdAt": "2026-02-18",
+    "notes": "Delectus id velit."
+  },
+  {
+    "id": "PRP-0028",
+    "propertyId": "MKT-IMV-0324",
+    "clientId": "MKT-CLI-0964",
+    "brokerId": "COR-0134",
+    "value": 682892,
+    "status": "negociacao",
+    "createdAt": "2026-03-03",
+    "notes": "Dicta quo error."
+  },
+  {
+    "id": "PRP-0029",
+    "propertyId": "MKT-IMV-0570",
+    "clientId": "MKT-CLI-1024",
+    "brokerId": "COR-0051",
+    "value": 110576,
+    "status": "pendente",
+    "createdAt": "2026-04-19",
+    "notes": "Saepe molestiae cumque tempora tempore."
+  },
+  {
+    "id": "PRP-0030",
+    "propertyId": "MKT-IMV-0243",
+    "clientId": "MKT-CLI-0253",
+    "brokerId": "COR-0106",
+    "value": 1883462,
+    "status": "negociacao",
+    "createdAt": "2026-04-14",
+    "notes": "Sapiente assumenda aut molestias accusantium quam praesentium magni."
+  },
+  {
+    "id": "PRP-0031",
+    "propertyId": "MKT-IMV-0690",
+    "clientId": "MKT-CLI-0457",
+    "brokerId": "COR-0011",
+    "value": 91042,
+    "status": "pendente",
+    "createdAt": "2026-06-17",
+    "notes": "Repellendus dolorum magnam iure quis eveniet exercitationem."
+  },
+  {
+    "id": "PRP-0032",
+    "propertyId": "MKT-IMV-0304",
+    "clientId": "MKT-CLI-0243",
+    "brokerId": "COR-0041",
+    "value": 945210,
+    "status": "negociacao",
+    "createdAt": "2026-03-19",
+    "notes": "Itaque error laboriosam voluptatibus eligendi sint nihil voluptatem."
+  },
+  {
+    "id": "PRP-0033",
+    "propertyId": "MKT-IMV-0635",
+    "clientId": "MKT-CLI-0995",
+    "brokerId": "COR-0111",
+    "value": 82573,
+    "status": "pendente",
+    "createdAt": "2026-01-13",
+    "notes": "Aut quo nostrum labore."
+  },
+  {
+    "id": "PRP-0034",
+    "propertyId": "MKT-IMV-0443",
+    "clientId": "MKT-CLI-0148",
+    "brokerId": "COR-0049",
+    "value": 835004,
+    "status": "negociacao",
+    "createdAt": "2026-03-17",
+    "notes": "Blanditiis impedit aperiam."
+  },
+  {
+    "id": "PRP-0035",
+    "propertyId": "MKT-IMV-0745",
+    "clientId": "MKT-CLI-0821",
+    "brokerId": "COR-0067",
+    "value": 79453,
+    "status": "negociacao",
+    "createdAt": "2026-03-21",
+    "notes": "Distinctio adipisci est."
+  },
+  {
+    "id": "PRP-0036",
+    "propertyId": "MKT-IMV-0156",
+    "clientId": "MKT-CLI-0902",
+    "brokerId": "COR-0139",
+    "value": 1913237,
+    "status": "recusada",
+    "createdAt": "2026-03-04",
+    "notes": "Veniam sunt quasi delectus doloribus alias odio dolorem omnis."
+  },
+  {
+    "id": "PRP-0037",
+    "propertyId": "MKT-IMV-0132",
+    "clientId": "MKT-CLI-0380",
+    "brokerId": "COR-0070",
+    "value": 543957,
+    "status": "negociacao",
+    "createdAt": "2026-02-16",
+    "notes": "Vero quaerat commodi at."
+  },
+  {
+    "id": "PRP-0038",
+    "propertyId": "MKT-IMV-0473",
+    "clientId": "MKT-CLI-0124",
+    "brokerId": "COR-0119",
+    "value": 682319,
+    "status": "negociacao",
+    "createdAt": "2026-03-06",
+    "notes": "Exercitationem eveniet molestias alias illo excepturi illum quaerat molestias aliquid."
+  },
+  {
+    "id": "PRP-0039",
+    "propertyId": "MKT-IMV-0110",
+    "clientId": "MKT-CLI-0852",
+    "brokerId": "COR-0040",
+    "value": 99033,
+    "status": "recusada",
+    "createdAt": "2026-03-10",
+    "notes": "Voluptates itaque ullam veritatis tenetur occaecati neque ratione quas facere."
+  },
+  {
+    "id": "PRP-0040",
+    "propertyId": "MKT-IMV-0119",
+    "clientId": "MKT-CLI-0106",
+    "brokerId": "COR-0014",
+    "value": 112584,
+    "status": "negociacao",
+    "createdAt": "2026-03-05",
+    "notes": "Cumque quibusdam esse culpa rerum labore fugiat."
+  },
+  {
+    "id": "PRP-0041",
+    "propertyId": "MKT-IMV-0148",
+    "clientId": "MKT-CLI-1202",
+    "brokerId": "COR-0070",
+    "value": 1055691,
+    "status": "pendente",
+    "createdAt": "2026-02-21",
+    "notes": "Eaque assumenda neque maxime quos aut adipisci temporibus."
+  },
+  {
+    "id": "PRP-0042",
+    "propertyId": "MKT-IMV-0096",
+    "clientId": "MKT-CLI-1400",
+    "brokerId": "COR-0015",
+    "value": 1197059,
+    "status": "pendente",
+    "createdAt": "2026-07-03",
+    "notes": "Consequuntur quod distinctio laboriosam eveniet sint quasi ipsum rerum ullam."
+  },
+  {
+    "id": "PRP-0043",
+    "propertyId": "MKT-IMV-0728",
+    "clientId": "MKT-CLI-0920",
+    "brokerId": "COR-0050",
+    "value": 1012181,
+    "status": "aceita",
+    "createdAt": "2026-03-21",
+    "notes": "Amet doloremque quasi facere nobis."
+  },
+  {
+    "id": "PRP-0044",
+    "propertyId": "MKT-IMV-0041",
+    "clientId": "MKT-CLI-0356",
+    "brokerId": "COR-0124",
+    "value": 1430356,
+    "status": "pendente",
+    "createdAt": "2026-05-16",
+    "notes": "Cumque iusto porro modi."
+  },
+  {
+    "id": "PRP-0045",
+    "propertyId": "MKT-IMV-0557",
+    "clientId": "MKT-CLI-0763",
+    "brokerId": "COR-0147",
+    "value": 693297,
+    "status": "recusada",
+    "createdAt": "2026-07-03",
+    "notes": "Saepe non optio."
+  },
+  {
+    "id": "PRP-0046",
+    "propertyId": "MKT-IMV-0070",
+    "clientId": "MKT-CLI-0593",
+    "brokerId": "COR-0047",
+    "value": 89778,
+    "status": "pendente",
+    "createdAt": "2026-07-03",
+    "notes": "Optio quasi sunt provident nihil recusandae."
+  },
+  {
+    "id": "PRP-0047",
+    "propertyId": "MKT-IMV-0404",
+    "clientId": "MKT-CLI-1411",
+    "brokerId": "COR-0106",
+    "value": 1734710,
+    "status": "aceita",
+    "createdAt": "2026-04-29",
+    "notes": "Asperiores nihil iste quos laborum aliquam corporis veniam."
+  },
+  {
+    "id": "PRP-0048",
+    "propertyId": "MKT-IMV-0650",
+    "clientId": "MKT-CLI-1284",
+    "brokerId": "COR-0058",
+    "value": 1388226,
+    "status": "negociacao",
+    "createdAt": "2026-02-17",
+    "notes": "Aliquid possimus quibusdam illo tempore nam quo incidunt asperiores vel."
+  },
+  {
+    "id": "PRP-0049",
+    "propertyId": "MKT-IMV-0522",
+    "clientId": "MKT-CLI-0845",
+    "brokerId": "COR-0101",
+    "value": 1161655,
+    "status": "negociacao",
+    "createdAt": "2026-03-09",
+    "notes": "Dolorum doloremque maiores."
+  },
+  {
+    "id": "PRP-0050",
+    "propertyId": "MKT-IMV-0621",
+    "clientId": "MKT-CLI-0723",
+    "brokerId": "COR-0110",
+    "value": 950005,
+    "status": "pendente",
+    "createdAt": "2026-01-31",
+    "notes": "Recusandae neque repellat."
+  },
+  {
+    "id": "PRP-0051",
+    "propertyId": "MKT-IMV-0521",
+    "clientId": "MKT-CLI-0707",
+    "brokerId": "COR-0145",
+    "value": 636328,
+    "status": "recusada",
+    "createdAt": "2026-03-06",
+    "notes": "Recusandae vero aperiam perspiciatis temporibus ducimus aut hic eveniet."
+  },
+  {
+    "id": "PRP-0052",
+    "propertyId": "MKT-IMV-0331",
+    "clientId": "MKT-CLI-0960",
+    "brokerId": "COR-0101",
+    "value": 93539,
+    "status": "recusada",
+    "createdAt": "2026-05-07",
+    "notes": "Saepe rem error quas omnis."
+  },
+  {
+    "id": "PRP-0053",
+    "propertyId": "MKT-IMV-0219",
+    "clientId": "MKT-CLI-0795",
+    "brokerId": "COR-0103",
+    "value": 143518,
+    "status": "aceita",
+    "createdAt": "2026-03-10",
+    "notes": "Reprehenderit corporis ullam quod quaerat doloribus."
+  },
+  {
+    "id": "PRP-0054",
+    "propertyId": "MKT-IMV-0192",
+    "clientId": "MKT-CLI-0551",
+    "brokerId": "COR-0067",
+    "value": 475844,
+    "status": "negociacao",
+    "createdAt": "2026-01-18",
+    "notes": "Necessitatibus atque inventore sapiente repellat tenetur."
+  },
+  {
+    "id": "PRP-0055",
+    "propertyId": "MKT-IMV-0443",
+    "clientId": "MKT-CLI-0097",
+    "brokerId": "COR-0049",
+    "value": 793968,
+    "status": "aceita",
+    "createdAt": "2026-06-04",
+    "notes": "Quasi quisquam quas laudantium asperiores temporibus dolorem asperiores."
+  },
+  {
+    "id": "PRP-0056",
+    "propertyId": "MKT-IMV-0090",
+    "clientId": "MKT-CLI-0017",
+    "brokerId": "COR-0123",
+    "value": 932939,
+    "status": "pendente",
+    "createdAt": "2026-04-21",
+    "notes": "Non expedita ratione ab quos."
+  },
+  {
+    "id": "PRP-0057",
+    "propertyId": "MKT-IMV-0363",
+    "clientId": "MKT-CLI-0569",
+    "brokerId": "COR-0110",
+    "value": 1235245,
+    "status": "negociacao",
+    "createdAt": "2026-06-30",
+    "notes": "Similique dolores amet voluptates fugiat deserunt dicta tempore quidem enim."
+  },
+  {
+    "id": "PRP-0058",
+    "propertyId": "MKT-IMV-0741",
+    "clientId": "MKT-CLI-0997",
+    "brokerId": "COR-0108",
+    "value": 109245,
+    "status": "negociacao",
+    "createdAt": "2026-01-29",
+    "notes": "Sint tempora unde eius architecto modi eveniet."
+  },
+  {
+    "id": "PRP-0059",
+    "propertyId": "MKT-IMV-0380",
+    "clientId": "MKT-CLI-0073",
+    "brokerId": "COR-0078",
+    "value": 1836639,
+    "status": "pendente",
+    "createdAt": "2026-05-12",
+    "notes": "Cupiditate maxime beatae doloremque veniam iste."
+  },
+  {
+    "id": "PRP-0060",
+    "propertyId": "MKT-IMV-0213",
+    "clientId": "MKT-CLI-0387",
+    "brokerId": "COR-0016",
+    "value": 84227,
+    "status": "negociacao",
+    "createdAt": "2026-05-09",
+    "notes": "Nemo repudiandae soluta nisi aperiam."
+  },
+  {
+    "id": "PRP-0061",
+    "propertyId": "MKT-IMV-0243",
+    "clientId": "MKT-CLI-0079",
+    "brokerId": "COR-0106",
+    "value": 1715874,
+    "status": "recusada",
+    "createdAt": "2026-06-26",
+    "notes": "Quae exercitationem laboriosam totam excepturi."
+  },
+  {
+    "id": "PRP-0062",
+    "propertyId": "MKT-IMV-0542",
+    "clientId": "MKT-CLI-0872",
+    "brokerId": "COR-0024",
+    "value": 412652,
+    "status": "pendente",
+    "createdAt": "2026-07-04",
+    "notes": "Nulla magnam fugiat provident rerum eligendi facere amet."
+  },
+  {
+    "id": "PRP-0063",
+    "propertyId": "MKT-IMV-0225",
+    "clientId": "MKT-CLI-1062",
+    "brokerId": "COR-0068",
+    "value": 126211,
+    "status": "recusada",
+    "createdAt": "2026-04-21",
+    "notes": "Adipisci inventore incidunt debitis officia odio doloremque."
+  },
+  {
+    "id": "PRP-0064",
+    "propertyId": "MKT-IMV-0183",
+    "clientId": "MKT-CLI-0281",
+    "brokerId": "COR-0084",
+    "value": 134541,
+    "status": "recusada",
+    "createdAt": "2026-03-11",
+    "notes": "Sunt voluptatem quos nemo sit laudantium amet eveniet vero."
+  },
+  {
+    "id": "PRP-0065",
+    "propertyId": "MKT-IMV-0196",
+    "clientId": "MKT-CLI-0627",
+    "brokerId": "COR-0146",
+    "value": 1807394,
+    "status": "negociacao",
+    "createdAt": "2026-03-11",
+    "notes": "Ea porro error molestiae exercitationem repudiandae beatae nam molestiae velit."
+  },
+  {
+    "id": "PRP-0066",
+    "propertyId": "MKT-IMV-0003",
+    "clientId": "MKT-CLI-0392",
+    "brokerId": "COR-0125",
+    "value": 431604,
+    "status": "aceita",
+    "createdAt": "2026-03-14",
+    "notes": "Ipsam quae deserunt."
+  },
+  {
+    "id": "PRP-0067",
+    "propertyId": "MKT-IMV-0646",
+    "clientId": "MKT-CLI-1304",
+    "brokerId": "COR-0010",
+    "value": 445104,
+    "status": "recusada",
+    "createdAt": "2026-04-02",
+    "notes": "Itaque numquam aliquid perferendis quis."
+  },
+  {
+    "id": "PRP-0068",
+    "propertyId": "MKT-IMV-0105",
+    "clientId": "MKT-CLI-0165",
+    "brokerId": "COR-0039",
+    "value": 2082769,
+    "status": "negociacao",
+    "createdAt": "2026-03-25",
+    "notes": "Quia rem autem maxime quas."
+  },
+  {
+    "id": "PRP-0069",
+    "propertyId": "MKT-IMV-0367",
+    "clientId": "MKT-CLI-0574",
+    "brokerId": "COR-0065",
+    "value": 657360,
+    "status": "negociacao",
+    "createdAt": "2026-06-20",
+    "notes": "Amet illo debitis ex veniam iure aliquam ratione."
+  },
+  {
+    "id": "PRP-0070",
+    "propertyId": "MKT-IMV-0470",
+    "clientId": "MKT-CLI-0318",
+    "brokerId": "COR-0049",
+    "value": 84312,
+    "status": "negociacao",
+    "createdAt": "2026-01-22",
+    "notes": "Voluptatibus voluptates eum recusandae."
+  },
+  {
+    "id": "PRP-0071",
+    "propertyId": "MKT-IMV-0673",
+    "clientId": "MKT-CLI-0503",
+    "brokerId": "COR-0012",
+    "value": 159364,
+    "status": "pendente",
+    "createdAt": "2026-06-07",
+    "notes": "Consequatur eligendi deserunt eveniet atque facere aut."
+  },
+  {
+    "id": "PRP-0072",
+    "propertyId": "MKT-IMV-0317",
+    "clientId": "MKT-CLI-0475",
+    "brokerId": "COR-0149",
+    "value": 1008168,
+    "status": "pendente",
+    "createdAt": "2026-01-07",
+    "notes": "Atque aliquam delectus."
+  },
+  {
+    "id": "PRP-0073",
+    "propertyId": "MKT-IMV-0265",
+    "clientId": "MKT-CLI-0516",
+    "brokerId": "COR-0109",
+    "value": 101834,
+    "status": "pendente",
+    "createdAt": "2026-01-24",
+    "notes": "Accusamus doloribus maiores vel debitis occaecati voluptatibus iusto."
+  },
+  {
+    "id": "PRP-0074",
+    "propertyId": "MKT-IMV-0397",
+    "clientId": "MKT-CLI-1066",
+    "brokerId": "COR-0101",
+    "value": 767874,
+    "status": "pendente",
+    "createdAt": "2026-03-20",
+    "notes": "Mollitia tempore autem amet quam et provident iure."
+  },
+  {
+    "id": "PRP-0075",
+    "propertyId": "MKT-IMV-0107",
+    "clientId": "MKT-CLI-1484",
+    "brokerId": "COR-0066",
+    "value": 806245,
+    "status": "recusada",
+    "createdAt": "2026-04-23",
+    "notes": "Repellendus praesentium iure culpa eos eaque accusamus."
+  },
+  {
+    "id": "PRP-0076",
+    "propertyId": "MKT-IMV-0288",
+    "clientId": "MKT-CLI-0034",
+    "brokerId": "COR-0024",
+    "value": 1164595,
+    "status": "pendente",
+    "createdAt": "2026-03-15",
+    "notes": "Aliquam ipsa voluptas illo autem asperiores ut."
+  },
+  {
+    "id": "PRP-0077",
+    "propertyId": "MKT-IMV-0310",
+    "clientId": "MKT-CLI-0683",
+    "brokerId": "COR-0060",
+    "value": 461089,
+    "status": "negociacao",
+    "createdAt": "2026-02-21",
+    "notes": "Praesentium adipisci repellat iusto iusto."
+  },
+  {
+    "id": "PRP-0078",
+    "propertyId": "MKT-IMV-0420",
+    "clientId": "MKT-CLI-1023",
+    "brokerId": "COR-0056",
+    "value": 2539863,
+    "status": "pendente",
+    "createdAt": "2026-05-24",
+    "notes": "Veniam nesciunt cumque autem vero placeat similique soluta consequuntur tenetur."
+  },
+  {
+    "id": "PRP-0079",
+    "propertyId": "MKT-IMV-0339",
+    "clientId": "MKT-CLI-0792",
+    "brokerId": "COR-0013",
+    "value": 560541,
+    "status": "negociacao",
+    "createdAt": "2026-03-26",
+    "notes": "Dolorum quia consequatur fuga distinctio sed."
+  },
+  {
+    "id": "PRP-0080",
+    "propertyId": "MKT-IMV-0776",
+    "clientId": "MKT-CLI-0108",
+    "brokerId": "COR-0050",
+    "value": 699364,
+    "status": "aceita",
+    "createdAt": "2026-04-04",
+    "notes": "Ea iure odio autem ullam ab minus."
+  },
+  {
+    "id": "PRP-0081",
+    "propertyId": "MKT-IMV-0354",
+    "clientId": "MKT-CLI-0231",
+    "brokerId": "COR-0005",
+    "value": 1205402,
+    "status": "negociacao",
+    "createdAt": "2026-05-12",
+    "notes": "Unde expedita excepturi quidem dolorem amet placeat repellat exercitationem."
+  },
+  {
+    "id": "PRP-0082",
+    "propertyId": "MKT-IMV-0219",
+    "clientId": "MKT-CLI-0089",
+    "brokerId": "COR-0103",
+    "value": 146945,
+    "status": "recusada",
+    "createdAt": "2026-05-18",
+    "notes": "Ducimus iste odio explicabo odit amet consectetur."
+  },
+  {
+    "id": "PRP-0083",
+    "propertyId": "MKT-IMV-0458",
+    "clientId": "MKT-CLI-0957",
+    "brokerId": "COR-0034",
+    "value": 445371,
+    "status": "negociacao",
+    "createdAt": "2026-03-29",
+    "notes": "Ipsam fuga quo quae voluptates exercitationem beatae pariatur doloribus modi."
+  },
+  {
+    "id": "PRP-0084",
+    "propertyId": "MKT-IMV-0123",
+    "clientId": "MKT-CLI-1060",
+    "brokerId": "COR-0049",
+    "value": 2673340,
+    "status": "aceita",
+    "createdAt": "2026-03-21",
+    "notes": "Laborum ullam quam ullam libero quo ipsum esse ut aliquam."
+  },
+  {
+    "id": "PRP-0085",
+    "propertyId": "MKT-IMV-0631",
+    "clientId": "MKT-CLI-0090",
+    "brokerId": "COR-0013",
+    "value": 1055615,
+    "status": "negociacao",
+    "createdAt": "2026-04-16",
+    "notes": "Laudantium aliquam necessitatibus totam tempore itaque repellat ex."
+  },
+  {
+    "id": "PRP-0086",
+    "propertyId": "MKT-IMV-0116",
+    "clientId": "MKT-CLI-1305",
+    "brokerId": "COR-0102",
+    "value": 809201,
+    "status": "pendente",
+    "createdAt": "2026-03-10",
+    "notes": "Odit dicta hic est repudiandae aliquam omnis."
+  },
+  {
+    "id": "PRP-0087",
+    "propertyId": "MKT-IMV-0246",
+    "clientId": "MKT-CLI-1427",
+    "brokerId": "COR-0098",
+    "value": 555621,
+    "status": "negociacao",
+    "createdAt": "2026-02-28",
+    "notes": "Natus autem maxime unde."
+  },
+  {
+    "id": "PRP-0088",
+    "propertyId": "MKT-IMV-0080",
+    "clientId": "MKT-CLI-0245",
+    "brokerId": "COR-0116",
+    "value": 897485,
+    "status": "negociacao",
+    "createdAt": "2026-04-20",
+    "notes": "Corporis esse necessitatibus ratione odio minima maxime voluptatem."
+  },
+  {
+    "id": "PRP-0089",
+    "propertyId": "MKT-IMV-0130",
+    "clientId": "MKT-CLI-0440",
+    "brokerId": "COR-0086",
+    "value": 1452124,
+    "status": "aceita",
+    "createdAt": "2026-04-23",
+    "notes": "Quam odit rerum repudiandae et quaerat facilis nesciunt veniam id."
+  },
+  {
+    "id": "PRP-0090",
+    "propertyId": "MKT-IMV-0026",
+    "clientId": "MKT-CLI-1261",
+    "brokerId": "COR-0109",
+    "value": 2646210,
+    "status": "negociacao",
+    "createdAt": "2026-05-22",
+    "notes": "Voluptatem at in nam adipisci expedita sed laborum fuga."
+  },
+  {
+    "id": "PRP-0091",
+    "propertyId": "MKT-IMV-0764",
+    "clientId": "MKT-CLI-1061",
+    "brokerId": "COR-0015",
+    "value": 3985758,
+    "status": "pendente",
+    "createdAt": "2026-03-20",
+    "notes": "Dolore consequuntur consectetur unde cum."
+  },
+  {
+    "id": "PRP-0092",
+    "propertyId": "MKT-IMV-0412",
+    "clientId": "MKT-CLI-0574",
+    "brokerId": "COR-0102",
+    "value": 1872352,
+    "status": "negociacao",
+    "createdAt": "2026-02-10",
+    "notes": "Culpa sapiente quae laborum libero eaque."
+  },
+  {
+    "id": "PRP-0093",
+    "propertyId": "MKT-IMV-0555",
+    "clientId": "MKT-CLI-0855",
+    "brokerId": "COR-0106",
+    "value": 1009960,
+    "status": "negociacao",
+    "createdAt": "2026-03-14",
+    "notes": "Voluptates reiciendis perspiciatis blanditiis rerum consequatur cumque."
+  },
+  {
+    "id": "PRP-0094",
+    "propertyId": "MKT-IMV-0009",
+    "clientId": "MKT-CLI-0949",
+    "brokerId": "COR-0038",
+    "value": 135904,
+    "status": "recusada",
+    "createdAt": "2026-05-11",
+    "notes": "Itaque incidunt quam omnis."
+  },
+  {
+    "id": "PRP-0095",
+    "propertyId": "MKT-IMV-0605",
+    "clientId": "MKT-CLI-1015",
+    "brokerId": "COR-0113",
+    "value": 1437384,
+    "status": "recusada",
+    "createdAt": "2026-02-16",
+    "notes": "Laudantium repellat voluptas nam necessitatibus architecto id."
+  },
+  {
+    "id": "PRP-0096",
+    "propertyId": "MKT-IMV-0631",
+    "clientId": "MKT-CLI-0631",
+    "brokerId": "COR-0013",
+    "value": 1080769,
+    "status": "pendente",
+    "createdAt": "2026-06-09",
+    "notes": "Et amet velit excepturi tempore nam a ipsum."
+  },
+  {
+    "id": "PRP-0097",
+    "propertyId": "MKT-IMV-0498",
+    "clientId": "MKT-CLI-0272",
+    "brokerId": "COR-0010",
+    "value": 457656,
+    "status": "recusada",
+    "createdAt": "2026-06-22",
+    "notes": "Quam distinctio cum in excepturi sed maiores sapiente doloribus."
+  },
+  {
+    "id": "PRP-0098",
+    "propertyId": "MKT-IMV-0506",
+    "clientId": "MKT-CLI-1337",
+    "brokerId": "COR-0120",
+    "value": 987464,
+    "status": "pendente",
+    "createdAt": "2026-06-14",
+    "notes": "Asperiores incidunt cupiditate maxime non molestias architecto facilis."
+  },
+  {
+    "id": "PRP-0099",
+    "propertyId": "MKT-IMV-0431",
+    "clientId": "MKT-CLI-0117",
+    "brokerId": "COR-0001",
+    "value": 1752736,
+    "status": "negociacao",
+    "createdAt": "2026-02-14",
+    "notes": "Unde dolores adipisci fugiat similique non deserunt."
+  },
+  {
+    "id": "PRP-0100",
+    "propertyId": "MKT-IMV-0676",
+    "clientId": "MKT-CLI-0076",
+    "brokerId": "COR-0059",
+    "value": 1410503,
+    "status": "recusada",
+    "createdAt": "2026-03-28",
+    "notes": "Voluptatibus ut corrupti reiciendis in."
+  },
+  {
+    "id": "PRP-0101",
+    "propertyId": "MKT-IMV-0692",
+    "clientId": "MKT-CLI-0574",
+    "brokerId": "COR-0122",
+    "value": 90307,
+    "status": "pendente",
+    "createdAt": "2026-05-19",
+    "notes": "Natus laudantium dicta non adipisci nemo nihil odit perspiciatis aliquam."
+  },
+  {
+    "id": "PRP-0102",
+    "propertyId": "MKT-IMV-0466",
+    "clientId": "MKT-CLI-0897",
+    "brokerId": "COR-0037",
+    "value": 972378,
+    "status": "negociacao",
+    "createdAt": "2026-05-28",
+    "notes": "Eveniet modi nam."
+  },
+  {
+    "id": "PRP-0103",
+    "propertyId": "MKT-IMV-0791",
+    "clientId": "MKT-CLI-0631",
+    "brokerId": "COR-0008",
+    "value": 950356,
+    "status": "pendente",
+    "createdAt": "2026-02-20",
+    "notes": "Recusandae nihil unde possimus facilis veniam voluptates nam possimus sequi."
+  },
+  {
+    "id": "PRP-0104",
+    "propertyId": "MKT-IMV-0402",
+    "clientId": "MKT-CLI-1173",
+    "brokerId": "COR-0037",
+    "value": 2118778,
+    "status": "aceita",
+    "createdAt": "2026-03-02",
+    "notes": "Provident cum aliquam."
+  },
+  {
+    "id": "PRP-0105",
+    "propertyId": "MKT-IMV-0405",
+    "clientId": "MKT-CLI-0589",
+    "brokerId": "COR-0043",
+    "value": 469897,
+    "status": "recusada",
+    "createdAt": "2026-04-11",
+    "notes": "Optio expedita ex minus alias."
+  },
+  {
+    "id": "PRP-0106",
+    "propertyId": "MKT-IMV-0747",
+    "clientId": "MKT-CLI-1006",
+    "brokerId": "COR-0001",
+    "value": 1534663,
+    "status": "aceita",
+    "createdAt": "2026-05-24",
+    "notes": "Nulla repudiandae cupiditate molestiae."
+  },
+  {
+    "id": "PRP-0107",
+    "propertyId": "MKT-IMV-0649",
+    "clientId": "MKT-CLI-1022",
+    "brokerId": "COR-0036",
+    "value": 106589,
+    "status": "pendente",
+    "createdAt": "2026-04-24",
+    "notes": "Assumenda eaque provident quae alias eveniet incidunt ipsum."
+  },
+  {
+    "id": "PRP-0108",
+    "propertyId": "MKT-IMV-0091",
+    "clientId": "MKT-CLI-1137",
+    "brokerId": "COR-0052",
+    "value": 189993,
+    "status": "aceita",
+    "createdAt": "2026-06-04",
+    "notes": "Rem laudantium facilis."
+  },
+  {
+    "id": "PRP-0109",
+    "propertyId": "MKT-IMV-0492",
+    "clientId": "MKT-CLI-0648",
+    "brokerId": "COR-0101",
+    "value": 1182011,
+    "status": "recusada",
+    "createdAt": "2026-01-22",
+    "notes": "Assumenda dolorum doloremque culpa explicabo corrupti perspiciatis."
+  },
+  {
+    "id": "PRP-0110",
+    "propertyId": "MKT-IMV-0014",
+    "clientId": "MKT-CLI-1084",
+    "brokerId": "COR-0111",
+    "value": 1824427,
+    "status": "aceita",
+    "createdAt": "2026-04-27",
+    "notes": "Totam molestiae temporibus ea tempore sapiente."
+  },
+  {
+    "id": "PRP-0111",
+    "propertyId": "MKT-IMV-0593",
+    "clientId": "MKT-CLI-0178",
+    "brokerId": "COR-0075",
+    "value": 98203,
+    "status": "recusada",
+    "createdAt": "2026-05-10",
+    "notes": "Magnam hic nesciunt suscipit enim sit."
+  },
+  {
+    "id": "PRP-0112",
+    "propertyId": "MKT-IMV-0602",
+    "clientId": "MKT-CLI-0595",
+    "brokerId": "COR-0102",
+    "value": 558547,
+    "status": "negociacao",
+    "createdAt": "2026-04-10",
+    "notes": "Dignissimos debitis mollitia velit sint reiciendis."
+  },
+  {
+    "id": "PRP-0113",
+    "propertyId": "MKT-IMV-0344",
+    "clientId": "MKT-CLI-0295",
+    "brokerId": "COR-0143",
+    "value": 308044,
+    "status": "pendente",
+    "createdAt": "2026-03-07",
+    "notes": "Reiciendis molestias atque neque corporis quidem asperiores."
+  },
+  {
+    "id": "PRP-0114",
+    "propertyId": "MKT-IMV-0496",
+    "clientId": "MKT-CLI-1475",
+    "brokerId": "COR-0116",
+    "value": 1233387,
+    "status": "aceita",
+    "createdAt": "2026-04-17",
+    "notes": "Quia provident consectetur."
+  },
+  {
+    "id": "PRP-0115",
+    "propertyId": "MKT-IMV-0063",
+    "clientId": "MKT-CLI-0667",
+    "brokerId": "COR-0022",
+    "value": 1340035,
+    "status": "aceita",
+    "createdAt": "2026-02-15",
+    "notes": "Incidunt ad nam officiis quo eaque."
+  },
+  {
+    "id": "PRP-0116",
+    "propertyId": "MKT-IMV-0535",
+    "clientId": "MKT-CLI-0061",
+    "brokerId": "COR-0045",
+    "value": 2491232,
+    "status": "aceita",
+    "createdAt": "2026-05-16",
+    "notes": "Odio rem neque nobis consectetur fuga quaerat."
+  },
+  {
+    "id": "PRP-0117",
+    "propertyId": "MKT-IMV-0184",
+    "clientId": "MKT-CLI-1037",
+    "brokerId": "COR-0032",
+    "value": 1696078,
+    "status": "pendente",
+    "createdAt": "2026-03-03",
+    "notes": "Id iusto minima distinctio delectus ipsum aperiam nobis laborum."
+  },
+  {
+    "id": "PRP-0118",
+    "propertyId": "MKT-IMV-0403",
+    "clientId": "MKT-CLI-0805",
+    "brokerId": "COR-0115",
+    "value": 2490043,
+    "status": "pendente",
+    "createdAt": "2026-04-29",
+    "notes": "Non alias nam."
+  },
+  {
+    "id": "PRP-0119",
+    "propertyId": "MKT-IMV-0177",
+    "clientId": "MKT-CLI-0042",
+    "brokerId": "COR-0076",
+    "value": 409776,
+    "status": "pendente",
+    "createdAt": "2026-01-25",
+    "notes": "Ut laborum itaque ad cum occaecati rem aut vel rerum."
+  },
+  {
+    "id": "PRP-0120",
+    "propertyId": "MKT-IMV-0791",
+    "clientId": "MKT-CLI-0600",
+    "brokerId": "COR-0008",
+    "value": 1019449,
+    "status": "negociacao",
+    "createdAt": "2026-04-11",
+    "notes": "Ipsum nam ad aspernatur hic inventore."
+  },
+  {
+    "id": "PRP-0121",
+    "propertyId": "MKT-IMV-0434",
+    "clientId": "MKT-CLI-1176",
+    "brokerId": "COR-0053",
+    "value": 312427,
+    "status": "negociacao",
+    "createdAt": "2026-05-31",
+    "notes": "Nihil exercitationem hic delectus nulla delectus odio."
+  },
+  {
+    "id": "PRP-0122",
+    "propertyId": "MKT-IMV-0304",
+    "clientId": "MKT-CLI-0994",
+    "brokerId": "COR-0041",
+    "value": 940268,
+    "status": "aceita",
+    "createdAt": "2026-02-28",
+    "notes": "Veniam ab debitis."
+  },
+  {
+    "id": "PRP-0123",
+    "propertyId": "MKT-IMV-0673",
+    "clientId": "MKT-CLI-1069",
+    "brokerId": "COR-0012",
+    "value": 147631,
+    "status": "recusada",
+    "createdAt": "2026-04-25",
+    "notes": "Quibusdam praesentium omnis consequuntur quo fugiat."
+  },
+  {
+    "id": "PRP-0124",
+    "propertyId": "MKT-IMV-0268",
+    "clientId": "MKT-CLI-0612",
+    "brokerId": "COR-0018",
+    "value": 1402758,
+    "status": "pendente",
+    "createdAt": "2026-04-28",
+    "notes": "Vitae ipsum dicta."
+  },
+  {
+    "id": "PRP-0125",
+    "propertyId": "MKT-IMV-0449",
+    "clientId": "MKT-CLI-0283",
+    "brokerId": "COR-0096",
+    "value": 2480414,
+    "status": "pendente",
+    "createdAt": "2026-03-11",
+    "notes": "Eaque facere explicabo reiciendis hic ad."
+  },
+  {
+    "id": "PRP-0126",
+    "propertyId": "MKT-IMV-0424",
+    "clientId": "MKT-CLI-1483",
+    "brokerId": "COR-0007",
+    "value": 1553584,
+    "status": "recusada",
+    "createdAt": "2026-02-07",
+    "notes": "Praesentium qui cupiditate sint nobis voluptas dolor minus consequuntur sint."
+  },
+  {
+    "id": "PRP-0127",
+    "propertyId": "MKT-IMV-0735",
+    "clientId": "MKT-CLI-1174",
+    "brokerId": "COR-0015",
+    "value": 886602,
+    "status": "negociacao",
+    "createdAt": "2026-04-26",
+    "notes": "Ex qui reprehenderit assumenda dolores ipsa."
+  },
+  {
+    "id": "PRP-0128",
+    "propertyId": "MKT-IMV-0588",
+    "clientId": "MKT-CLI-0099",
+    "brokerId": "COR-0133",
+    "value": 604997,
+    "status": "aceita",
+    "createdAt": "2026-05-29",
+    "notes": "Voluptatem optio deserunt."
+  },
+  {
+    "id": "PRP-0129",
+    "propertyId": "MKT-IMV-0264",
+    "clientId": "MKT-CLI-0645",
+    "brokerId": "COR-0091",
+    "value": 837915,
+    "status": "negociacao",
+    "createdAt": "2026-06-11",
+    "notes": "Neque nihil fugiat tenetur nesciunt non."
+  },
+  {
+    "id": "PRP-0130",
+    "propertyId": "MKT-IMV-0658",
+    "clientId": "MKT-CLI-0802",
+    "brokerId": "COR-0136",
+    "value": 398642,
+    "status": "aceita",
+    "createdAt": "2026-03-18",
+    "notes": "Molestiae aliquid adipisci odit nobis perferendis magni quia asperiores."
+  },
+  {
+    "id": "PRP-0131",
+    "propertyId": "MKT-IMV-0144",
+    "clientId": "MKT-CLI-1013",
+    "brokerId": "COR-0078",
+    "value": 761540,
+    "status": "pendente",
+    "createdAt": "2026-03-03",
+    "notes": "Ab mollitia sit ipsam perspiciatis iure beatae itaque nemo."
+  },
+  {
+    "id": "PRP-0132",
+    "propertyId": "MKT-IMV-0548",
+    "clientId": "MKT-CLI-0102",
+    "brokerId": "COR-0047",
+    "value": 701176,
+    "status": "recusada",
+    "createdAt": "2026-03-22",
+    "notes": "Odio unde tenetur ea aperiam possimus delectus sit."
+  },
+  {
+    "id": "PRP-0133",
+    "propertyId": "MKT-IMV-0005",
+    "clientId": "MKT-CLI-0792",
+    "brokerId": "COR-0145",
+    "value": 1795918,
+    "status": "pendente",
+    "createdAt": "2026-06-30",
+    "notes": "Voluptatibus sequi at debitis animi ipsa quisquam neque tenetur a."
+  },
+  {
+    "id": "PRP-0134",
+    "propertyId": "MKT-IMV-0189",
+    "clientId": "MKT-CLI-0281",
+    "brokerId": "COR-0145",
+    "value": 163751,
+    "status": "negociacao",
+    "createdAt": "2026-02-10",
+    "notes": "Eveniet reiciendis occaecati magnam."
+  },
+  {
+    "id": "PRP-0135",
+    "propertyId": "MKT-IMV-0432",
+    "clientId": "MKT-CLI-0663",
+    "brokerId": "COR-0062",
+    "value": 606597,
+    "status": "pendente",
+    "createdAt": "2026-03-19",
+    "notes": "Odio consequatur fugiat."
+  },
+  {
+    "id": "PRP-0136",
+    "propertyId": "MKT-IMV-0159",
+    "clientId": "MKT-CLI-0740",
+    "brokerId": "COR-0008",
+    "value": 1003722,
+    "status": "negociacao",
+    "createdAt": "2026-03-15",
+    "notes": "Culpa maiores labore reprehenderit quas nobis molestiae ab ut."
+  },
+  {
+    "id": "PRP-0137",
+    "propertyId": "MKT-IMV-0238",
+    "clientId": "MKT-CLI-0121",
+    "brokerId": "COR-0070",
+    "value": 2462017,
+    "status": "pendente",
+    "createdAt": "2026-04-17",
+    "notes": "Incidunt iusto voluptates nisi."
+  },
+  {
+    "id": "PRP-0138",
+    "propertyId": "MKT-IMV-0103",
+    "clientId": "MKT-CLI-0447",
+    "brokerId": "COR-0114",
+    "value": 533823,
+    "status": "negociacao",
+    "createdAt": "2026-01-24",
+    "notes": "Quasi consequuntur possimus."
+  },
+  {
+    "id": "PRP-0139",
+    "propertyId": "MKT-IMV-0088",
+    "clientId": "MKT-CLI-1305",
+    "brokerId": "COR-0095",
+    "value": 1221206,
+    "status": "aceita",
+    "createdAt": "2026-07-04",
+    "notes": "Aut omnis hic amet tenetur consequatur consequatur."
+  },
+  {
+    "id": "PRP-0140",
+    "propertyId": "MKT-IMV-0302",
+    "clientId": "MKT-CLI-0312",
+    "brokerId": "COR-0147",
+    "value": 2024517,
+    "status": "pendente",
+    "createdAt": "2026-02-01",
+    "notes": "Eligendi impedit dolores labore."
+  },
+  {
+    "id": "PRP-0141",
+    "propertyId": "MKT-IMV-0155",
+    "clientId": "MKT-CLI-1326",
+    "brokerId": "COR-0021",
+    "value": 90571,
+    "status": "aceita",
+    "createdAt": "2026-06-16",
+    "notes": "Ad aut quo dolor ipsa animi."
+  },
+  {
+    "id": "PRP-0142",
+    "propertyId": "MKT-IMV-0386",
+    "clientId": "MKT-CLI-1040",
+    "brokerId": "COR-0146",
+    "value": 104483,
+    "status": "negociacao",
+    "createdAt": "2026-05-25",
+    "notes": "Iure error quisquam placeat."
+  },
+  {
+    "id": "PRP-0143",
+    "propertyId": "MKT-IMV-0309",
+    "clientId": "MKT-CLI-1210",
+    "brokerId": "COR-0033",
+    "value": 118036,
+    "status": "recusada",
+    "createdAt": "2026-06-14",
+    "notes": "Pariatur dicta incidunt dolorum possimus atque consequuntur explicabo perferendis nostrum."
+  },
+  {
+    "id": "PRP-0144",
+    "propertyId": "MKT-IMV-0003",
+    "clientId": "MKT-CLI-1213",
+    "brokerId": "COR-0125",
+    "value": 423417,
+    "status": "pendente",
+    "createdAt": "2026-05-04",
+    "notes": "Est quibusdam adipisci sequi praesentium quis possimus quam beatae."
+  },
+  {
+    "id": "PRP-0145",
+    "propertyId": "MKT-IMV-0112",
+    "clientId": "MKT-CLI-0361",
+    "brokerId": "COR-0049",
+    "value": 131303,
+    "status": "pendente",
+    "createdAt": "2026-05-13",
+    "notes": "Quis error perspiciatis numquam."
+  },
+  {
+    "id": "PRP-0146",
+    "propertyId": "MKT-IMV-0154",
+    "clientId": "MKT-CLI-0106",
+    "brokerId": "COR-0107",
+    "value": 188087,
+    "status": "pendente",
+    "createdAt": "2026-05-23",
+    "notes": "Expedita sint eum accusamus accusantium odit similique dolore dolorem."
+  },
+  {
+    "id": "PRP-0147",
+    "propertyId": "MKT-IMV-0484",
+    "clientId": "MKT-CLI-0761",
+    "brokerId": "COR-0140",
+    "value": 1821150,
+    "status": "aceita",
+    "createdAt": "2026-06-14",
+    "notes": "Maiores in consectetur ullam aspernatur necessitatibus aperiam."
+  },
+  {
+    "id": "PRP-0148",
+    "propertyId": "MKT-IMV-0068",
+    "clientId": "MKT-CLI-0308",
+    "brokerId": "COR-0020",
+    "value": 348025,
+    "status": "recusada",
+    "createdAt": "2026-03-29",
+    "notes": "Esse possimus omnis soluta beatae."
+  },
+  {
+    "id": "PRP-0149",
+    "propertyId": "MKT-IMV-0331",
+    "clientId": "MKT-CLI-0668",
+    "brokerId": "COR-0101",
+    "value": 92070,
+    "status": "aceita",
+    "createdAt": "2026-03-15",
+    "notes": "Nisi reiciendis quaerat."
+  },
+  {
+    "id": "PRP-0150",
+    "propertyId": "MKT-IMV-0479",
+    "clientId": "MKT-CLI-0377",
+    "brokerId": "COR-0091",
+    "value": 100443,
+    "status": "negociacao",
+    "createdAt": "2026-01-07",
+    "notes": "Nobis voluptates expedita deserunt."
+  },
+  {
+    "id": "PRP-0151",
+    "propertyId": "MKT-IMV-0451",
+    "clientId": "MKT-CLI-0543",
+    "brokerId": "COR-0067",
+    "value": 125892,
+    "status": "negociacao",
+    "createdAt": "2026-04-17",
+    "notes": "Explicabo quisquam veritatis voluptatem."
+  },
+  {
+    "id": "PRP-0152",
+    "propertyId": "MKT-IMV-0170",
+    "clientId": "MKT-CLI-0477",
+    "brokerId": "COR-0082",
+    "value": 970515,
+    "status": "aceita",
+    "createdAt": "2026-01-30",
+    "notes": "Quo natus omnis."
+  },
+  {
+    "id": "PRP-0153",
+    "propertyId": "MKT-IMV-0695",
+    "clientId": "MKT-CLI-0028",
+    "brokerId": "COR-0033",
+    "value": 107243,
+    "status": "pendente",
+    "createdAt": "2026-06-05",
+    "notes": "Repellendus rerum reiciendis quisquam aliquam ullam dolores odio placeat at."
+  },
+  {
+    "id": "PRP-0154",
+    "propertyId": "MKT-IMV-0203",
+    "clientId": "MKT-CLI-0636",
+    "brokerId": "COR-0005",
+    "value": 1520819,
+    "status": "pendente",
+    "createdAt": "2026-06-02",
+    "notes": "Saepe voluptate vitae."
+  },
+  {
+    "id": "PRP-0155",
+    "propertyId": "MKT-IMV-0231",
+    "clientId": "MKT-CLI-0746",
+    "brokerId": "COR-0078",
+    "value": 1556653,
+    "status": "pendente",
+    "createdAt": "2026-01-09",
+    "notes": "Enim veritatis doloribus et ipsum quasi ullam soluta."
+  },
+  {
+    "id": "PRP-0156",
+    "propertyId": "MKT-IMV-0718",
+    "clientId": "MKT-CLI-0227",
+    "brokerId": "COR-0079",
+    "value": 124698,
+    "status": "negociacao",
+    "createdAt": "2026-03-07",
+    "notes": "Et commodi animi et quibusdam pariatur ut vel soluta."
+  },
+  {
+    "id": "PRP-0157",
+    "propertyId": "MKT-IMV-0555",
+    "clientId": "MKT-CLI-0573",
+    "brokerId": "COR-0106",
+    "value": 1033565,
+    "status": "negociacao",
+    "createdAt": "2026-03-25",
+    "notes": "Ad beatae vel ab expedita id nihil distinctio animi repudiandae."
+  },
+  {
+    "id": "PRP-0158",
+    "propertyId": "MKT-IMV-0703",
+    "clientId": "MKT-CLI-0828",
+    "brokerId": "COR-0015",
+    "value": 144350,
+    "status": "recusada",
+    "createdAt": "2026-03-22",
+    "notes": "Iste aperiam cumque."
+  },
+  {
+    "id": "PRP-0159",
+    "propertyId": "MKT-IMV-0344",
+    "clientId": "MKT-CLI-1255",
+    "brokerId": "COR-0143",
+    "value": 325827,
+    "status": "aceita",
+    "createdAt": "2026-06-15",
+    "notes": "Asperiores officia commodi fuga assumenda fugiat."
+  },
+  {
+    "id": "PRP-0160",
+    "propertyId": "MKT-IMV-0289",
+    "clientId": "MKT-CLI-0067",
+    "brokerId": "COR-0064",
+    "value": 1650531,
+    "status": "negociacao",
+    "createdAt": "2026-02-13",
+    "notes": "Veniam explicabo nihil."
+  },
+  {
+    "id": "PRP-0161",
+    "propertyId": "MKT-IMV-0195",
+    "clientId": "MKT-CLI-0609",
+    "brokerId": "COR-0058",
+    "value": 2773368,
+    "status": "negociacao",
+    "createdAt": "2026-03-23",
+    "notes": "Exercitationem aliquam corporis."
+  },
+  {
+    "id": "PRP-0162",
+    "propertyId": "MKT-IMV-0751",
+    "clientId": "MKT-CLI-0003",
+    "brokerId": "COR-0130",
+    "value": 339979,
+    "status": "negociacao",
+    "createdAt": "2026-02-04",
+    "notes": "Cumque reiciendis illum."
+  },
+  {
+    "id": "PRP-0163",
+    "propertyId": "MKT-IMV-0765",
+    "clientId": "MKT-CLI-0961",
+    "brokerId": "COR-0020",
+    "value": 2895416,
+    "status": "recusada",
+    "createdAt": "2026-05-04",
+    "notes": "Vitae iusto at omnis iste quaerat."
+  },
+  {
+    "id": "PRP-0164",
+    "propertyId": "MKT-IMV-0027",
+    "clientId": "MKT-CLI-0877",
+    "brokerId": "COR-0075",
+    "value": 1453991,
+    "status": "recusada",
+    "createdAt": "2026-05-24",
+    "notes": "Sapiente quidem adipisci."
+  },
+  {
+    "id": "PRP-0165",
+    "propertyId": "MKT-IMV-0345",
+    "clientId": "MKT-CLI-1390",
+    "brokerId": "COR-0089",
+    "value": 797136,
+    "status": "aceita",
+    "createdAt": "2026-06-14",
+    "notes": "Labore dolore ex recusandae suscipit."
+  },
+  {
+    "id": "PRP-0166",
+    "propertyId": "MKT-IMV-0096",
+    "clientId": "MKT-CLI-1243",
+    "brokerId": "COR-0015",
+    "value": 1188453,
+    "status": "recusada",
+    "createdAt": "2026-06-19",
+    "notes": "Voluptate est sit placeat corporis maiores."
+  },
+  {
+    "id": "PRP-0167",
+    "propertyId": "MKT-IMV-0197",
+    "clientId": "MKT-CLI-0409",
+    "brokerId": "COR-0090",
+    "value": 3228288,
+    "status": "recusada",
+    "createdAt": "2026-03-14",
+    "notes": "Doloribus vitae veritatis animi sunt architecto molestiae sapiente."
+  },
+  {
+    "id": "PRP-0168",
+    "propertyId": "MKT-IMV-0525",
+    "clientId": "MKT-CLI-0236",
+    "brokerId": "COR-0016",
+    "value": 91742,
+    "status": "aceita",
+    "createdAt": "2026-02-16",
+    "notes": "Ea perspiciatis autem et nostrum nam numquam maiores ex."
+  },
+  {
+    "id": "PRP-0169",
+    "propertyId": "MKT-IMV-0058",
+    "clientId": "MKT-CLI-0637",
+    "brokerId": "COR-0001",
+    "value": 1101821,
+    "status": "recusada",
+    "createdAt": "2026-02-13",
+    "notes": "Accusantium ratione ipsam quod culpa ullam blanditiis fugiat accusamus."
+  },
+  {
+    "id": "PRP-0170",
+    "propertyId": "MKT-IMV-0134",
+    "clientId": "MKT-CLI-0915",
+    "brokerId": "COR-0068",
+    "value": 956302,
+    "status": "pendente",
+    "createdAt": "2026-06-20",
+    "notes": "Nisi vel facilis voluptates voluptas impedit consectetur commodi."
+  },
+  {
+    "id": "PRP-0171",
+    "propertyId": "MKT-IMV-0040",
+    "clientId": "MKT-CLI-1359",
+    "brokerId": "COR-0113",
+    "value": 2162314,
+    "status": "aceita",
+    "createdAt": "2026-01-18",
+    "notes": "Rerum eaque iusto placeat eaque."
+  },
+  {
+    "id": "PRP-0172",
+    "propertyId": "MKT-IMV-0142",
+    "clientId": "MKT-CLI-0450",
+    "brokerId": "COR-0015",
+    "value": 2401174,
+    "status": "pendente",
+    "createdAt": "2026-04-24",
+    "notes": "Consequatur omnis officia sapiente."
+  },
+  {
+    "id": "PRP-0173",
+    "propertyId": "MKT-IMV-0470",
+    "clientId": "MKT-CLI-0992",
+    "brokerId": "COR-0049",
+    "value": 85636,
+    "status": "negociacao",
+    "createdAt": "2026-06-12",
+    "notes": "Saepe laudantium optio tempora."
+  },
+  {
+    "id": "PRP-0174",
+    "propertyId": "MKT-IMV-0754",
+    "clientId": "MKT-CLI-0981",
+    "brokerId": "COR-0129",
+    "value": 103935,
+    "status": "pendente",
+    "createdAt": "2026-06-01",
+    "notes": "A cumque facere hic numquam hic."
+  },
+  {
+    "id": "PRP-0175",
+    "propertyId": "MKT-IMV-0456",
+    "clientId": "MKT-CLI-1186",
+    "brokerId": "COR-0119",
+    "value": 3886022,
+    "status": "negociacao",
+    "createdAt": "2026-05-30",
+    "notes": "Ab id quisquam assumenda vel consequuntur fugit."
+  },
+  {
+    "id": "PRP-0176",
+    "propertyId": "MKT-IMV-0253",
+    "clientId": "MKT-CLI-1298",
+    "brokerId": "COR-0020",
+    "value": 171900,
+    "status": "negociacao",
+    "createdAt": "2026-02-11",
+    "notes": "Aliquam optio nostrum qui atque officia."
+  },
+  {
+    "id": "PRP-0177",
+    "propertyId": "MKT-IMV-0551",
+    "clientId": "MKT-CLI-0577",
+    "brokerId": "COR-0146",
+    "value": 1357443,
+    "status": "aceita",
+    "createdAt": "2026-04-05",
+    "notes": "Harum atque cumque vero repellat."
+  },
+  {
+    "id": "PRP-0178",
+    "propertyId": "MKT-IMV-0763",
+    "clientId": "MKT-CLI-1081",
+    "brokerId": "COR-0023",
+    "value": 90100,
+    "status": "recusada",
+    "createdAt": "2026-01-13",
+    "notes": "Eligendi vero tempora maiores quaerat dicta similique cupiditate aspernatur beatae."
+  },
+  {
+    "id": "PRP-0179",
+    "propertyId": "MKT-IMV-0351",
+    "clientId": "MKT-CLI-1341",
+    "brokerId": "COR-0126",
+    "value": 1003817,
+    "status": "pendente",
+    "createdAt": "2026-05-30",
+    "notes": "Inventore praesentium sequi."
+  },
+  {
+    "id": "PRP-0180",
+    "propertyId": "MKT-IMV-0205",
+    "clientId": "MKT-CLI-1123",
+    "brokerId": "COR-0022",
+    "value": 802073,
+    "status": "negociacao",
+    "createdAt": "2026-05-22",
+    "notes": "Libero incidunt dolorum cupiditate molestiae molestias esse totam."
+  },
+  {
+    "id": "PRP-0181",
+    "propertyId": "MKT-IMV-0147",
+    "clientId": "MKT-CLI-0439",
+    "brokerId": "COR-0102",
+    "value": 1151707,
+    "status": "pendente",
+    "createdAt": "2026-03-18",
+    "notes": "Cum sint quibusdam eos."
+  },
+  {
+    "id": "PRP-0182",
+    "propertyId": "MKT-IMV-0098",
+    "clientId": "MKT-CLI-1314",
+    "brokerId": "COR-0042",
+    "value": 691132,
+    "status": "negociacao",
+    "createdAt": "2026-01-20",
+    "notes": "Accusamus accusamus distinctio a."
+  },
+  {
+    "id": "PRP-0183",
+    "propertyId": "MKT-IMV-0453",
+    "clientId": "MKT-CLI-0608",
+    "brokerId": "COR-0142",
+    "value": 1949679,
+    "status": "pendente",
+    "createdAt": "2026-02-05",
+    "notes": "Ipsa voluptas possimus veritatis animi excepturi sunt."
+  },
+  {
+    "id": "PRP-0184",
+    "propertyId": "MKT-IMV-0320",
+    "clientId": "MKT-CLI-0575",
+    "brokerId": "COR-0070",
+    "value": 1826352,
+    "status": "pendente",
+    "createdAt": "2026-02-06",
+    "notes": "Repudiandae ad vero."
+  },
+  {
+    "id": "PRP-0185",
+    "propertyId": "MKT-IMV-0682",
+    "clientId": "MKT-CLI-0015",
+    "brokerId": "COR-0133",
+    "value": 3797427,
+    "status": "negociacao",
+    "createdAt": "2026-03-01",
+    "notes": "Dolore inventore enim."
+  },
+  {
+    "id": "PRP-0186",
+    "propertyId": "MKT-IMV-0337",
+    "clientId": "MKT-CLI-0454",
+    "brokerId": "COR-0059",
+    "value": 95470,
+    "status": "aceita",
+    "createdAt": "2026-04-17",
+    "notes": "Magnam alias excepturi voluptas."
+  },
+  {
+    "id": "PRP-0187",
+    "propertyId": "MKT-IMV-0454",
+    "clientId": "MKT-CLI-0731",
+    "brokerId": "COR-0030",
+    "value": 584807,
+    "status": "aceita",
+    "createdAt": "2026-03-28",
+    "notes": "Laborum consequuntur beatae dignissimos hic illo quae corrupti asperiores."
+  },
+  {
+    "id": "PRP-0188",
+    "propertyId": "MKT-IMV-0384",
+    "clientId": "MKT-CLI-1113",
+    "brokerId": "COR-0066",
+    "value": 193826,
+    "status": "negociacao",
+    "createdAt": "2026-05-27",
+    "notes": "Maiores ducimus mollitia debitis reprehenderit odio dolore."
+  },
+  {
+    "id": "PRP-0189",
+    "propertyId": "MKT-IMV-0246",
+    "clientId": "MKT-CLI-0409",
+    "brokerId": "COR-0098",
+    "value": 581744,
+    "status": "recusada",
+    "createdAt": "2026-04-08",
+    "notes": "Necessitatibus repudiandae in est eos culpa voluptatem animi quis."
+  },
+  {
+    "id": "PRP-0190",
+    "propertyId": "MKT-IMV-0472",
+    "clientId": "MKT-CLI-0139",
+    "brokerId": "COR-0068",
+    "value": 141998,
+    "status": "aceita",
+    "createdAt": "2026-06-15",
+    "notes": "Voluptatem inventore nesciunt repudiandae a."
+  },
+  {
+    "id": "PRP-0191",
+    "propertyId": "MKT-IMV-0192",
+    "clientId": "MKT-CLI-1059",
+    "brokerId": "COR-0067",
+    "value": 541778,
+    "status": "aceita",
+    "createdAt": "2026-03-20",
+    "notes": "Nesciunt odit ipsam consectetur maxime perspiciatis."
+  },
+  {
+    "id": "PRP-0192",
+    "propertyId": "MKT-IMV-0570",
+    "clientId": "MKT-CLI-0745",
+    "brokerId": "COR-0051",
+    "value": 101713,
+    "status": "aceita",
+    "createdAt": "2026-03-18",
+    "notes": "Ut sint saepe suscipit cupiditate sunt voluptas."
+  },
+  {
+    "id": "PRP-0193",
+    "propertyId": "MKT-IMV-0757",
+    "clientId": "MKT-CLI-0406",
+    "brokerId": "COR-0048",
+    "value": 1281232,
+    "status": "recusada",
+    "createdAt": "2026-01-08",
+    "notes": "Consectetur rem molestias assumenda odit vel."
+  },
+  {
+    "id": "PRP-0194",
+    "propertyId": "MKT-IMV-0773",
+    "clientId": "MKT-CLI-1473",
+    "brokerId": "COR-0119",
+    "value": 94139,
+    "status": "negociacao",
+    "createdAt": "2026-06-12",
+    "notes": "Qui accusantium totam animi animi facere tempore neque earum neque."
+  },
+  {
+    "id": "PRP-0195",
+    "propertyId": "MKT-IMV-0294",
+    "clientId": "MKT-CLI-0884",
+    "brokerId": "COR-0055",
+    "value": 137297,
+    "status": "pendente",
+    "createdAt": "2026-03-13",
+    "notes": "Velit iste excepturi aut aperiam hic nam quia ullam excepturi."
+  },
+  {
+    "id": "PRP-0196",
+    "propertyId": "MKT-IMV-0574",
+    "clientId": "MKT-CLI-0189",
+    "brokerId": "COR-0138",
+    "value": 393213,
+    "status": "aceita",
+    "createdAt": "2026-03-26",
+    "notes": "Quia ducimus libero eveniet animi impedit ipsa voluptatem quidem."
+  },
+  {
+    "id": "PRP-0197",
+    "propertyId": "MKT-IMV-0353",
+    "clientId": "MKT-CLI-0023",
+    "brokerId": "COR-0091",
+    "value": 1951896,
+    "status": "negociacao",
+    "createdAt": "2026-01-31",
+    "notes": "Voluptates sit aliquid mollitia."
+  },
+  {
+    "id": "PRP-0198",
+    "propertyId": "MKT-IMV-0113",
+    "clientId": "MKT-CLI-1188",
+    "brokerId": "COR-0001",
+    "value": 1459909,
+    "status": "pendente",
+    "createdAt": "2026-07-01",
+    "notes": "Dolorem qui tempora maxime accusantium vitae quod deserunt provident nisi."
+  },
+  {
+    "id": "PRP-0199",
+    "propertyId": "MKT-IMV-0088",
+    "clientId": "MKT-CLI-0206",
+    "brokerId": "COR-0095",
+    "value": 1124735,
+    "status": "aceita",
+    "createdAt": "2026-06-26",
+    "notes": "Nihil similique quia sequi."
+  },
+  {
+    "id": "PRP-0200",
+    "propertyId": "MKT-IMV-0166",
+    "clientId": "MKT-CLI-1362",
+    "brokerId": "COR-0140",
+    "value": 113269,
+    "status": "pendente",
+    "createdAt": "2026-01-15",
+    "notes": "Cupiditate similique laborum occaecati aliquid dolorem."
+  },
+  {
+    "id": "PRP-0201",
+    "propertyId": "MKT-IMV-0378",
+    "clientId": "MKT-CLI-0921",
+    "brokerId": "COR-0071",
+    "value": 135637,
+    "status": "negociacao",
+    "createdAt": "2026-06-20",
+    "notes": "Id expedita non quo."
+  },
+  {
+    "id": "PRP-0202",
+    "propertyId": "MKT-IMV-0471",
+    "clientId": "MKT-CLI-0810",
+    "brokerId": "COR-0141",
+    "value": 2328672,
+    "status": "recusada",
+    "createdAt": "2026-03-18",
+    "notes": "Dolor quaerat voluptas accusamus nemo."
+  },
+  {
+    "id": "PRP-0203",
+    "propertyId": "MKT-IMV-0724",
+    "clientId": "MKT-CLI-1288",
+    "brokerId": "COR-0041",
+    "value": 109475,
+    "status": "pendente",
+    "createdAt": "2026-04-12",
+    "notes": "Modi excepturi eaque quaerat saepe nobis itaque aliquid vero laborum."
+  },
+  {
+    "id": "PRP-0204",
+    "propertyId": "MKT-IMV-0687",
+    "clientId": "MKT-CLI-1409",
+    "brokerId": "COR-0050",
+    "value": 1222944,
+    "status": "recusada",
+    "createdAt": "2026-03-21",
+    "notes": "Fugit consequatur non ipsam ad necessitatibus."
+  },
+  {
+    "id": "PRP-0205",
+    "propertyId": "MKT-IMV-0187",
+    "clientId": "MKT-CLI-1099",
+    "brokerId": "COR-0026",
+    "value": 993790,
+    "status": "recusada",
+    "createdAt": "2026-06-04",
+    "notes": "Ipsam illum numquam id animi culpa dignissimos earum quam id."
+  },
+  {
+    "id": "PRP-0206",
+    "propertyId": "MKT-IMV-0534",
+    "clientId": "MKT-CLI-0966",
+    "brokerId": "COR-0074",
+    "value": 98915,
+    "status": "pendente",
+    "createdAt": "2026-06-22",
+    "notes": "Ea rem nihil iure saepe magnam quia illo recusandae similique."
+  },
+  {
+    "id": "PRP-0207",
+    "propertyId": "MKT-IMV-0078",
+    "clientId": "MKT-CLI-0831",
+    "brokerId": "COR-0071",
+    "value": 83628,
+    "status": "recusada",
+    "createdAt": "2026-04-01",
+    "notes": "Distinctio facilis ut beatae sint esse a nesciunt qui dolores."
+  },
+  {
+    "id": "PRP-0208",
+    "propertyId": "MKT-IMV-0134",
+    "clientId": "MKT-CLI-0470",
+    "brokerId": "COR-0068",
+    "value": 936918,
+    "status": "recusada",
+    "createdAt": "2026-01-16",
+    "notes": "Consectetur nihil aspernatur id sit nemo officia eligendi a."
+  },
+  {
+    "id": "PRP-0209",
+    "propertyId": "MKT-IMV-0606",
+    "clientId": "MKT-CLI-0461",
+    "brokerId": "COR-0128",
+    "value": 1414199,
+    "status": "aceita",
+    "createdAt": "2026-02-17",
+    "notes": "Cumque sunt deserunt."
+  },
+  {
+    "id": "PRP-0210",
+    "propertyId": "MKT-IMV-0606",
+    "clientId": "MKT-CLI-1331",
+    "brokerId": "COR-0128",
+    "value": 1261378,
+    "status": "recusada",
+    "createdAt": "2026-04-09",
+    "notes": "In dolorem odio quidem itaque excepturi excepturi adipisci optio."
+  },
+  {
+    "id": "PRP-0211",
+    "propertyId": "MKT-IMV-0190",
+    "clientId": "MKT-CLI-0784",
+    "brokerId": "COR-0035",
+    "value": 1391803,
+    "status": "negociacao",
+    "createdAt": "2026-03-15",
+    "notes": "Porro molestias dolorum earum est dolore officiis omnis voluptatem."
+  },
+  {
+    "id": "PRP-0212",
+    "propertyId": "MKT-IMV-0798",
+    "clientId": "MKT-CLI-0295",
+    "brokerId": "COR-0105",
+    "value": 419610,
+    "status": "aceita",
+    "createdAt": "2026-02-24",
+    "notes": "Facilis facilis officiis reiciendis dicta velit."
+  },
+  {
+    "id": "PRP-0213",
+    "propertyId": "MKT-IMV-0182",
+    "clientId": "MKT-CLI-1226",
+    "brokerId": "COR-0015",
+    "value": 87627,
+    "status": "pendente",
+    "createdAt": "2026-05-25",
+    "notes": "Odio repellat similique odit nulla eos ad."
+  },
+  {
+    "id": "PRP-0214",
+    "propertyId": "MKT-IMV-0319",
+    "clientId": "MKT-CLI-1375",
+    "brokerId": "COR-0091",
+    "value": 1622818,
+    "status": "negociacao",
+    "createdAt": "2026-06-04",
+    "notes": "Ea sed officiis veniam placeat veritatis mollitia labore."
+  },
+  {
+    "id": "PRP-0215",
+    "propertyId": "MKT-IMV-0576",
+    "clientId": "MKT-CLI-1035",
+    "brokerId": "COR-0041",
+    "value": 2278191,
+    "status": "pendente",
+    "createdAt": "2026-05-11",
+    "notes": "Aspernatur eveniet iste voluptatum reiciendis."
+  },
+  {
+    "id": "PRP-0216",
+    "propertyId": "MKT-IMV-0436",
+    "clientId": "MKT-CLI-1123",
+    "brokerId": "COR-0014",
+    "value": 1462186,
+    "status": "negociacao",
+    "createdAt": "2026-06-14",
+    "notes": "Architecto tenetur in harum illum magni veniam est placeat."
+  },
+  {
+    "id": "PRP-0217",
+    "propertyId": "MKT-IMV-0346",
+    "clientId": "MKT-CLI-1262",
+    "brokerId": "COR-0148",
+    "value": 2680035,
+    "status": "aceita",
+    "createdAt": "2026-04-18",
+    "notes": "Nam tenetur nisi dolore ab labore."
+  },
+  {
+    "id": "PRP-0218",
+    "propertyId": "MKT-IMV-0183",
+    "clientId": "MKT-CLI-0818",
+    "brokerId": "COR-0084",
+    "value": 148113,
+    "status": "aceita",
+    "createdAt": "2026-06-24",
+    "notes": "Quo odio distinctio soluta aliquam aut tempora quae."
+  },
+  {
+    "id": "PRP-0219",
+    "propertyId": "MKT-IMV-0207",
+    "clientId": "MKT-CLI-0465",
+    "brokerId": "COR-0013",
+    "value": 1089315,
+    "status": "recusada",
+    "createdAt": "2026-06-20",
+    "notes": "Provident magnam quod dolores ratione rem natus."
+  },
+  {
+    "id": "PRP-0220",
+    "propertyId": "MKT-IMV-0105",
+    "clientId": "MKT-CLI-0696",
+    "brokerId": "COR-0039",
+    "value": 1981531,
+    "status": "recusada",
+    "createdAt": "2026-05-24",
+    "notes": "Voluptatibus perspiciatis ducimus dolorem."
+  },
+  {
+    "id": "PRP-0221",
+    "propertyId": "MKT-IMV-0667",
+    "clientId": "MKT-CLI-0141",
+    "brokerId": "COR-0083",
+    "value": 972838,
+    "status": "negociacao",
+    "createdAt": "2026-04-09",
+    "notes": "Sapiente aspernatur autem ad odit iste mollitia exercitationem reprehenderit quisquam."
+  },
+  {
+    "id": "PRP-0222",
+    "propertyId": "MKT-IMV-0046",
+    "clientId": "MKT-CLI-1395",
+    "brokerId": "COR-0042",
+    "value": 639971,
+    "status": "pendente",
+    "createdAt": "2026-04-19",
+    "notes": "Consectetur nam optio tempore."
+  },
+  {
+    "id": "PRP-0223",
+    "propertyId": "MKT-IMV-0057",
+    "clientId": "MKT-CLI-0189",
+    "brokerId": "COR-0087",
+    "value": 164307,
+    "status": "negociacao",
+    "createdAt": "2026-04-24",
+    "notes": "Necessitatibus adipisci optio amet corporis rerum recusandae officiis."
+  },
+  {
+    "id": "PRP-0224",
+    "propertyId": "MKT-IMV-0148",
+    "clientId": "MKT-CLI-0503",
+    "brokerId": "COR-0070",
+    "value": 1095322,
+    "status": "pendente",
+    "createdAt": "2026-06-23",
+    "notes": "Modi praesentium magni accusamus aut nostrum fugiat ipsam."
+  },
+  {
+    "id": "PRP-0225",
+    "propertyId": "MKT-IMV-0653",
+    "clientId": "MKT-CLI-0134",
+    "brokerId": "COR-0087",
+    "value": 79675,
+    "status": "negociacao",
+    "createdAt": "2026-02-09",
+    "notes": "Quisquam itaque aut consectetur."
+  },
+  {
+    "id": "PRP-0226",
+    "propertyId": "MKT-IMV-0098",
+    "clientId": "MKT-CLI-0185",
+    "brokerId": "COR-0042",
+    "value": 670577,
+    "status": "pendente",
+    "createdAt": "2026-04-24",
+    "notes": "Sit voluptatibus neque nam hic deserunt deserunt adipisci."
+  },
+  {
+    "id": "PRP-0227",
+    "propertyId": "MKT-IMV-0525",
+    "clientId": "MKT-CLI-0322",
+    "brokerId": "COR-0016",
+    "value": 86882,
+    "status": "aceita",
+    "createdAt": "2026-03-05",
+    "notes": "Deleniti nostrum similique pariatur."
+  },
+  {
+    "id": "PRP-0228",
+    "propertyId": "MKT-IMV-0252",
+    "clientId": "MKT-CLI-0820",
+    "brokerId": "COR-0145",
+    "value": 1911477,
+    "status": "recusada",
+    "createdAt": "2026-05-20",
+    "notes": "Nisi consectetur ratione quos."
+  },
+  {
+    "id": "PRP-0229",
+    "propertyId": "MKT-IMV-0119",
+    "clientId": "MKT-CLI-0453",
+    "brokerId": "COR-0014",
+    "value": 104726,
+    "status": "negociacao",
+    "createdAt": "2026-05-15",
+    "notes": "Voluptatibus temporibus odit ab error mollitia ea sunt tempora odio."
+  },
+  {
+    "id": "PRP-0230",
+    "propertyId": "MKT-IMV-0443",
+    "clientId": "MKT-CLI-0137",
+    "brokerId": "COR-0049",
+    "value": 768622,
+    "status": "pendente",
+    "createdAt": "2026-06-30",
+    "notes": "Quod nulla laborum eos deserunt."
+  },
+  {
+    "id": "PRP-0231",
+    "propertyId": "MKT-IMV-0522",
+    "clientId": "MKT-CLI-1288",
+    "brokerId": "COR-0101",
+    "value": 1180265,
+    "status": "aceita",
+    "createdAt": "2026-03-23",
+    "notes": "Alias aliquid similique animi ipsa dicta."
+  },
+  {
+    "id": "PRP-0232",
+    "propertyId": "MKT-IMV-0462",
+    "clientId": "MKT-CLI-0016",
+    "brokerId": "COR-0092",
+    "value": 1473835,
+    "status": "recusada",
+    "createdAt": "2026-05-14",
+    "notes": "Possimus eveniet exercitationem labore iusto."
+  },
+  {
+    "id": "PRP-0233",
+    "propertyId": "MKT-IMV-0051",
+    "clientId": "MKT-CLI-0572",
+    "brokerId": "COR-0087",
+    "value": 497272,
+    "status": "negociacao",
+    "createdAt": "2026-01-17",
+    "notes": "Nesciunt quod vitae molestiae corporis temporibus est mollitia similique."
+  },
+  {
+    "id": "PRP-0234",
+    "propertyId": "MKT-IMV-0626",
+    "clientId": "MKT-CLI-0081",
+    "brokerId": "COR-0144",
+    "value": 907400,
+    "status": "recusada",
+    "createdAt": "2026-02-09",
+    "notes": "Impedit odit similique occaecati voluptas sunt deleniti maiores natus."
+  },
+  {
+    "id": "PRP-0235",
+    "propertyId": "MKT-IMV-0231",
+    "clientId": "MKT-CLI-0427",
+    "brokerId": "COR-0078",
+    "value": 1551206,
+    "status": "recusada",
+    "createdAt": "2026-07-02",
+    "notes": "Commodi consectetur natus dolore repellat itaque."
+  },
+  {
+    "id": "PRP-0236",
+    "propertyId": "MKT-IMV-0285",
+    "clientId": "MKT-CLI-0419",
+    "brokerId": "COR-0114",
+    "value": 541092,
+    "status": "pendente",
+    "createdAt": "2026-03-01",
+    "notes": "Distinctio ab consequatur maxime explicabo soluta eos ut."
+  },
+  {
+    "id": "PRP-0237",
+    "propertyId": "MKT-IMV-0736",
+    "clientId": "MKT-CLI-0639",
+    "brokerId": "COR-0030",
+    "value": 724938,
+    "status": "pendente",
+    "createdAt": "2026-05-15",
+    "notes": "Explicabo vel commodi repudiandae necessitatibus."
+  },
+  {
+    "id": "PRP-0238",
+    "propertyId": "MKT-IMV-0081",
+    "clientId": "MKT-CLI-0309",
+    "brokerId": "COR-0144",
+    "value": 1913800,
+    "status": "recusada",
+    "createdAt": "2026-05-10",
+    "notes": "Nihil quasi iure nemo voluptatum voluptatibus."
+  },
+  {
+    "id": "PRP-0239",
+    "propertyId": "MKT-IMV-0528",
+    "clientId": "MKT-CLI-1387",
+    "brokerId": "COR-0077",
+    "value": 131718,
+    "status": "pendente",
+    "createdAt": "2026-04-20",
+    "notes": "Aliquam voluptatum cum repudiandae."
+  },
+  {
+    "id": "PRP-0240",
+    "propertyId": "MKT-IMV-0346",
+    "clientId": "MKT-CLI-0820",
+    "brokerId": "COR-0148",
+    "value": 2562117,
+    "status": "aceita",
+    "createdAt": "2026-04-11",
+    "notes": "Consequatur accusamus voluptatem impedit eum nulla."
+  },
+  {
+    "id": "PRP-0241",
+    "propertyId": "MKT-IMV-0786",
+    "clientId": "MKT-CLI-1163",
+    "brokerId": "COR-0084",
+    "value": 137677,
+    "status": "negociacao",
+    "createdAt": "2026-03-18",
+    "notes": "Soluta adipisci excepturi repellendus in laborum totam voluptates totam."
+  },
+  {
+    "id": "PRP-0242",
+    "propertyId": "MKT-IMV-0188",
+    "clientId": "MKT-CLI-0256",
+    "brokerId": "COR-0089",
+    "value": 169458,
+    "status": "negociacao",
+    "createdAt": "2026-05-28",
+    "notes": "Quibusdam eaque sit iure."
+  },
+  {
+    "id": "PRP-0243",
+    "propertyId": "MKT-IMV-0057",
+    "clientId": "MKT-CLI-0744",
+    "brokerId": "COR-0087",
+    "value": 151750,
+    "status": "negociacao",
+    "createdAt": "2026-07-04",
+    "notes": "Ut a quidem voluptatem sint quo."
+  },
+  {
+    "id": "PRP-0244",
+    "propertyId": "MKT-IMV-0342",
+    "clientId": "MKT-CLI-1469",
+    "brokerId": "COR-0150",
+    "value": 436322,
+    "status": "pendente",
+    "createdAt": "2026-03-20",
+    "notes": "Quae cumque praesentium."
+  },
+  {
+    "id": "PRP-0245",
+    "propertyId": "MKT-IMV-0315",
+    "clientId": "MKT-CLI-1280",
+    "brokerId": "COR-0060",
+    "value": 1460933,
+    "status": "pendente",
+    "createdAt": "2026-05-18",
+    "notes": "Esse alias recusandae temporibus."
+  },
+  {
+    "id": "PRP-0246",
+    "propertyId": "MKT-IMV-0131",
+    "clientId": "MKT-CLI-0930",
+    "brokerId": "COR-0147",
+    "value": 97661,
+    "status": "recusada",
+    "createdAt": "2026-01-29",
+    "notes": "Debitis dolore ullam quae ipsam repellendus non."
+  },
+  {
+    "id": "PRP-0247",
+    "propertyId": "MKT-IMV-0600",
+    "clientId": "MKT-CLI-0949",
+    "brokerId": "COR-0031",
+    "value": 624062,
+    "status": "negociacao",
+    "createdAt": "2026-06-10",
+    "notes": "Eius possimus quod fugiat."
+  },
+  {
+    "id": "PRP-0248",
+    "propertyId": "MKT-IMV-0192",
+    "clientId": "MKT-CLI-1050",
+    "brokerId": "COR-0067",
+    "value": 537062,
+    "status": "pendente",
+    "createdAt": "2026-06-22",
+    "notes": "Ea nulla itaque nostrum recusandae."
+  },
+  {
+    "id": "PRP-0249",
+    "propertyId": "MKT-IMV-0754",
+    "clientId": "MKT-CLI-1098",
+    "brokerId": "COR-0129",
+    "value": 99662,
+    "status": "negociacao",
+    "createdAt": "2026-01-28",
+    "notes": "Saepe totam beatae magni enim sequi at laudantium veritatis."
+  },
+  {
+    "id": "PRP-0250",
+    "propertyId": "MKT-IMV-0445",
+    "clientId": "MKT-CLI-0570",
+    "brokerId": "COR-0028",
+    "value": 1426769,
+    "status": "pendente",
+    "createdAt": "2026-03-04",
+    "notes": "Ducimus nulla eligendi enim."
+  },
+  {
+    "id": "PRP-0251",
+    "propertyId": "MKT-IMV-0740",
+    "clientId": "MKT-CLI-0823",
+    "brokerId": "COR-0140",
+    "value": 2910418,
+    "status": "negociacao",
+    "createdAt": "2026-01-31",
+    "notes": "Fugiat impedit nostrum recusandae laborum ipsa officiis beatae commodi."
+  },
+  {
+    "id": "PRP-0252",
+    "propertyId": "MKT-IMV-0401",
+    "clientId": "MKT-CLI-0632",
+    "brokerId": "COR-0081",
+    "value": 984559,
+    "status": "pendente",
+    "createdAt": "2026-02-25",
+    "notes": "Sit fugit voluptas corrupti consequuntur vero debitis quae."
+  },
+  {
+    "id": "PRP-0253",
+    "propertyId": "MKT-IMV-0164",
+    "clientId": "MKT-CLI-0837",
+    "brokerId": "COR-0122",
+    "value": 2546821,
+    "status": "recusada",
+    "createdAt": "2026-04-01",
+    "notes": "Excepturi illum hic aperiam pariatur culpa delectus cumque."
+  },
+  {
+    "id": "PRP-0254",
+    "propertyId": "MKT-IMV-0798",
+    "clientId": "MKT-CLI-0766",
+    "brokerId": "COR-0105",
+    "value": 456773,
+    "status": "negociacao",
+    "createdAt": "2026-05-17",
+    "notes": "Minima hic error repudiandae minus."
+  },
+  {
+    "id": "PRP-0255",
+    "propertyId": "MKT-IMV-0229",
+    "clientId": "MKT-CLI-0319",
+    "brokerId": "COR-0042",
+    "value": 1709832,
+    "status": "recusada",
+    "createdAt": "2026-04-23",
+    "notes": "Quo consequatur non perspiciatis."
+  },
+  {
+    "id": "PRP-0256",
+    "propertyId": "MKT-IMV-0478",
+    "clientId": "MKT-CLI-0154",
+    "brokerId": "COR-0052",
+    "value": 2948616,
+    "status": "aceita",
+    "createdAt": "2026-02-26",
+    "notes": "Ea velit tenetur blanditiis eaque odit."
+  },
+  {
+    "id": "PRP-0257",
+    "propertyId": "MKT-IMV-0104",
+    "clientId": "MKT-CLI-0822",
+    "brokerId": "COR-0137",
+    "value": 87199,
+    "status": "negociacao",
+    "createdAt": "2026-03-02",
+    "notes": "Accusamus quod est quo maxime laborum est a quis."
+  },
+  {
+    "id": "PRP-0258",
+    "propertyId": "MKT-IMV-0350",
+    "clientId": "MKT-CLI-1077",
+    "brokerId": "COR-0025",
+    "value": 922612,
+    "status": "aceita",
+    "createdAt": "2026-01-08",
+    "notes": "Tempora numquam vitae enim sint repellat ullam maiores temporibus cumque."
+  },
+  {
+    "id": "PRP-0259",
+    "propertyId": "MKT-IMV-0602",
+    "clientId": "MKT-CLI-0350",
+    "brokerId": "COR-0102",
+    "value": 499875,
+    "status": "recusada",
+    "createdAt": "2026-04-28",
+    "notes": "Vitae suscipit placeat cupiditate reiciendis."
+  },
+  {
+    "id": "PRP-0260",
+    "propertyId": "MKT-IMV-0726",
+    "clientId": "MKT-CLI-0493",
+    "brokerId": "COR-0017",
+    "value": 89494,
+    "status": "aceita",
+    "createdAt": "2026-06-13",
+    "notes": "Nihil laudantium tenetur."
+  },
+  {
+    "id": "PRP-0261",
+    "propertyId": "MKT-IMV-0538",
+    "clientId": "MKT-CLI-0559",
+    "brokerId": "COR-0134",
+    "value": 932526,
+    "status": "negociacao",
+    "createdAt": "2026-04-08",
+    "notes": "Dolor voluptate reprehenderit facere esse ea recusandae optio eligendi dolores."
+  },
+  {
+    "id": "PRP-0262",
+    "propertyId": "MKT-IMV-0381",
+    "clientId": "MKT-CLI-0227",
+    "brokerId": "COR-0085",
+    "value": 82451,
+    "status": "negociacao",
+    "createdAt": "2026-03-01",
+    "notes": "Delectus animi fuga illum eveniet nihil nihil cum."
+  },
+  {
+    "id": "PRP-0263",
+    "propertyId": "MKT-IMV-0648",
+    "clientId": "MKT-CLI-0603",
+    "brokerId": "COR-0090",
+    "value": 1009843,
+    "status": "negociacao",
+    "createdAt": "2026-01-27",
+    "notes": "Totam soluta aut repellendus repellendus fugiat."
+  },
+  {
+    "id": "PRP-0264",
+    "propertyId": "MKT-IMV-0619",
+    "clientId": "MKT-CLI-0124",
+    "brokerId": "COR-0131",
+    "value": 324373,
+    "status": "aceita",
+    "createdAt": "2026-02-07",
+    "notes": "Quos natus veniam."
+  },
+  {
+    "id": "PRP-0265",
+    "propertyId": "MKT-IMV-0764",
+    "clientId": "MKT-CLI-1385",
+    "brokerId": "COR-0015",
+    "value": 3471443,
+    "status": "negociacao",
+    "createdAt": "2026-04-15",
+    "notes": "Voluptatibus deserunt in vitae."
+  },
+  {
+    "id": "PRP-0266",
+    "propertyId": "MKT-IMV-0481",
+    "clientId": "MKT-CLI-0156",
+    "brokerId": "COR-0002",
+    "value": 1341020,
+    "status": "negociacao",
+    "createdAt": "2026-04-04",
+    "notes": "Dicta nulla doloribus voluptates."
+  },
+  {
+    "id": "PRP-0267",
+    "propertyId": "MKT-IMV-0340",
+    "clientId": "MKT-CLI-0637",
+    "brokerId": "COR-0100",
+    "value": 856592,
+    "status": "negociacao",
+    "createdAt": "2026-06-19",
+    "notes": "Eos suscipit harum ea maxime aut debitis amet sunt corrupti."
+  },
+  {
+    "id": "PRP-0268",
+    "propertyId": "MKT-IMV-0569",
+    "clientId": "MKT-CLI-0953",
+    "brokerId": "COR-0041",
+    "value": 632073,
+    "status": "aceita",
+    "createdAt": "2026-06-17",
+    "notes": "Asperiores quis ullam illo dolorum animi voluptatem natus."
+  },
+  {
+    "id": "PRP-0269",
+    "propertyId": "MKT-IMV-0362",
+    "clientId": "MKT-CLI-0912",
+    "brokerId": "COR-0126",
+    "value": 741274,
+    "status": "aceita",
+    "createdAt": "2026-02-07",
+    "notes": "Aspernatur natus reiciendis corrupti."
+  },
+  {
+    "id": "PRP-0270",
+    "propertyId": "MKT-IMV-0134",
+    "clientId": "MKT-CLI-0800",
+    "brokerId": "COR-0068",
+    "value": 863962,
+    "status": "recusada",
+    "createdAt": "2026-06-09",
+    "notes": "Vel exercitationem veritatis."
+  },
+  {
+    "id": "PRP-0271",
+    "propertyId": "MKT-IMV-0612",
+    "clientId": "MKT-CLI-1164",
+    "brokerId": "COR-0121",
+    "value": 1338440,
+    "status": "negociacao",
+    "createdAt": "2026-04-25",
+    "notes": "Totam vero eveniet ab dolore quae ipsa cum."
+  },
+  {
+    "id": "PRP-0272",
+    "propertyId": "MKT-IMV-0273",
+    "clientId": "MKT-CLI-0546",
+    "brokerId": "COR-0010",
+    "value": 761420,
+    "status": "aceita",
+    "createdAt": "2026-04-17",
+    "notes": "Dolorum commodi culpa."
+  },
+  {
+    "id": "PRP-0273",
+    "propertyId": "MKT-IMV-0300",
+    "clientId": "MKT-CLI-1327",
+    "brokerId": "COR-0042",
+    "value": 196836,
+    "status": "recusada",
+    "createdAt": "2026-04-27",
+    "notes": "Vitae occaecati enim harum quod debitis impedit ipsum."
+  },
+  {
+    "id": "PRP-0274",
+    "propertyId": "MKT-IMV-0399",
+    "clientId": "MKT-CLI-0347",
+    "brokerId": "COR-0016",
+    "value": 130231,
+    "status": "recusada",
+    "createdAt": "2026-01-24",
+    "notes": "Mollitia autem laborum rerum eveniet earum ducimus suscipit."
+  },
+  {
+    "id": "PRP-0275",
+    "propertyId": "MKT-IMV-0524",
+    "clientId": "MKT-CLI-1208",
+    "brokerId": "COR-0010",
+    "value": 1648149,
+    "status": "pendente",
+    "createdAt": "2026-02-01",
+    "notes": "Occaecati quisquam aperiam."
+  },
+  {
+    "id": "PRP-0276",
+    "propertyId": "MKT-IMV-0381",
+    "clientId": "MKT-CLI-0044",
+    "brokerId": "COR-0085",
+    "value": 88315,
+    "status": "pendente",
+    "createdAt": "2026-01-29",
+    "notes": "Nam voluptas dolore."
+  },
+  {
+    "id": "PRP-0277",
+    "propertyId": "MKT-IMV-0116",
+    "clientId": "MKT-CLI-0422",
+    "brokerId": "COR-0102",
+    "value": 807513,
+    "status": "aceita",
+    "createdAt": "2026-03-29",
+    "notes": "Voluptatum nostrum incidunt animi officiis."
+  },
+  {
+    "id": "PRP-0278",
+    "propertyId": "MKT-IMV-0299",
+    "clientId": "MKT-CLI-0917",
+    "brokerId": "COR-0095",
+    "value": 1267783,
+    "status": "pendente",
+    "createdAt": "2026-03-05",
+    "notes": "Magnam praesentium nemo et ut dolor."
+  },
+  {
+    "id": "PRP-0279",
+    "propertyId": "MKT-IMV-0631",
+    "clientId": "MKT-CLI-0845",
+    "brokerId": "COR-0013",
+    "value": 984780,
+    "status": "negociacao",
+    "createdAt": "2026-03-04",
+    "notes": "Repellendus eligendi eligendi veritatis omnis deserunt quod sapiente."
+  },
+  {
+    "id": "PRP-0280",
+    "propertyId": "MKT-IMV-0237",
+    "clientId": "MKT-CLI-0542",
+    "brokerId": "COR-0129",
+    "value": 2767648,
+    "status": "negociacao",
+    "createdAt": "2026-03-02",
+    "notes": "Fugiat aspernatur rerum corrupti excepturi."
+  },
+  {
+    "id": "PRP-0281",
+    "propertyId": "MKT-IMV-0014",
+    "clientId": "MKT-CLI-0662",
+    "brokerId": "COR-0111",
+    "value": 1906207,
+    "status": "pendente",
+    "createdAt": "2026-01-15",
+    "notes": "Animi error similique aperiam."
+  },
+  {
+    "id": "PRP-0282",
+    "propertyId": "MKT-IMV-0657",
+    "clientId": "MKT-CLI-1365",
+    "brokerId": "COR-0019",
+    "value": 949722,
+    "status": "recusada",
+    "createdAt": "2026-06-21",
+    "notes": "Ut voluptatibus quas rem cumque provident soluta nostrum soluta."
+  },
+  {
+    "id": "PRP-0283",
+    "propertyId": "MKT-IMV-0532",
+    "clientId": "MKT-CLI-1418",
+    "brokerId": "COR-0049",
+    "value": 2461973,
+    "status": "pendente",
+    "createdAt": "2026-04-28",
+    "notes": "Consectetur ex dignissimos veniam atque voluptatibus modi labore."
+  },
+  {
+    "id": "PRP-0284",
+    "propertyId": "MKT-IMV-0353",
+    "clientId": "MKT-CLI-0114",
+    "brokerId": "COR-0091",
+    "value": 1991369,
+    "status": "pendente",
+    "createdAt": "2026-04-04",
+    "notes": "Officia itaque exercitationem porro minus eius odit."
+  },
+  {
+    "id": "PRP-0285",
+    "propertyId": "MKT-IMV-0125",
+    "clientId": "MKT-CLI-0967",
+    "brokerId": "COR-0085",
+    "value": 2093238,
+    "status": "negociacao",
+    "createdAt": "2026-04-22",
+    "notes": "Ratione consequuntur voluptate quisquam quisquam."
+  },
+  {
+    "id": "PRP-0286",
+    "propertyId": "MKT-IMV-0794",
+    "clientId": "MKT-CLI-1454",
+    "brokerId": "COR-0058",
+    "value": 1799951,
+    "status": "pendente",
+    "createdAt": "2026-06-07",
+    "notes": "Esse minus iste harum earum iure voluptas labore minus eos."
+  },
+  {
+    "id": "PRP-0287",
+    "propertyId": "MKT-IMV-0766",
+    "clientId": "MKT-CLI-1474",
+    "brokerId": "COR-0038",
+    "value": 1357315,
+    "status": "recusada",
+    "createdAt": "2026-05-30",
+    "notes": "Esse placeat a corrupti ex inventore dolorum ut."
+  },
+  {
+    "id": "PRP-0288",
+    "propertyId": "MKT-IMV-0549",
+    "clientId": "MKT-CLI-0414",
+    "brokerId": "COR-0147",
+    "value": 2056909,
+    "status": "recusada",
+    "createdAt": "2026-05-21",
+    "notes": "In beatae porro ab earum hic similique officiis modi dolor."
+  },
+  {
+    "id": "PRP-0289",
+    "propertyId": "MKT-IMV-0072",
+    "clientId": "MKT-CLI-0216",
+    "brokerId": "COR-0054",
+    "value": 2272699,
+    "status": "pendente",
+    "createdAt": "2026-01-10",
+    "notes": "Consectetur quas minima excepturi fuga pariatur odit."
+  },
+  {
+    "id": "PRP-0290",
+    "propertyId": "MKT-IMV-0341",
+    "clientId": "MKT-CLI-1018",
+    "brokerId": "COR-0123",
+    "value": 147600,
+    "status": "recusada",
+    "createdAt": "2026-04-03",
+    "notes": "Reprehenderit pariatur voluptatum totam rem."
+  },
+  {
+    "id": "PRP-0291",
+    "propertyId": "MKT-IMV-0329",
+    "clientId": "MKT-CLI-0925",
+    "brokerId": "COR-0029",
+    "value": 858898,
+    "status": "negociacao",
+    "createdAt": "2026-05-13",
+    "notes": "Magni quisquam molestiae nobis repellendus delectus atque veritatis."
+  },
+  {
+    "id": "PRP-0292",
+    "propertyId": "MKT-IMV-0620",
+    "clientId": "MKT-CLI-1113",
+    "brokerId": "COR-0102",
+    "value": 78330,
+    "status": "negociacao",
+    "createdAt": "2026-02-20",
+    "notes": "Voluptatibus culpa ab beatae repellat sapiente officiis nemo perspiciatis."
+  },
+  {
+    "id": "PRP-0293",
+    "propertyId": "MKT-IMV-0241",
+    "clientId": "MKT-CLI-1288",
+    "brokerId": "COR-0146",
+    "value": 90375,
+    "status": "aceita",
+    "createdAt": "2026-03-07",
+    "notes": "Molestiae occaecati aperiam dicta excepturi sapiente asperiores accusantium."
+  },
+  {
+    "id": "PRP-0294",
+    "propertyId": "MKT-IMV-0043",
+    "clientId": "MKT-CLI-1379",
+    "brokerId": "COR-0104",
+    "value": 462326,
+    "status": "pendente",
+    "createdAt": "2026-06-27",
+    "notes": "Iusto culpa molestiae."
+  },
+  {
+    "id": "PRP-0295",
+    "propertyId": "MKT-IMV-0218",
+    "clientId": "MKT-CLI-0327",
+    "brokerId": "COR-0126",
+    "value": 81697,
+    "status": "pendente",
+    "createdAt": "2026-06-24",
+    "notes": "Quae perspiciatis ipsam."
+  },
+  {
+    "id": "PRP-0296",
+    "propertyId": "MKT-IMV-0070",
+    "clientId": "MKT-CLI-0771",
+    "brokerId": "COR-0047",
+    "value": 89773,
+    "status": "negociacao",
+    "createdAt": "2026-06-07",
+    "notes": "Ut maxime est voluptate numquam mollitia itaque placeat nam incidunt."
+  },
+  {
+    "id": "PRP-0297",
+    "propertyId": "MKT-IMV-0578",
+    "clientId": "MKT-CLI-1187",
+    "brokerId": "COR-0061",
+    "value": 2229393,
+    "status": "negociacao",
+    "createdAt": "2026-04-04",
+    "notes": "Animi dolorum molestiae hic quasi sequi nulla explicabo ullam."
+  },
+  {
+    "id": "PRP-0298",
+    "propertyId": "MKT-IMV-0025",
+    "clientId": "MKT-CLI-0629",
+    "brokerId": "COR-0115",
+    "value": 823201,
+    "status": "recusada",
+    "createdAt": "2026-04-22",
+    "notes": "Ab quos fuga."
+  },
+  {
+    "id": "PRP-0299",
+    "propertyId": "MKT-IMV-0051",
+    "clientId": "MKT-CLI-1054",
+    "brokerId": "COR-0087",
+    "value": 473551,
+    "status": "negociacao",
+    "createdAt": "2026-01-17",
+    "notes": "Sunt accusamus tempore ut."
+  },
+  {
+    "id": "PRP-0300",
+    "propertyId": "MKT-IMV-0126",
+    "clientId": "MKT-CLI-1099",
+    "brokerId": "COR-0042",
+    "value": 504223,
+    "status": "pendente",
+    "createdAt": "2026-01-19",
+    "notes": "Eaque earum ex eveniet rerum excepturi at."
+  }
+]
