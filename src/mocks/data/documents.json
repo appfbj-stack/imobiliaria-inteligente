@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "DOC-0001",
+    "title": "Cliente · MKT-CLI-0129",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0129",
+    "fileType": "pdf",
+    "uploadedAt": "2026-04-28",
+    "size": "3.3 MB"
+  },
+  {
+    "id": "DOC-0002",
+    "title": "Cliente · MKT-CLI-0432",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0432",
+    "fileType": "jpg",
+    "uploadedAt": "2025-04-15",
+    "size": "4.8 MB"
+  },
+  {
+    "id": "DOC-0003",
+    "title": "Imovel · MKT-IMV-0288",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0288",
+    "fileType": "pdf",
+    "uploadedAt": "2026-03-26",
+    "size": "1.4 MB"
+  },
+  {
+    "id": "DOC-0004",
+    "title": "Imovel · MKT-IMV-0720",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0720",
+    "fileType": "jpg",
+    "uploadedAt": "2026-03-25",
+    "size": "2.1 MB"
+  },
+  {
+    "id": "DOC-0005",
+    "title": "Contrato · CTR-0095",
+    "category": "contrato",
+    "relatedId": "CTR-0095",
+    "fileType": "jpg",
+    "uploadedAt": "2025-08-25",
+    "size": "2.2 MB"
+  },
+  {
+    "id": "DOC-0006",
+    "title": "Proposta · PRP-0105",
+    "category": "proposta",
+    "relatedId": "PRP-0105",
+    "fileType": "docx",
+    "uploadedAt": "2025-08-20",
+    "size": "1.4 MB"
+  },
+  {
+    "id": "DOC-0007",
+    "title": "Imovel · MKT-IMV-0151",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0151",
+    "fileType": "pdf",
+    "uploadedAt": "2026-03-13",
+    "size": "6.4 MB"
+  },
+  {
+    "id": "DOC-0008",
+    "title": "Financeiro · FIN-0060",
+    "category": "financeiro",
+    "relatedId": "FIN-0060",
+    "fileType": "docx",
+    "uploadedAt": "2025-09-12",
+    "size": "3.6 MB"
+  },
+  {
+    "id": "DOC-0009",
+    "title": "Cliente · MKT-CLI-1264",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1264",
+    "fileType": "docx",
+    "uploadedAt": "2026-06-28",
+    "size": "7.6 MB"
+  },
+  {
+    "id": "DOC-0010",
+    "title": "Proposta · PRP-0154",
+    "category": "proposta",
+    "relatedId": "PRP-0154",
+    "fileType": "docx",
+    "uploadedAt": "2026-01-27",
+    "size": "1.8 MB"
+  },
+  {
+    "id": "DOC-0011",
+    "title": "Cliente · MKT-CLI-0173",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0173",
+    "fileType": "jpg",
+    "uploadedAt": "2025-07-21",
+    "size": "4.9 MB"
+  },
+  {
+    "id": "DOC-0012",
+    "title": "Imovel · MKT-IMV-0367",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0367",
+    "fileType": "pdf",
+    "uploadedAt": "2025-08-19",
+    "size": "2.8 MB"
+  },
+  {
+    "id": "DOC-0013",
+    "title": "Financeiro · FIN-0191",
+    "category": "financeiro",
+    "relatedId": "FIN-0191",
+    "fileType": "docx",
+    "uploadedAt": "2025-05-26",
+    "size": "2.7 MB"
+  },
+  {
+    "id": "DOC-0014",
+    "title": "Contrato · CTR-0495",
+    "category": "contrato",
+    "relatedId": "CTR-0495",
+    "fileType": "jpg",
+    "uploadedAt": "2025-05-07",
+    "size": "7.8 MB"
+  },
+  {
+    "id": "DOC-0015",
+    "title": "Imovel · MKT-IMV-0612",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0612",
+    "fileType": "jpg",
+    "uploadedAt": "2025-08-19",
+    "size": "4.1 MB"
+  },
+  {
+    "id": "DOC-0016",
+    "title": "Cliente · MKT-CLI-0276",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0276",
+    "fileType": "docx",
+    "uploadedAt": "2025-09-16",
+    "size": "5.5 MB"
+  },
+  {
+    "id": "DOC-0017",
+    "title": "Contrato · CTR-0230",
+    "category": "contrato",
+    "relatedId": "CTR-0230",
+    "fileType": "pdf",
+    "uploadedAt": "2025-11-16",
+    "size": "3.9 MB"
+  },
+  {
+    "id": "DOC-0018",
+    "title": "Imovel · MKT-IMV-0679",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0679",
+    "fileType": "jpg",
+    "uploadedAt": "2026-05-20",
+    "size": "0.2 MB"
+  },
+  {
+    "id": "DOC-0019",
+    "title": "Contrato · CTR-0440",
+    "category": "contrato",
+    "relatedId": "CTR-0440",
+    "fileType": "docx",
+    "uploadedAt": "2025-06-05",
+    "size": "5.4 MB"
+  },
+  {
+    "id": "DOC-0020",
+    "title": "Proposta · PRP-0067",
+    "category": "proposta",
+    "relatedId": "PRP-0067",
+    "fileType": "jpg",
+    "uploadedAt": "2025-08-09",
+    "size": "2.9 MB"
+  },
+  {
+    "id": "DOC-0021",
+    "title": "Financeiro · FIN-0156",
+    "category": "financeiro",
+    "relatedId": "FIN-0156",
+    "fileType": "pdf",
+    "uploadedAt": "2026-03-24",
+    "size": "2.2 MB"
+  },
+  {
+    "id": "DOC-0022",
+    "title": "Financeiro · FIN-0187",
+    "category": "financeiro",
+    "relatedId": "FIN-0187",
+    "fileType": "docx",
+    "uploadedAt": "2026-04-28",
+    "size": "4.3 MB"
+  },
+  {
+    "id": "DOC-0023",
+    "title": "Financeiro · FIN-0001",
+    "category": "financeiro",
+    "relatedId": "FIN-0001",
+    "fileType": "jpg",
+    "uploadedAt": "2025-05-30",
+    "size": "0.4 MB"
+  },
+  {
+    "id": "DOC-0024",
+    "title": "Imovel · MKT-IMV-0346",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0346",
+    "fileType": "jpg",
+    "uploadedAt": "2025-12-19",
+    "size": "6.9 MB"
+  },
+  {
+    "id": "DOC-0025",
+    "title": "Proposta · PRP-0005",
+    "category": "proposta",
+    "relatedId": "PRP-0005",
+    "fileType": "pdf",
+    "uploadedAt": "2025-04-07",
+    "size": "2.5 MB"
+  },
+  {
+    "id": "DOC-0026",
+    "title": "Proposta · PRP-0022",
+    "category": "proposta",
+    "relatedId": "PRP-0022",
+    "fileType": "pdf",
+    "uploadedAt": "2026-06-26",
+    "size": "1.2 MB"
+  },
+  {
+    "id": "DOC-0027",
+    "title": "Financeiro · FIN-0209",
+    "category": "financeiro",
+    "relatedId": "FIN-0209",
+    "fileType": "docx",
+    "uploadedAt": "2026-02-18",
+    "size": "7 MB"
+  },
+  {
+    "id": "DOC-0028",
+    "title": "Proposta · PRP-0012",
+    "category": "proposta",
+    "relatedId": "PRP-0012",
+    "fileType": "pdf",
+    "uploadedAt": "2025-03-21",
+    "size": "1.6 MB"
+  },
+  {
+    "id": "DOC-0029",
+    "title": "Financeiro · FIN-0273",
+    "category": "financeiro",
+    "relatedId": "FIN-0273",
+    "fileType": "jpg",
+    "uploadedAt": "2025-09-12",
+    "size": "3.8 MB"
+  },
+  {
+    "id": "DOC-0030",
+    "title": "Contrato · CTR-0507",
+    "category": "contrato",
+    "relatedId": "CTR-0507",
+    "fileType": "pdf",
+    "uploadedAt": "2026-03-29",
+    "size": "2 MB"
+  },
+  {
+    "id": "DOC-0031",
+    "title": "Proposta · PRP-0240",
+    "category": "proposta",
+    "relatedId": "PRP-0240",
+    "fileType": "docx",
+    "uploadedAt": "2025-04-17",
+    "size": "7 MB"
+  },
+  {
+    "id": "DOC-0032",
+    "title": "Imovel · MKT-IMV-0268",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0268",
+    "fileType": "docx",
+    "uploadedAt": "2026-05-08",
+    "size": "4.9 MB"
+  },
+  {
+    "id": "DOC-0033",
+    "title": "Contrato · CTR-0568",
+    "category": "contrato",
+    "relatedId": "CTR-0568",
+    "fileType": "pdf",
+    "uploadedAt": "2025-06-01",
+    "size": "7 MB"
+  },
+  {
+    "id": "DOC-0034",
+    "title": "Proposta · PRP-0156",
+    "category": "proposta",
+    "relatedId": "PRP-0156",
+    "fileType": "pdf",
+    "uploadedAt": "2025-10-30",
+    "size": "4.4 MB"
+  },
+  {
+    "id": "DOC-0035",
+    "title": "Contrato · CTR-0223",
+    "category": "contrato",
+    "relatedId": "CTR-0223",
+    "fileType": "jpg",
+    "uploadedAt": "2025-10-07",
+    "size": "0.9 MB"
+  },
+  {
+    "id": "DOC-0036",
+    "title": "Imovel · MKT-IMV-0527",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0527",
+    "fileType": "docx",
+    "uploadedAt": "2025-06-03",
+    "size": "6.1 MB"
+  },
+  {
+    "id": "DOC-0037",
+    "title": "Proposta · PRP-0143",
+    "category": "proposta",
+    "relatedId": "PRP-0143",
+    "fileType": "docx",
+    "uploadedAt": "2025-06-13",
+    "size": "3.3 MB"
+  },
+  {
+    "id": "DOC-0038",
+    "title": "Imovel · MKT-IMV-0128",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0128",
+    "fileType": "pdf",
+    "uploadedAt": "2025-05-06",
+    "size": "4.3 MB"
+  },
+  {
+    "id": "DOC-0039",
+    "title": "Cliente · MKT-CLI-0629",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0629",
+    "fileType": "docx",
+    "uploadedAt": "2025-03-06",
+    "size": "7.4 MB"
+  },
+  {
+    "id": "DOC-0040",
+    "title": "Imovel · MKT-IMV-0234",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0234",
+    "fileType": "jpg",
+    "uploadedAt": "2026-01-20",
+    "size": "2.1 MB"
+  },
+  {
+    "id": "DOC-0041",
+    "title": "Contrato · CTR-0506",
+    "category": "contrato",
+    "relatedId": "CTR-0506",
+    "fileType": "pdf",
+    "uploadedAt": "2026-05-09",
+    "size": "6.9 MB"
+  },
+  {
+    "id": "DOC-0042",
+    "title": "Imovel · MKT-IMV-0114",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0114",
+    "fileType": "pdf",
+    "uploadedAt": "2025-05-13",
+    "size": "2.9 MB"
+  },
+  {
+    "id": "DOC-0043",
+    "title": "Financeiro · FIN-0169",
+    "category": "financeiro",
+    "relatedId": "FIN-0169",
+    "fileType": "pdf",
+    "uploadedAt": "2025-12-26",
+    "size": "6.3 MB"
+  },
+  {
+    "id": "DOC-0044",
+    "title": "Financeiro · FIN-0046",
+    "category": "financeiro",
+    "relatedId": "FIN-0046",
+    "fileType": "pdf",
+    "uploadedAt": "2025-03-13",
+    "size": "7.2 MB"
+  },
+  {
+    "id": "DOC-0045",
+    "title": "Cliente · MKT-CLI-0574",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0574",
+    "fileType": "jpg",
+    "uploadedAt": "2026-05-09",
+    "size": "0.7 MB"
+  },
+  {
+    "id": "DOC-0046",
+    "title": "Financeiro · FIN-0153",
+    "category": "financeiro",
+    "relatedId": "FIN-0153",
+    "fileType": "jpg",
+    "uploadedAt": "2026-01-14",
+    "size": "7.5 MB"
+  },
+  {
+    "id": "DOC-0047",
+    "title": "Financeiro · FIN-0246",
+    "category": "financeiro",
+    "relatedId": "FIN-0246",
+    "fileType": "docx",
+    "uploadedAt": "2025-08-16",
+    "size": "0.7 MB"
+  },
+  {
+    "id": "DOC-0048",
+    "title": "Financeiro · FIN-0321",
+    "category": "financeiro",
+    "relatedId": "FIN-0321",
+    "fileType": "jpg",
+    "uploadedAt": "2026-03-12",
+    "size": "5.7 MB"
+  },
+  {
+    "id": "DOC-0049",
+    "title": "Cliente · MKT-CLI-0452",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0452",
+    "fileType": "docx",
+    "uploadedAt": "2026-03-30",
+    "size": "3.8 MB"
+  },
+  {
+    "id": "DOC-0050",
+    "title": "Contrato · CTR-0587",
+    "category": "contrato",
+    "relatedId": "CTR-0587",
+    "fileType": "pdf",
+    "uploadedAt": "2026-02-01",
+    "size": "4.9 MB"
+  },
+  {
+    "id": "DOC-0051",
+    "title": "Cliente · MKT-CLI-1466",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1466",
+    "fileType": "pdf",
+    "uploadedAt": "2025-05-06",
+    "size": "3.8 MB"
+  },
+  {
+    "id": "DOC-0052",
+    "title": "Contrato · CTR-0035",
+    "category": "contrato",
+    "relatedId": "CTR-0035",
+    "fileType": "jpg",
+    "uploadedAt": "2025-07-15",
+    "size": "4.2 MB"
+  },
+  {
+    "id": "DOC-0053",
+    "title": "Imovel · MKT-IMV-0370",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0370",
+    "fileType": "jpg",
+    "uploadedAt": "2025-11-27",
+    "size": "7.2 MB"
+  },
+  {
+    "id": "DOC-0054",
+    "title": "Cliente · MKT-CLI-1234",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1234",
+    "fileType": "docx",
+    "uploadedAt": "2026-03-06",
+    "size": "3.2 MB"
+  },
+  {
+    "id": "DOC-0055",
+    "title": "Cliente · MKT-CLI-0172",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0172",
+    "fileType": "jpg",
+    "uploadedAt": "2025-06-12",
+    "size": "4.4 MB"
+  },
+  {
+    "id": "DOC-0056",
+    "title": "Proposta · PRP-0248",
+    "category": "proposta",
+    "relatedId": "PRP-0248",
+    "fileType": "jpg",
+    "uploadedAt": "2025-05-08",
+    "size": "1.8 MB"
+  },
+  {
+    "id": "DOC-0057",
+    "title": "Imovel · MKT-IMV-0305",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0305",
+    "fileType": "jpg",
+    "uploadedAt": "2026-02-02",
+    "size": "0.4 MB"
+  },
+  {
+    "id": "DOC-0058",
+    "title": "Imovel · MKT-IMV-0407",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0407",
+    "fileType": "pdf",
+    "uploadedAt": "2025-03-10",
+    "size": "7.5 MB"
+  },
+  {
+    "id": "DOC-0059",
+    "title": "Imovel · MKT-IMV-0019",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0019",
+    "fileType": "jpg",
+    "uploadedAt": "2026-01-25",
+    "size": "6.8 MB"
+  },
+  {
+    "id": "DOC-0060",
+    "title": "Contrato · CTR-0306",
+    "category": "contrato",
+    "relatedId": "CTR-0306",
+    "fileType": "docx",
+    "uploadedAt": "2026-06-02",
+    "size": "0.9 MB"
+  },
+  {
+    "id": "DOC-0061",
+    "title": "Imovel · MKT-IMV-0123",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0123",
+    "fileType": "docx",
+    "uploadedAt": "2025-05-13",
+    "size": "2.8 MB"
+  },
+  {
+    "id": "DOC-0062",
+    "title": "Financeiro · FIN-0008",
+    "category": "financeiro",
+    "relatedId": "FIN-0008",
+    "fileType": "docx",
+    "uploadedAt": "2025-03-30",
+    "size": "4.9 MB"
+  },
+  {
+    "id": "DOC-0063",
+    "title": "Proposta · PRP-0274",
+    "category": "proposta",
+    "relatedId": "PRP-0274",
+    "fileType": "docx",
+    "uploadedAt": "2026-07-05",
+    "size": "1.7 MB"
+  },
+  {
+    "id": "DOC-0064",
+    "title": "Imovel · MKT-IMV-0271",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0271",
+    "fileType": "docx",
+    "uploadedAt": "2026-03-08",
+    "size": "2.3 MB"
+  },
+  {
+    "id": "DOC-0065",
+    "title": "Contrato · CTR-0108",
+    "category": "contrato",
+    "relatedId": "CTR-0108",
+    "fileType": "docx",
+    "uploadedAt": "2025-06-11",
+    "size": "7.5 MB"
+  },
+  {
+    "id": "DOC-0066",
+    "title": "Imovel · MKT-IMV-0024",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0024",
+    "fileType": "jpg",
+    "uploadedAt": "2025-03-26",
+    "size": "5.5 MB"
+  },
+  {
+    "id": "DOC-0067",
+    "title": "Financeiro · FIN-0060",
+    "category": "financeiro",
+    "relatedId": "FIN-0060",
+    "fileType": "pdf",
+    "uploadedAt": "2025-05-30",
+    "size": "5.2 MB"
+  },
+  {
+    "id": "DOC-0068",
+    "title": "Imovel · MKT-IMV-0403",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0403",
+    "fileType": "pdf",
+    "uploadedAt": "2025-04-20",
+    "size": "1 MB"
+  },
+  {
+    "id": "DOC-0069",
+    "title": "Financeiro · FIN-0335",
+    "category": "financeiro",
+    "relatedId": "FIN-0335",
+    "fileType": "docx",
+    "uploadedAt": "2025-12-27",
+    "size": "3.5 MB"
+  },
+  {
+    "id": "DOC-0070",
+    "title": "Imovel · MKT-IMV-0400",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0400",
+    "fileType": "docx",
+    "uploadedAt": "2026-06-16",
+    "size": "1.7 MB"
+  },
+  {
+    "id": "DOC-0071",
+    "title": "Imovel · MKT-IMV-0412",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0412",
+    "fileType": "docx",
+    "uploadedAt": "2025-07-13",
+    "size": "2.3 MB"
+  },
+  {
+    "id": "DOC-0072",
+    "title": "Financeiro · FIN-0128",
+    "category": "financeiro",
+    "relatedId": "FIN-0128",
+    "fileType": "docx",
+    "uploadedAt": "2025-06-17",
+    "size": "6.8 MB"
+  },
+  {
+    "id": "DOC-0073",
+    "title": "Financeiro · FIN-0354",
+    "category": "financeiro",
+    "relatedId": "FIN-0354",
+    "fileType": "docx",
+    "uploadedAt": "2025-04-13",
+    "size": "4.9 MB"
+  },
+  {
+    "id": "DOC-0074",
+    "title": "Contrato · CTR-0146",
+    "category": "contrato",
+    "relatedId": "CTR-0146",
+    "fileType": "docx",
+    "uploadedAt": "2025-11-06",
+    "size": "7.4 MB"
+  },
+  {
+    "id": "DOC-0075",
+    "title": "Financeiro · FIN-0254",
+    "category": "financeiro",
+    "relatedId": "FIN-0254",
+    "fileType": "pdf",
+    "uploadedAt": "2026-02-07",
+    "size": "1.4 MB"
+  },
+  {
+    "id": "DOC-0076",
+    "title": "Contrato · CTR-0379",
+    "category": "contrato",
+    "relatedId": "CTR-0379",
+    "fileType": "docx",
+    "uploadedAt": "2025-11-18",
+    "size": "0.4 MB"
+  },
+  {
+    "id": "DOC-0077",
+    "title": "Contrato · CTR-0439",
+    "category": "contrato",
+    "relatedId": "CTR-0439",
+    "fileType": "docx",
+    "uploadedAt": "2026-04-11",
+    "size": "4.1 MB"
+  },
+  {
+    "id": "DOC-0078",
+    "title": "Financeiro · FIN-0145",
+    "category": "financeiro",
+    "relatedId": "FIN-0145",
+    "fileType": "pdf",
+    "uploadedAt": "2025-11-13",
+    "size": "1.1 MB"
+  },
+  {
+    "id": "DOC-0079",
+    "title": "Proposta · PRP-0046",
+    "category": "proposta",
+    "relatedId": "PRP-0046",
+    "fileType": "docx",
+    "uploadedAt": "2026-07-05",
+    "size": "4.4 MB"
+  },
+  {
+    "id": "DOC-0080",
+    "title": "Proposta · PRP-0274",
+    "category": "proposta",
+    "relatedId": "PRP-0274",
+    "fileType": "pdf",
+    "uploadedAt": "2026-03-11",
+    "size": "1.2 MB"
+  },
+  {
+    "id": "DOC-0081",
+    "title": "Proposta · PRP-0189",
+    "category": "proposta",
+    "relatedId": "PRP-0189",
+    "fileType": "jpg",
+    "uploadedAt": "2025-10-25",
+    "size": "5.4 MB"
+  },
+  {
+    "id": "DOC-0082",
+    "title": "Financeiro · FIN-0218",
+    "category": "financeiro",
+    "relatedId": "FIN-0218",
+    "fileType": "jpg",
+    "uploadedAt": "2025-08-17",
+    "size": "1.7 MB"
+  },
+  {
+    "id": "DOC-0083",
+    "title": "Imovel · MKT-IMV-0433",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0433",
+    "fileType": "docx",
+    "uploadedAt": "2026-06-03",
+    "size": "3.3 MB"
+  },
+  {
+    "id": "DOC-0084",
+    "title": "Proposta · PRP-0134",
+    "category": "proposta",
+    "relatedId": "PRP-0134",
+    "fileType": "docx",
+    "uploadedAt": "2025-06-29",
+    "size": "0.8 MB"
+  },
+  {
+    "id": "DOC-0085",
+    "title": "Cliente · MKT-CLI-0266",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0266",
+    "fileType": "jpg",
+    "uploadedAt": "2026-05-30",
+    "size": "6.9 MB"
+  },
+  {
+    "id": "DOC-0086",
+    "title": "Cliente · MKT-CLI-0485",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0485",
+    "fileType": "pdf",
+    "uploadedAt": "2026-06-09",
+    "size": "7.5 MB"
+  },
+  {
+    "id": "DOC-0087",
+    "title": "Financeiro · FIN-0092",
+    "category": "financeiro",
+    "relatedId": "FIN-0092",
+    "fileType": "pdf",
+    "uploadedAt": "2026-02-16",
+    "size": "3.1 MB"
+  },
+  {
+    "id": "DOC-0088",
+    "title": "Imovel · MKT-IMV-0770",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0770",
+    "fileType": "pdf",
+    "uploadedAt": "2025-10-26",
+    "size": "5.6 MB"
+  },
+  {
+    "id": "DOC-0089",
+    "title": "Proposta · PRP-0118",
+    "category": "proposta",
+    "relatedId": "PRP-0118",
+    "fileType": "docx",
+    "uploadedAt": "2025-10-17",
+    "size": "4 MB"
+  },
+  {
+    "id": "DOC-0090",
+    "title": "Contrato · CTR-0231",
+    "category": "contrato",
+    "relatedId": "CTR-0231",
+    "fileType": "docx",
+    "uploadedAt": "2026-03-23",
+    "size": "5 MB"
+  },
+  {
+    "id": "DOC-0091",
+    "title": "Cliente · MKT-CLI-0663",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0663",
+    "fileType": "pdf",
+    "uploadedAt": "2025-10-31",
+    "size": "5.8 MB"
+  },
+  {
+    "id": "DOC-0092",
+    "title": "Imovel · MKT-IMV-0165",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0165",
+    "fileType": "docx",
+    "uploadedAt": "2025-10-22",
+    "size": "5.5 MB"
+  },
+  {
+    "id": "DOC-0093",
+    "title": "Contrato · CTR-0323",
+    "category": "contrato",
+    "relatedId": "CTR-0323",
+    "fileType": "pdf",
+    "uploadedAt": "2026-03-14",
+    "size": "5.2 MB"
+  },
+  {
+    "id": "DOC-0094",
+    "title": "Cliente · MKT-CLI-0829",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0829",
+    "fileType": "jpg",
+    "uploadedAt": "2026-03-22",
+    "size": "2.3 MB"
+  },
+  {
+    "id": "DOC-0095",
+    "title": "Contrato · CTR-0634",
+    "category": "contrato",
+    "relatedId": "CTR-0634",
+    "fileType": "docx",
+    "uploadedAt": "2025-12-06",
+    "size": "1.9 MB"
+  },
+  {
+    "id": "DOC-0096",
+    "title": "Imovel · MKT-IMV-0268",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0268",
+    "fileType": "pdf",
+    "uploadedAt": "2025-04-04",
+    "size": "7.3 MB"
+  },
+  {
+    "id": "DOC-0097",
+    "title": "Imovel · MKT-IMV-0711",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0711",
+    "fileType": "docx",
+    "uploadedAt": "2025-03-16",
+    "size": "4.3 MB"
+  },
+  {
+    "id": "DOC-0098",
+    "title": "Cliente · MKT-CLI-0732",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0732",
+    "fileType": "jpg",
+    "uploadedAt": "2026-02-02",
+    "size": "6.1 MB"
+  },
+  {
+    "id": "DOC-0099",
+    "title": "Contrato · CTR-0322",
+    "category": "contrato",
+    "relatedId": "CTR-0322",
+    "fileType": "jpg",
+    "uploadedAt": "2026-01-05",
+    "size": "5.8 MB"
+  },
+  {
+    "id": "DOC-0100",
+    "title": "Financeiro · FIN-0104",
+    "category": "financeiro",
+    "relatedId": "FIN-0104",
+    "fileType": "jpg",
+    "uploadedAt": "2025-02-26",
+    "size": "6.1 MB"
+  },
+  {
+    "id": "DOC-0101",
+    "title": "Cliente · MKT-CLI-1147",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1147",
+    "fileType": "docx",
+    "uploadedAt": "2025-03-28",
+    "size": "1.5 MB"
+  },
+  {
+    "id": "DOC-0102",
+    "title": "Imovel · MKT-IMV-0147",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0147",
+    "fileType": "pdf",
+    "uploadedAt": "2025-03-18",
+    "size": "2.3 MB"
+  },
+  {
+    "id": "DOC-0103",
+    "title": "Financeiro · FIN-0348",
+    "category": "financeiro",
+    "relatedId": "FIN-0348",
+    "fileType": "pdf",
+    "uploadedAt": "2025-04-24",
+    "size": "2.1 MB"
+  },
+  {
+    "id": "DOC-0104",
+    "title": "Financeiro · FIN-0391",
+    "category": "financeiro",
+    "relatedId": "FIN-0391",
+    "fileType": "jpg",
+    "uploadedAt": "2026-02-15",
+    "size": "1.9 MB"
+  },
+  {
+    "id": "DOC-0105",
+    "title": "Financeiro · FIN-0073",
+    "category": "financeiro",
+    "relatedId": "FIN-0073",
+    "fileType": "docx",
+    "uploadedAt": "2026-03-23",
+    "size": "1 MB"
+  },
+  {
+    "id": "DOC-0106",
+    "title": "Proposta · PRP-0284",
+    "category": "proposta",
+    "relatedId": "PRP-0284",
+    "fileType": "docx",
+    "uploadedAt": "2025-10-23",
+    "size": "7.2 MB"
+  },
+  {
+    "id": "DOC-0107",
+    "title": "Financeiro · FIN-0388",
+    "category": "financeiro",
+    "relatedId": "FIN-0388",
+    "fileType": "docx",
+    "uploadedAt": "2026-06-14",
+    "size": "1.1 MB"
+  },
+  {
+    "id": "DOC-0108",
+    "title": "Imovel · MKT-IMV-0139",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0139",
+    "fileType": "jpg",
+    "uploadedAt": "2025-12-01",
+    "size": "3.8 MB"
+  },
+  {
+    "id": "DOC-0109",
+    "title": "Contrato · CTR-0214",
+    "category": "contrato",
+    "relatedId": "CTR-0214",
+    "fileType": "docx",
+    "uploadedAt": "2026-02-05",
+    "size": "6.3 MB"
+  },
+  {
+    "id": "DOC-0110",
+    "title": "Contrato · CTR-0175",
+    "category": "contrato",
+    "relatedId": "CTR-0175",
+    "fileType": "docx",
+    "uploadedAt": "2026-02-24",
+    "size": "5.8 MB"
+  },
+  {
+    "id": "DOC-0111",
+    "title": "Financeiro · FIN-0379",
+    "category": "financeiro",
+    "relatedId": "FIN-0379",
+    "fileType": "pdf",
+    "uploadedAt": "2025-06-21",
+    "size": "7.8 MB"
+  },
+  {
+    "id": "DOC-0112",
+    "title": "Imovel · MKT-IMV-0527",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0527",
+    "fileType": "jpg",
+    "uploadedAt": "2025-12-26",
+    "size": "6.9 MB"
+  },
+  {
+    "id": "DOC-0113",
+    "title": "Financeiro · FIN-0021",
+    "category": "financeiro",
+    "relatedId": "FIN-0021",
+    "fileType": "pdf",
+    "uploadedAt": "2026-07-04",
+    "size": "2.7 MB"
+  },
+  {
+    "id": "DOC-0114",
+    "title": "Cliente · MKT-CLI-0327",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0327",
+    "fileType": "jpg",
+    "uploadedAt": "2025-03-07",
+    "size": "4.6 MB"
+  },
+  {
+    "id": "DOC-0115",
+    "title": "Cliente · MKT-CLI-0698",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0698",
+    "fileType": "docx",
+    "uploadedAt": "2026-01-01",
+    "size": "1.6 MB"
+  },
+  {
+    "id": "DOC-0116",
+    "title": "Cliente · MKT-CLI-0634",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0634",
+    "fileType": "pdf",
+    "uploadedAt": "2025-10-23",
+    "size": "7.6 MB"
+  },
+  {
+    "id": "DOC-0117",
+    "title": "Proposta · PRP-0029",
+    "category": "proposta",
+    "relatedId": "PRP-0029",
+    "fileType": "pdf",
+    "uploadedAt": "2026-03-25",
+    "size": "4.9 MB"
+  },
+  {
+    "id": "DOC-0118",
+    "title": "Proposta · PRP-0283",
+    "category": "proposta",
+    "relatedId": "PRP-0283",
+    "fileType": "pdf",
+    "uploadedAt": "2025-11-03",
+    "size": "6.5 MB"
+  },
+  {
+    "id": "DOC-0119",
+    "title": "Cliente · MKT-CLI-1426",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1426",
+    "fileType": "jpg",
+    "uploadedAt": "2025-02-25",
+    "size": "2.6 MB"
+  },
+  {
+    "id": "DOC-0120",
+    "title": "Contrato · CTR-0059",
+    "category": "contrato",
+    "relatedId": "CTR-0059",
+    "fileType": "jpg",
+    "uploadedAt": "2026-05-07",
+    "size": "5.8 MB"
+  },
+  {
+    "id": "DOC-0121",
+    "title": "Financeiro · FIN-0320",
+    "category": "financeiro",
+    "relatedId": "FIN-0320",
+    "fileType": "docx",
+    "uploadedAt": "2025-03-20",
+    "size": "6.7 MB"
+  },
+  {
+    "id": "DOC-0122",
+    "title": "Contrato · CTR-0283",
+    "category": "contrato",
+    "relatedId": "CTR-0283",
+    "fileType": "pdf",
+    "uploadedAt": "2026-01-04",
+    "size": "5.8 MB"
+  },
+  {
+    "id": "DOC-0123",
+    "title": "Contrato · CTR-0579",
+    "category": "contrato",
+    "relatedId": "CTR-0579",
+    "fileType": "docx",
+    "uploadedAt": "2025-11-05",
+    "size": "2.8 MB"
+  },
+  {
+    "id": "DOC-0124",
+    "title": "Financeiro · FIN-0142",
+    "category": "financeiro",
+    "relatedId": "FIN-0142",
+    "fileType": "pdf",
+    "uploadedAt": "2025-12-16",
+    "size": "5.9 MB"
+  },
+  {
+    "id": "DOC-0125",
+    "title": "Imovel · MKT-IMV-0368",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0368",
+    "fileType": "pdf",
+    "uploadedAt": "2025-05-01",
+    "size": "1.1 MB"
+  },
+  {
+    "id": "DOC-0126",
+    "title": "Cliente · MKT-CLI-1000",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1000",
+    "fileType": "pdf",
+    "uploadedAt": "2026-02-02",
+    "size": "7.3 MB"
+  },
+  {
+    "id": "DOC-0127",
+    "title": "Proposta · PRP-0209",
+    "category": "proposta",
+    "relatedId": "PRP-0209",
+    "fileType": "pdf",
+    "uploadedAt": "2025-07-12",
+    "size": "7.5 MB"
+  },
+  {
+    "id": "DOC-0128",
+    "title": "Contrato · CTR-0657",
+    "category": "contrato",
+    "relatedId": "CTR-0657",
+    "fileType": "docx",
+    "uploadedAt": "2026-04-04",
+    "size": "2 MB"
+  },
+  {
+    "id": "DOC-0129",
+    "title": "Contrato · CTR-0209",
+    "category": "contrato",
+    "relatedId": "CTR-0209",
+    "fileType": "docx",
+    "uploadedAt": "2026-04-17",
+    "size": "1.9 MB"
+  },
+  {
+    "id": "DOC-0130",
+    "title": "Contrato · CTR-0106",
+    "category": "contrato",
+    "relatedId": "CTR-0106",
+    "fileType": "jpg",
+    "uploadedAt": "2025-06-06",
+    "size": "7.2 MB"
+  },
+  {
+    "id": "DOC-0131",
+    "title": "Cliente · MKT-CLI-1377",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1377",
+    "fileType": "docx",
+    "uploadedAt": "2025-05-05",
+    "size": "1.6 MB"
+  },
+  {
+    "id": "DOC-0132",
+    "title": "Proposta · PRP-0200",
+    "category": "proposta",
+    "relatedId": "PRP-0200",
+    "fileType": "jpg",
+    "uploadedAt": "2026-04-02",
+    "size": "5.3 MB"
+  },
+  {
+    "id": "DOC-0133",
+    "title": "Financeiro · FIN-0130",
+    "category": "financeiro",
+    "relatedId": "FIN-0130",
+    "fileType": "jpg",
+    "uploadedAt": "2026-03-19",
+    "size": "6.9 MB"
+  },
+  {
+    "id": "DOC-0134",
+    "title": "Financeiro · FIN-0214",
+    "category": "financeiro",
+    "relatedId": "FIN-0214",
+    "fileType": "jpg",
+    "uploadedAt": "2025-09-13",
+    "size": "7.4 MB"
+  },
+  {
+    "id": "DOC-0135",
+    "title": "Imovel · MKT-IMV-0470",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0470",
+    "fileType": "pdf",
+    "uploadedAt": "2026-05-27",
+    "size": "7.1 MB"
+  },
+  {
+    "id": "DOC-0136",
+    "title": "Cliente · MKT-CLI-0881",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0881",
+    "fileType": "pdf",
+    "uploadedAt": "2026-05-19",
+    "size": "6.3 MB"
+  },
+  {
+    "id": "DOC-0137",
+    "title": "Proposta · PRP-0036",
+    "category": "proposta",
+    "relatedId": "PRP-0036",
+    "fileType": "pdf",
+    "uploadedAt": "2025-09-24",
+    "size": "5.4 MB"
+  },
+  {
+    "id": "DOC-0138",
+    "title": "Proposta · PRP-0248",
+    "category": "proposta",
+    "relatedId": "PRP-0248",
+    "fileType": "jpg",
+    "uploadedAt": "2026-01-12",
+    "size": "7.3 MB"
+  },
+  {
+    "id": "DOC-0139",
+    "title": "Contrato · CTR-0664",
+    "category": "contrato",
+    "relatedId": "CTR-0664",
+    "fileType": "docx",
+    "uploadedAt": "2025-08-06",
+    "size": "6 MB"
+  },
+  {
+    "id": "DOC-0140",
+    "title": "Proposta · PRP-0209",
+    "category": "proposta",
+    "relatedId": "PRP-0209",
+    "fileType": "pdf",
+    "uploadedAt": "2026-03-02",
+    "size": "2.5 MB"
+  },
+  {
+    "id": "DOC-0141",
+    "title": "Proposta · PRP-0234",
+    "category": "proposta",
+    "relatedId": "PRP-0234",
+    "fileType": "jpg",
+    "uploadedAt": "2026-05-29",
+    "size": "4.4 MB"
+  },
+  {
+    "id": "DOC-0142",
+    "title": "Cliente · MKT-CLI-0425",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0425",
+    "fileType": "pdf",
+    "uploadedAt": "2026-04-02",
+    "size": "2.8 MB"
+  },
+  {
+    "id": "DOC-0143",
+    "title": "Imovel · MKT-IMV-0090",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0090",
+    "fileType": "pdf",
+    "uploadedAt": "2026-02-21",
+    "size": "1.6 MB"
+  },
+  {
+    "id": "DOC-0144",
+    "title": "Financeiro · FIN-0011",
+    "category": "financeiro",
+    "relatedId": "FIN-0011",
+    "fileType": "pdf",
+    "uploadedAt": "2026-01-10",
+    "size": "6.1 MB"
+  },
+  {
+    "id": "DOC-0145",
+    "title": "Proposta · PRP-0157",
+    "category": "proposta",
+    "relatedId": "PRP-0157",
+    "fileType": "pdf",
+    "uploadedAt": "2026-01-25",
+    "size": "6.2 MB"
+  },
+  {
+    "id": "DOC-0146",
+    "title": "Cliente · MKT-CLI-0618",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0618",
+    "fileType": "jpg",
+    "uploadedAt": "2025-12-09",
+    "size": "2.9 MB"
+  },
+  {
+    "id": "DOC-0147",
+    "title": "Contrato · CTR-0204",
+    "category": "contrato",
+    "relatedId": "CTR-0204",
+    "fileType": "docx",
+    "uploadedAt": "2025-07-17",
+    "size": "0.7 MB"
+  },
+  {
+    "id": "DOC-0148",
+    "title": "Financeiro · FIN-0087",
+    "category": "financeiro",
+    "relatedId": "FIN-0087",
+    "fileType": "pdf",
+    "uploadedAt": "2026-03-11",
+    "size": "3.7 MB"
+  },
+  {
+    "id": "DOC-0149",
+    "title": "Imovel · MKT-IMV-0454",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0454",
+    "fileType": "docx",
+    "uploadedAt": "2026-04-27",
+    "size": "6.1 MB"
+  },
+  {
+    "id": "DOC-0150",
+    "title": "Imovel · MKT-IMV-0295",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0295",
+    "fileType": "jpg",
+    "uploadedAt": "2025-02-21",
+    "size": "2.6 MB"
+  },
+  {
+    "id": "DOC-0151",
+    "title": "Cliente · MKT-CLI-1173",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1173",
+    "fileType": "pdf",
+    "uploadedAt": "2026-01-28",
+    "size": "3.1 MB"
+  },
+  {
+    "id": "DOC-0152",
+    "title": "Cliente · MKT-CLI-1419",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1419",
+    "fileType": "jpg",
+    "uploadedAt": "2025-05-08",
+    "size": "4.7 MB"
+  },
+  {
+    "id": "DOC-0153",
+    "title": "Contrato · CTR-0472",
+    "category": "contrato",
+    "relatedId": "CTR-0472",
+    "fileType": "jpg",
+    "uploadedAt": "2025-07-01",
+    "size": "4.6 MB"
+  },
+  {
+    "id": "DOC-0154",
+    "title": "Cliente · MKT-CLI-0261",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0261",
+    "fileType": "pdf",
+    "uploadedAt": "2026-04-15",
+    "size": "0.2 MB"
+  },
+  {
+    "id": "DOC-0155",
+    "title": "Financeiro · FIN-0125",
+    "category": "financeiro",
+    "relatedId": "FIN-0125",
+    "fileType": "docx",
+    "uploadedAt": "2025-05-17",
+    "size": "1.6 MB"
+  },
+  {
+    "id": "DOC-0156",
+    "title": "Proposta · PRP-0040",
+    "category": "proposta",
+    "relatedId": "PRP-0040",
+    "fileType": "jpg",
+    "uploadedAt": "2025-07-10",
+    "size": "5.7 MB"
+  },
+  {
+    "id": "DOC-0157",
+    "title": "Cliente · MKT-CLI-1359",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1359",
+    "fileType": "pdf",
+    "uploadedAt": "2025-08-16",
+    "size": "3 MB"
+  },
+  {
+    "id": "DOC-0158",
+    "title": "Financeiro · FIN-0009",
+    "category": "financeiro",
+    "relatedId": "FIN-0009",
+    "fileType": "docx",
+    "uploadedAt": "2026-05-15",
+    "size": "6.1 MB"
+  },
+  {
+    "id": "DOC-0159",
+    "title": "Cliente · MKT-CLI-0940",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0940",
+    "fileType": "docx",
+    "uploadedAt": "2025-05-13",
+    "size": "2.8 MB"
+  },
+  {
+    "id": "DOC-0160",
+    "title": "Cliente · MKT-CLI-1189",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1189",
+    "fileType": "pdf",
+    "uploadedAt": "2026-04-30",
+    "size": "2.1 MB"
+  },
+  {
+    "id": "DOC-0161",
+    "title": "Imovel · MKT-IMV-0019",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0019",
+    "fileType": "docx",
+    "uploadedAt": "2026-05-21",
+    "size": "3 MB"
+  },
+  {
+    "id": "DOC-0162",
+    "title": "Financeiro · FIN-0173",
+    "category": "financeiro",
+    "relatedId": "FIN-0173",
+    "fileType": "docx",
+    "uploadedAt": "2025-10-02",
+    "size": "1 MB"
+  },
+  {
+    "id": "DOC-0163",
+    "title": "Proposta · PRP-0294",
+    "category": "proposta",
+    "relatedId": "PRP-0294",
+    "fileType": "jpg",
+    "uploadedAt": "2025-08-26",
+    "size": "1.4 MB"
+  },
+  {
+    "id": "DOC-0164",
+    "title": "Financeiro · FIN-0214",
+    "category": "financeiro",
+    "relatedId": "FIN-0214",
+    "fileType": "docx",
+    "uploadedAt": "2026-02-13",
+    "size": "2 MB"
+  },
+  {
+    "id": "DOC-0165",
+    "title": "Financeiro · FIN-0168",
+    "category": "financeiro",
+    "relatedId": "FIN-0168",
+    "fileType": "pdf",
+    "uploadedAt": "2025-05-05",
+    "size": "1.8 MB"
+  },
+  {
+    "id": "DOC-0166",
+    "title": "Imovel · MKT-IMV-0473",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0473",
+    "fileType": "docx",
+    "uploadedAt": "2025-02-28",
+    "size": "1.9 MB"
+  },
+  {
+    "id": "DOC-0167",
+    "title": "Proposta · PRP-0198",
+    "category": "proposta",
+    "relatedId": "PRP-0198",
+    "fileType": "docx",
+    "uploadedAt": "2025-12-21",
+    "size": "5.7 MB"
+  },
+  {
+    "id": "DOC-0168",
+    "title": "Imovel · MKT-IMV-0388",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0388",
+    "fileType": "pdf",
+    "uploadedAt": "2025-10-30",
+    "size": "5.7 MB"
+  },
+  {
+    "id": "DOC-0169",
+    "title": "Contrato · CTR-0030",
+    "category": "contrato",
+    "relatedId": "CTR-0030",
+    "fileType": "jpg",
+    "uploadedAt": "2026-05-15",
+    "size": "2.5 MB"
+  },
+  {
+    "id": "DOC-0170",
+    "title": "Cliente · MKT-CLI-1276",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1276",
+    "fileType": "docx",
+    "uploadedAt": "2025-07-11",
+    "size": "5 MB"
+  },
+  {
+    "id": "DOC-0171",
+    "title": "Imovel · MKT-IMV-0103",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0103",
+    "fileType": "pdf",
+    "uploadedAt": "2026-06-21",
+    "size": "4.7 MB"
+  },
+  {
+    "id": "DOC-0172",
+    "title": "Imovel · MKT-IMV-0533",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0533",
+    "fileType": "pdf",
+    "uploadedAt": "2025-04-08",
+    "size": "7 MB"
+  },
+  {
+    "id": "DOC-0173",
+    "title": "Cliente · MKT-CLI-0331",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0331",
+    "fileType": "docx",
+    "uploadedAt": "2025-03-24",
+    "size": "3.6 MB"
+  },
+  {
+    "id": "DOC-0174",
+    "title": "Proposta · PRP-0178",
+    "category": "proposta",
+    "relatedId": "PRP-0178",
+    "fileType": "pdf",
+    "uploadedAt": "2025-04-18",
+    "size": "2.9 MB"
+  },
+  {
+    "id": "DOC-0175",
+    "title": "Financeiro · FIN-0376",
+    "category": "financeiro",
+    "relatedId": "FIN-0376",
+    "fileType": "pdf",
+    "uploadedAt": "2025-03-22",
+    "size": "5.2 MB"
+  },
+  {
+    "id": "DOC-0176",
+    "title": "Cliente · MKT-CLI-1376",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1376",
+    "fileType": "pdf",
+    "uploadedAt": "2025-11-11",
+    "size": "2.5 MB"
+  },
+  {
+    "id": "DOC-0177",
+    "title": "Proposta · PRP-0284",
+    "category": "proposta",
+    "relatedId": "PRP-0284",
+    "fileType": "pdf",
+    "uploadedAt": "2026-04-07",
+    "size": "3.8 MB"
+  },
+  {
+    "id": "DOC-0178",
+    "title": "Financeiro · FIN-0030",
+    "category": "financeiro",
+    "relatedId": "FIN-0030",
+    "fileType": "jpg",
+    "uploadedAt": "2026-01-23",
+    "size": "3.6 MB"
+  },
+  {
+    "id": "DOC-0179",
+    "title": "Cliente · MKT-CLI-0621",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0621",
+    "fileType": "pdf",
+    "uploadedAt": "2025-04-04",
+    "size": "6.9 MB"
+  },
+  {
+    "id": "DOC-0180",
+    "title": "Proposta · PRP-0184",
+    "category": "proposta",
+    "relatedId": "PRP-0184",
+    "fileType": "jpg",
+    "uploadedAt": "2026-04-20",
+    "size": "1.5 MB"
+  },
+  {
+    "id": "DOC-0181",
+    "title": "Contrato · CTR-0197",
+    "category": "contrato",
+    "relatedId": "CTR-0197",
+    "fileType": "pdf",
+    "uploadedAt": "2026-06-27",
+    "size": "7.1 MB"
+  },
+  {
+    "id": "DOC-0182",
+    "title": "Cliente · MKT-CLI-1054",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1054",
+    "fileType": "jpg",
+    "uploadedAt": "2026-06-05",
+    "size": "7.9 MB"
+  },
+  {
+    "id": "DOC-0183",
+    "title": "Contrato · CTR-0108",
+    "category": "contrato",
+    "relatedId": "CTR-0108",
+    "fileType": "jpg",
+    "uploadedAt": "2025-10-08",
+    "size": "5.9 MB"
+  },
+  {
+    "id": "DOC-0184",
+    "title": "Proposta · PRP-0025",
+    "category": "proposta",
+    "relatedId": "PRP-0025",
+    "fileType": "docx",
+    "uploadedAt": "2026-06-12",
+    "size": "0.7 MB"
+  },
+  {
+    "id": "DOC-0185",
+    "title": "Contrato · CTR-0179",
+    "category": "contrato",
+    "relatedId": "CTR-0179",
+    "fileType": "pdf",
+    "uploadedAt": "2025-06-26",
+    "size": "5.8 MB"
+  },
+  {
+    "id": "DOC-0186",
+    "title": "Imovel · MKT-IMV-0735",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0735",
+    "fileType": "pdf",
+    "uploadedAt": "2025-10-27",
+    "size": "7.8 MB"
+  },
+  {
+    "id": "DOC-0187",
+    "title": "Contrato · CTR-0287",
+    "category": "contrato",
+    "relatedId": "CTR-0287",
+    "fileType": "docx",
+    "uploadedAt": "2026-01-25",
+    "size": "1.1 MB"
+  },
+  {
+    "id": "DOC-0188",
+    "title": "Proposta · PRP-0121",
+    "category": "proposta",
+    "relatedId": "PRP-0121",
+    "fileType": "docx",
+    "uploadedAt": "2025-06-19",
+    "size": "4.2 MB"
+  },
+  {
+    "id": "DOC-0189",
+    "title": "Proposta · PRP-0040",
+    "category": "proposta",
+    "relatedId": "PRP-0040",
+    "fileType": "jpg",
+    "uploadedAt": "2025-12-16",
+    "size": "7.3 MB"
+  },
+  {
+    "id": "DOC-0190",
+    "title": "Contrato · CTR-0659",
+    "category": "contrato",
+    "relatedId": "CTR-0659",
+    "fileType": "pdf",
+    "uploadedAt": "2025-12-17",
+    "size": "0.9 MB"
+  },
+  {
+    "id": "DOC-0191",
+    "title": "Cliente · MKT-CLI-0550",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0550",
+    "fileType": "jpg",
+    "uploadedAt": "2026-02-12",
+    "size": "7.9 MB"
+  },
+  {
+    "id": "DOC-0192",
+    "title": "Cliente · MKT-CLI-0461",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0461",
+    "fileType": "jpg",
+    "uploadedAt": "2025-05-22",
+    "size": "0.6 MB"
+  },
+  {
+    "id": "DOC-0193",
+    "title": "Contrato · CTR-0590",
+    "category": "contrato",
+    "relatedId": "CTR-0590",
+    "fileType": "jpg",
+    "uploadedAt": "2026-06-08",
+    "size": "6.5 MB"
+  },
+  {
+    "id": "DOC-0194",
+    "title": "Imovel · MKT-IMV-0648",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0648",
+    "fileType": "pdf",
+    "uploadedAt": "2026-02-22",
+    "size": "2.4 MB"
+  },
+  {
+    "id": "DOC-0195",
+    "title": "Proposta · PRP-0120",
+    "category": "proposta",
+    "relatedId": "PRP-0120",
+    "fileType": "pdf",
+    "uploadedAt": "2026-03-02",
+    "size": "5.3 MB"
+  },
+  {
+    "id": "DOC-0196",
+    "title": "Proposta · PRP-0038",
+    "category": "proposta",
+    "relatedId": "PRP-0038",
+    "fileType": "docx",
+    "uploadedAt": "2025-08-09",
+    "size": "7.4 MB"
+  },
+  {
+    "id": "DOC-0197",
+    "title": "Proposta · PRP-0090",
+    "category": "proposta",
+    "relatedId": "PRP-0090",
+    "fileType": "jpg",
+    "uploadedAt": "2025-03-07",
+    "size": "2.4 MB"
+  },
+  {
+    "id": "DOC-0198",
+    "title": "Financeiro · FIN-0156",
+    "category": "financeiro",
+    "relatedId": "FIN-0156",
+    "fileType": "docx",
+    "uploadedAt": "2025-04-03",
+    "size": "0.2 MB"
+  },
+  {
+    "id": "DOC-0199",
+    "title": "Proposta · PRP-0250",
+    "category": "proposta",
+    "relatedId": "PRP-0250",
+    "fileType": "jpg",
+    "uploadedAt": "2026-05-26",
+    "size": "4.5 MB"
+  },
+  {
+    "id": "DOC-0200",
+    "title": "Proposta · PRP-0160",
+    "category": "proposta",
+    "relatedId": "PRP-0160",
+    "fileType": "docx",
+    "uploadedAt": "2026-06-08",
+    "size": "0.6 MB"
+  },
+  {
+    "id": "DOC-0201",
+    "title": "Cliente · MKT-CLI-0500",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0500",
+    "fileType": "jpg",
+    "uploadedAt": "2026-03-09",
+    "size": "3.7 MB"
+  },
+  {
+    "id": "DOC-0202",
+    "title": "Proposta · PRP-0182",
+    "category": "proposta",
+    "relatedId": "PRP-0182",
+    "fileType": "docx",
+    "uploadedAt": "2025-04-26",
+    "size": "3.6 MB"
+  },
+  {
+    "id": "DOC-0203",
+    "title": "Imovel · MKT-IMV-0657",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0657",
+    "fileType": "docx",
+    "uploadedAt": "2025-08-27",
+    "size": "5.7 MB"
+  },
+  {
+    "id": "DOC-0204",
+    "title": "Proposta · PRP-0006",
+    "category": "proposta",
+    "relatedId": "PRP-0006",
+    "fileType": "docx",
+    "uploadedAt": "2026-04-03",
+    "size": "3.5 MB"
+  },
+  {
+    "id": "DOC-0205",
+    "title": "Financeiro · FIN-0398",
+    "category": "financeiro",
+    "relatedId": "FIN-0398",
+    "fileType": "docx",
+    "uploadedAt": "2026-04-25",
+    "size": "3.2 MB"
+  },
+  {
+    "id": "DOC-0206",
+    "title": "Proposta · PRP-0260",
+    "category": "proposta",
+    "relatedId": "PRP-0260",
+    "fileType": "pdf",
+    "uploadedAt": "2025-06-26",
+    "size": "2 MB"
+  },
+  {
+    "id": "DOC-0207",
+    "title": "Imovel · MKT-IMV-0080",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0080",
+    "fileType": "docx",
+    "uploadedAt": "2025-08-06",
+    "size": "3.1 MB"
+  },
+  {
+    "id": "DOC-0208",
+    "title": "Imovel · MKT-IMV-0491",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0491",
+    "fileType": "docx",
+    "uploadedAt": "2025-11-29",
+    "size": "6.6 MB"
+  },
+  {
+    "id": "DOC-0209",
+    "title": "Cliente · MKT-CLI-0447",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0447",
+    "fileType": "docx",
+    "uploadedAt": "2026-06-06",
+    "size": "7.1 MB"
+  },
+  {
+    "id": "DOC-0210",
+    "title": "Financeiro · FIN-0254",
+    "category": "financeiro",
+    "relatedId": "FIN-0254",
+    "fileType": "pdf",
+    "uploadedAt": "2025-10-14",
+    "size": "1.6 MB"
+  },
+  {
+    "id": "DOC-0211",
+    "title": "Cliente · MKT-CLI-1315",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1315",
+    "fileType": "docx",
+    "uploadedAt": "2026-04-23",
+    "size": "8 MB"
+  },
+  {
+    "id": "DOC-0212",
+    "title": "Contrato · CTR-0257",
+    "category": "contrato",
+    "relatedId": "CTR-0257",
+    "fileType": "jpg",
+    "uploadedAt": "2025-11-17",
+    "size": "5.6 MB"
+  },
+  {
+    "id": "DOC-0213",
+    "title": "Proposta · PRP-0256",
+    "category": "proposta",
+    "relatedId": "PRP-0256",
+    "fileType": "jpg",
+    "uploadedAt": "2025-03-07",
+    "size": "2 MB"
+  },
+  {
+    "id": "DOC-0214",
+    "title": "Contrato · CTR-0690",
+    "category": "contrato",
+    "relatedId": "CTR-0690",
+    "fileType": "jpg",
+    "uploadedAt": "2025-09-23",
+    "size": "4.7 MB"
+  },
+  {
+    "id": "DOC-0215",
+    "title": "Contrato · CTR-0602",
+    "category": "contrato",
+    "relatedId": "CTR-0602",
+    "fileType": "pdf",
+    "uploadedAt": "2026-06-02",
+    "size": "5.7 MB"
+  },
+  {
+    "id": "DOC-0216",
+    "title": "Proposta · PRP-0281",
+    "category": "proposta",
+    "relatedId": "PRP-0281",
+    "fileType": "jpg",
+    "uploadedAt": "2025-03-10",
+    "size": "0.6 MB"
+  },
+  {
+    "id": "DOC-0217",
+    "title": "Imovel · MKT-IMV-0486",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0486",
+    "fileType": "docx",
+    "uploadedAt": "2025-05-23",
+    "size": "2.9 MB"
+  },
+  {
+    "id": "DOC-0218",
+    "title": "Proposta · PRP-0274",
+    "category": "proposta",
+    "relatedId": "PRP-0274",
+    "fileType": "docx",
+    "uploadedAt": "2025-03-12",
+    "size": "7.2 MB"
+  },
+  {
+    "id": "DOC-0219",
+    "title": "Cliente · MKT-CLI-0242",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0242",
+    "fileType": "jpg",
+    "uploadedAt": "2025-08-27",
+    "size": "7.5 MB"
+  },
+  {
+    "id": "DOC-0220",
+    "title": "Cliente · MKT-CLI-0038",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0038",
+    "fileType": "pdf",
+    "uploadedAt": "2025-07-13",
+    "size": "1.9 MB"
+  },
+  {
+    "id": "DOC-0221",
+    "title": "Financeiro · FIN-0180",
+    "category": "financeiro",
+    "relatedId": "FIN-0180",
+    "fileType": "pdf",
+    "uploadedAt": "2026-06-12",
+    "size": "7.4 MB"
+  },
+  {
+    "id": "DOC-0222",
+    "title": "Contrato · CTR-0198",
+    "category": "contrato",
+    "relatedId": "CTR-0198",
+    "fileType": "docx",
+    "uploadedAt": "2026-05-25",
+    "size": "2.9 MB"
+  },
+  {
+    "id": "DOC-0223",
+    "title": "Proposta · PRP-0179",
+    "category": "proposta",
+    "relatedId": "PRP-0179",
+    "fileType": "jpg",
+    "uploadedAt": "2025-04-24",
+    "size": "6.4 MB"
+  },
+  {
+    "id": "DOC-0224",
+    "title": "Financeiro · FIN-0245",
+    "category": "financeiro",
+    "relatedId": "FIN-0245",
+    "fileType": "jpg",
+    "uploadedAt": "2026-05-28",
+    "size": "4.7 MB"
+  },
+  {
+    "id": "DOC-0225",
+    "title": "Imovel · MKT-IMV-0044",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0044",
+    "fileType": "pdf",
+    "uploadedAt": "2025-08-03",
+    "size": "4.7 MB"
+  },
+  {
+    "id": "DOC-0226",
+    "title": "Imovel · MKT-IMV-0046",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0046",
+    "fileType": "pdf",
+    "uploadedAt": "2026-06-01",
+    "size": "7.2 MB"
+  },
+  {
+    "id": "DOC-0227",
+    "title": "Proposta · PRP-0243",
+    "category": "proposta",
+    "relatedId": "PRP-0243",
+    "fileType": "jpg",
+    "uploadedAt": "2025-09-24",
+    "size": "3.3 MB"
+  },
+  {
+    "id": "DOC-0228",
+    "title": "Cliente · MKT-CLI-1239",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1239",
+    "fileType": "pdf",
+    "uploadedAt": "2026-03-21",
+    "size": "7.6 MB"
+  },
+  {
+    "id": "DOC-0229",
+    "title": "Financeiro · FIN-0097",
+    "category": "financeiro",
+    "relatedId": "FIN-0097",
+    "fileType": "pdf",
+    "uploadedAt": "2025-06-11",
+    "size": "1 MB"
+  },
+  {
+    "id": "DOC-0230",
+    "title": "Cliente · MKT-CLI-0338",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0338",
+    "fileType": "jpg",
+    "uploadedAt": "2025-05-16",
+    "size": "0.4 MB"
+  },
+  {
+    "id": "DOC-0231",
+    "title": "Financeiro · FIN-0171",
+    "category": "financeiro",
+    "relatedId": "FIN-0171",
+    "fileType": "docx",
+    "uploadedAt": "2025-06-15",
+    "size": "0.5 MB"
+  },
+  {
+    "id": "DOC-0232",
+    "title": "Proposta · PRP-0140",
+    "category": "proposta",
+    "relatedId": "PRP-0140",
+    "fileType": "pdf",
+    "uploadedAt": "2025-11-07",
+    "size": "2.7 MB"
+  },
+  {
+    "id": "DOC-0233",
+    "title": "Imovel · MKT-IMV-0352",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0352",
+    "fileType": "docx",
+    "uploadedAt": "2026-07-02",
+    "size": "2.1 MB"
+  },
+  {
+    "id": "DOC-0234",
+    "title": "Financeiro · FIN-0145",
+    "category": "financeiro",
+    "relatedId": "FIN-0145",
+    "fileType": "jpg",
+    "uploadedAt": "2025-08-09",
+    "size": "6.7 MB"
+  },
+  {
+    "id": "DOC-0235",
+    "title": "Cliente · MKT-CLI-0144",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0144",
+    "fileType": "docx",
+    "uploadedAt": "2025-07-16",
+    "size": "2.5 MB"
+  },
+  {
+    "id": "DOC-0236",
+    "title": "Financeiro · FIN-0081",
+    "category": "financeiro",
+    "relatedId": "FIN-0081",
+    "fileType": "pdf",
+    "uploadedAt": "2026-03-07",
+    "size": "7.6 MB"
+  },
+  {
+    "id": "DOC-0237",
+    "title": "Proposta · PRP-0023",
+    "category": "proposta",
+    "relatedId": "PRP-0023",
+    "fileType": "docx",
+    "uploadedAt": "2025-11-27",
+    "size": "6.5 MB"
+  },
+  {
+    "id": "DOC-0238",
+    "title": "Imovel · MKT-IMV-0751",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0751",
+    "fileType": "docx",
+    "uploadedAt": "2025-03-21",
+    "size": "5.5 MB"
+  },
+  {
+    "id": "DOC-0239",
+    "title": "Financeiro · FIN-0042",
+    "category": "financeiro",
+    "relatedId": "FIN-0042",
+    "fileType": "pdf",
+    "uploadedAt": "2026-01-17",
+    "size": "4.4 MB"
+  },
+  {
+    "id": "DOC-0240",
+    "title": "Financeiro · FIN-0330",
+    "category": "financeiro",
+    "relatedId": "FIN-0330",
+    "fileType": "docx",
+    "uploadedAt": "2025-04-22",
+    "size": "1.6 MB"
+  },
+  {
+    "id": "DOC-0241",
+    "title": "Imovel · MKT-IMV-0123",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0123",
+    "fileType": "jpg",
+    "uploadedAt": "2025-07-13",
+    "size": "5.5 MB"
+  },
+  {
+    "id": "DOC-0242",
+    "title": "Financeiro · FIN-0075",
+    "category": "financeiro",
+    "relatedId": "FIN-0075",
+    "fileType": "docx",
+    "uploadedAt": "2026-06-01",
+    "size": "3.8 MB"
+  },
+  {
+    "id": "DOC-0243",
+    "title": "Proposta · PRP-0206",
+    "category": "proposta",
+    "relatedId": "PRP-0206",
+    "fileType": "docx",
+    "uploadedAt": "2026-06-18",
+    "size": "1.6 MB"
+  },
+  {
+    "id": "DOC-0244",
+    "title": "Cliente · MKT-CLI-0764",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0764",
+    "fileType": "jpg",
+    "uploadedAt": "2026-06-16",
+    "size": "8 MB"
+  },
+  {
+    "id": "DOC-0245",
+    "title": "Contrato · CTR-0052",
+    "category": "contrato",
+    "relatedId": "CTR-0052",
+    "fileType": "docx",
+    "uploadedAt": "2026-02-12",
+    "size": "3.6 MB"
+  },
+  {
+    "id": "DOC-0246",
+    "title": "Contrato · CTR-0531",
+    "category": "contrato",
+    "relatedId": "CTR-0531",
+    "fileType": "docx",
+    "uploadedAt": "2025-07-15",
+    "size": "3.4 MB"
+  },
+  {
+    "id": "DOC-0247",
+    "title": "Imovel · MKT-IMV-0686",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0686",
+    "fileType": "docx",
+    "uploadedAt": "2026-05-10",
+    "size": "6.2 MB"
+  },
+  {
+    "id": "DOC-0248",
+    "title": "Financeiro · FIN-0371",
+    "category": "financeiro",
+    "relatedId": "FIN-0371",
+    "fileType": "jpg",
+    "uploadedAt": "2025-08-12",
+    "size": "0.7 MB"
+  },
+  {
+    "id": "DOC-0249",
+    "title": "Imovel · MKT-IMV-0489",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0489",
+    "fileType": "jpg",
+    "uploadedAt": "2025-07-21",
+    "size": "3.2 MB"
+  },
+  {
+    "id": "DOC-0250",
+    "title": "Contrato · CTR-0244",
+    "category": "contrato",
+    "relatedId": "CTR-0244",
+    "fileType": "docx",
+    "uploadedAt": "2025-12-27",
+    "size": "4.1 MB"
+  },
+  {
+    "id": "DOC-0251",
+    "title": "Cliente · MKT-CLI-1142",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1142",
+    "fileType": "jpg",
+    "uploadedAt": "2025-08-22",
+    "size": "2.3 MB"
+  },
+  {
+    "id": "DOC-0252",
+    "title": "Contrato · CTR-0625",
+    "category": "contrato",
+    "relatedId": "CTR-0625",
+    "fileType": "docx",
+    "uploadedAt": "2025-12-22",
+    "size": "1.9 MB"
+  },
+  {
+    "id": "DOC-0253",
+    "title": "Proposta · PRP-0162",
+    "category": "proposta",
+    "relatedId": "PRP-0162",
+    "fileType": "docx",
+    "uploadedAt": "2025-12-17",
+    "size": "7.8 MB"
+  },
+  {
+    "id": "DOC-0254",
+    "title": "Financeiro · FIN-0390",
+    "category": "financeiro",
+    "relatedId": "FIN-0390",
+    "fileType": "docx",
+    "uploadedAt": "2026-05-30",
+    "size": "1.6 MB"
+  },
+  {
+    "id": "DOC-0255",
+    "title": "Cliente · MKT-CLI-1326",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1326",
+    "fileType": "pdf",
+    "uploadedAt": "2025-06-23",
+    "size": "0.4 MB"
+  },
+  {
+    "id": "DOC-0256",
+    "title": "Proposta · PRP-0058",
+    "category": "proposta",
+    "relatedId": "PRP-0058",
+    "fileType": "pdf",
+    "uploadedAt": "2025-07-09",
+    "size": "3.6 MB"
+  },
+  {
+    "id": "DOC-0257",
+    "title": "Imovel · MKT-IMV-0775",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0775",
+    "fileType": "docx",
+    "uploadedAt": "2026-02-02",
+    "size": "3.2 MB"
+  },
+  {
+    "id": "DOC-0258",
+    "title": "Contrato · CTR-0227",
+    "category": "contrato",
+    "relatedId": "CTR-0227",
+    "fileType": "jpg",
+    "uploadedAt": "2025-05-31",
+    "size": "3.7 MB"
+  },
+  {
+    "id": "DOC-0259",
+    "title": "Imovel · MKT-IMV-0724",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0724",
+    "fileType": "pdf",
+    "uploadedAt": "2025-09-22",
+    "size": "1.2 MB"
+  },
+  {
+    "id": "DOC-0260",
+    "title": "Proposta · PRP-0014",
+    "category": "proposta",
+    "relatedId": "PRP-0014",
+    "fileType": "pdf",
+    "uploadedAt": "2026-03-28",
+    "size": "1.1 MB"
+  },
+  {
+    "id": "DOC-0261",
+    "title": "Proposta · PRP-0103",
+    "category": "proposta",
+    "relatedId": "PRP-0103",
+    "fileType": "pdf",
+    "uploadedAt": "2026-03-10",
+    "size": "2.8 MB"
+  },
+  {
+    "id": "DOC-0262",
+    "title": "Contrato · CTR-0466",
+    "category": "contrato",
+    "relatedId": "CTR-0466",
+    "fileType": "docx",
+    "uploadedAt": "2025-10-18",
+    "size": "3.9 MB"
+  },
+  {
+    "id": "DOC-0263",
+    "title": "Imovel · MKT-IMV-0648",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0648",
+    "fileType": "jpg",
+    "uploadedAt": "2025-09-25",
+    "size": "2.6 MB"
+  },
+  {
+    "id": "DOC-0264",
+    "title": "Financeiro · FIN-0015",
+    "category": "financeiro",
+    "relatedId": "FIN-0015",
+    "fileType": "pdf",
+    "uploadedAt": "2025-03-27",
+    "size": "4.4 MB"
+  },
+  {
+    "id": "DOC-0265",
+    "title": "Imovel · MKT-IMV-0472",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0472",
+    "fileType": "pdf",
+    "uploadedAt": "2026-05-28",
+    "size": "1.6 MB"
+  },
+  {
+    "id": "DOC-0266",
+    "title": "Proposta · PRP-0263",
+    "category": "proposta",
+    "relatedId": "PRP-0263",
+    "fileType": "jpg",
+    "uploadedAt": "2026-02-09",
+    "size": "6.5 MB"
+  },
+  {
+    "id": "DOC-0267",
+    "title": "Contrato · CTR-0606",
+    "category": "contrato",
+    "relatedId": "CTR-0606",
+    "fileType": "docx",
+    "uploadedAt": "2025-04-26",
+    "size": "1.1 MB"
+  },
+  {
+    "id": "DOC-0268",
+    "title": "Imovel · MKT-IMV-0361",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0361",
+    "fileType": "docx",
+    "uploadedAt": "2026-04-05",
+    "size": "7.5 MB"
+  },
+  {
+    "id": "DOC-0269",
+    "title": "Imovel · MKT-IMV-0784",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0784",
+    "fileType": "pdf",
+    "uploadedAt": "2026-05-19",
+    "size": "7.6 MB"
+  },
+  {
+    "id": "DOC-0270",
+    "title": "Proposta · PRP-0026",
+    "category": "proposta",
+    "relatedId": "PRP-0026",
+    "fileType": "jpg",
+    "uploadedAt": "2025-05-28",
+    "size": "3.6 MB"
+  },
+  {
+    "id": "DOC-0271",
+    "title": "Contrato · CTR-0440",
+    "category": "contrato",
+    "relatedId": "CTR-0440",
+    "fileType": "pdf",
+    "uploadedAt": "2026-01-26",
+    "size": "7.1 MB"
+  },
+  {
+    "id": "DOC-0272",
+    "title": "Cliente · MKT-CLI-1127",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1127",
+    "fileType": "pdf",
+    "uploadedAt": "2026-05-29",
+    "size": "2 MB"
+  },
+  {
+    "id": "DOC-0273",
+    "title": "Cliente · MKT-CLI-1317",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1317",
+    "fileType": "docx",
+    "uploadedAt": "2025-06-06",
+    "size": "4.2 MB"
+  },
+  {
+    "id": "DOC-0274",
+    "title": "Financeiro · FIN-0384",
+    "category": "financeiro",
+    "relatedId": "FIN-0384",
+    "fileType": "pdf",
+    "uploadedAt": "2026-06-29",
+    "size": "7.8 MB"
+  },
+  {
+    "id": "DOC-0275",
+    "title": "Financeiro · FIN-0053",
+    "category": "financeiro",
+    "relatedId": "FIN-0053",
+    "fileType": "jpg",
+    "uploadedAt": "2025-08-31",
+    "size": "3.6 MB"
+  },
+  {
+    "id": "DOC-0276",
+    "title": "Imovel · MKT-IMV-0325",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0325",
+    "fileType": "docx",
+    "uploadedAt": "2025-05-20",
+    "size": "5.5 MB"
+  },
+  {
+    "id": "DOC-0277",
+    "title": "Imovel · MKT-IMV-0088",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0088",
+    "fileType": "pdf",
+    "uploadedAt": "2025-04-18",
+    "size": "5.8 MB"
+  },
+  {
+    "id": "DOC-0278",
+    "title": "Imovel · MKT-IMV-0768",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0768",
+    "fileType": "pdf",
+    "uploadedAt": "2025-09-27",
+    "size": "4.1 MB"
+  },
+  {
+    "id": "DOC-0279",
+    "title": "Imovel · MKT-IMV-0264",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0264",
+    "fileType": "pdf",
+    "uploadedAt": "2025-11-17",
+    "size": "0.2 MB"
+  },
+  {
+    "id": "DOC-0280",
+    "title": "Proposta · PRP-0206",
+    "category": "proposta",
+    "relatedId": "PRP-0206",
+    "fileType": "jpg",
+    "uploadedAt": "2025-04-24",
+    "size": "1.9 MB"
+  },
+  {
+    "id": "DOC-0281",
+    "title": "Contrato · CTR-0347",
+    "category": "contrato",
+    "relatedId": "CTR-0347",
+    "fileType": "pdf",
+    "uploadedAt": "2025-12-12",
+    "size": "8 MB"
+  },
+  {
+    "id": "DOC-0282",
+    "title": "Financeiro · FIN-0249",
+    "category": "financeiro",
+    "relatedId": "FIN-0249",
+    "fileType": "docx",
+    "uploadedAt": "2025-11-10",
+    "size": "7.6 MB"
+  },
+  {
+    "id": "DOC-0283",
+    "title": "Contrato · CTR-0058",
+    "category": "contrato",
+    "relatedId": "CTR-0058",
+    "fileType": "docx",
+    "uploadedAt": "2025-11-21",
+    "size": "7.4 MB"
+  },
+  {
+    "id": "DOC-0284",
+    "title": "Financeiro · FIN-0094",
+    "category": "financeiro",
+    "relatedId": "FIN-0094",
+    "fileType": "pdf",
+    "uploadedAt": "2025-10-02",
+    "size": "7.9 MB"
+  },
+  {
+    "id": "DOC-0285",
+    "title": "Cliente · MKT-CLI-0090",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0090",
+    "fileType": "jpg",
+    "uploadedAt": "2025-04-29",
+    "size": "2.7 MB"
+  },
+  {
+    "id": "DOC-0286",
+    "title": "Proposta · PRP-0159",
+    "category": "proposta",
+    "relatedId": "PRP-0159",
+    "fileType": "jpg",
+    "uploadedAt": "2026-04-12",
+    "size": "4.8 MB"
+  },
+  {
+    "id": "DOC-0287",
+    "title": "Imovel · MKT-IMV-0264",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0264",
+    "fileType": "docx",
+    "uploadedAt": "2026-01-04",
+    "size": "1 MB"
+  },
+  {
+    "id": "DOC-0288",
+    "title": "Financeiro · FIN-0088",
+    "category": "financeiro",
+    "relatedId": "FIN-0088",
+    "fileType": "docx",
+    "uploadedAt": "2025-03-01",
+    "size": "2.1 MB"
+  },
+  {
+    "id": "DOC-0289",
+    "title": "Imovel · MKT-IMV-0534",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0534",
+    "fileType": "jpg",
+    "uploadedAt": "2025-04-25",
+    "size": "7.9 MB"
+  },
+  {
+    "id": "DOC-0290",
+    "title": "Imovel · MKT-IMV-0030",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0030",
+    "fileType": "pdf",
+    "uploadedAt": "2025-04-06",
+    "size": "4 MB"
+  },
+  {
+    "id": "DOC-0291",
+    "title": "Proposta · PRP-0216",
+    "category": "proposta",
+    "relatedId": "PRP-0216",
+    "fileType": "jpg",
+    "uploadedAt": "2025-07-11",
+    "size": "2.3 MB"
+  },
+  {
+    "id": "DOC-0292",
+    "title": "Contrato · CTR-0409",
+    "category": "contrato",
+    "relatedId": "CTR-0409",
+    "fileType": "pdf",
+    "uploadedAt": "2025-04-25",
+    "size": "1.8 MB"
+  },
+  {
+    "id": "DOC-0293",
+    "title": "Cliente · MKT-CLI-0094",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0094",
+    "fileType": "pdf",
+    "uploadedAt": "2025-08-03",
+    "size": "5.6 MB"
+  },
+  {
+    "id": "DOC-0294",
+    "title": "Financeiro · FIN-0397",
+    "category": "financeiro",
+    "relatedId": "FIN-0397",
+    "fileType": "jpg",
+    "uploadedAt": "2026-04-02",
+    "size": "3.9 MB"
+  },
+  {
+    "id": "DOC-0295",
+    "title": "Contrato · CTR-0483",
+    "category": "contrato",
+    "relatedId": "CTR-0483",
+    "fileType": "docx",
+    "uploadedAt": "2026-04-30",
+    "size": "7.1 MB"
+  },
+  {
+    "id": "DOC-0296",
+    "title": "Contrato · CTR-0060",
+    "category": "contrato",
+    "relatedId": "CTR-0060",
+    "fileType": "pdf",
+    "uploadedAt": "2025-03-13",
+    "size": "7.6 MB"
+  },
+  {
+    "id": "DOC-0297",
+    "title": "Contrato · CTR-0302",
+    "category": "contrato",
+    "relatedId": "CTR-0302",
+    "fileType": "docx",
+    "uploadedAt": "2025-08-12",
+    "size": "4.5 MB"
+  },
+  {
+    "id": "DOC-0298",
+    "title": "Imovel · MKT-IMV-0272",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0272",
+    "fileType": "jpg",
+    "uploadedAt": "2026-05-07",
+    "size": "3.4 MB"
+  },
+  {
+    "id": "DOC-0299",
+    "title": "Contrato · CTR-0392",
+    "category": "contrato",
+    "relatedId": "CTR-0392",
+    "fileType": "jpg",
+    "uploadedAt": "2025-09-24",
+    "size": "1.4 MB"
+  },
+  {
+    "id": "DOC-0300",
+    "title": "Proposta · PRP-0085",
+    "category": "proposta",
+    "relatedId": "PRP-0085",
+    "fileType": "docx",
+    "uploadedAt": "2026-06-05",
+    "size": "3.5 MB"
+  },
+  {
+    "id": "DOC-0301",
+    "title": "Cliente · MKT-CLI-1311",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1311",
+    "fileType": "jpg",
+    "uploadedAt": "2025-03-12",
+    "size": "6.4 MB"
+  },
+  {
+    "id": "DOC-0302",
+    "title": "Cliente · MKT-CLI-1303",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1303",
+    "fileType": "jpg",
+    "uploadedAt": "2025-04-11",
+    "size": "1.3 MB"
+  },
+  {
+    "id": "DOC-0303",
+    "title": "Financeiro · FIN-0050",
+    "category": "financeiro",
+    "relatedId": "FIN-0050",
+    "fileType": "jpg",
+    "uploadedAt": "2025-07-11",
+    "size": "6.3 MB"
+  },
+  {
+    "id": "DOC-0304",
+    "title": "Contrato · CTR-0651",
+    "category": "contrato",
+    "relatedId": "CTR-0651",
+    "fileType": "pdf",
+    "uploadedAt": "2026-04-27",
+    "size": "6 MB"
+  },
+  {
+    "id": "DOC-0305",
+    "title": "Financeiro · FIN-0120",
+    "category": "financeiro",
+    "relatedId": "FIN-0120",
+    "fileType": "jpg",
+    "uploadedAt": "2025-09-02",
+    "size": "1.8 MB"
+  },
+  {
+    "id": "DOC-0306",
+    "title": "Financeiro · FIN-0394",
+    "category": "financeiro",
+    "relatedId": "FIN-0394",
+    "fileType": "docx",
+    "uploadedAt": "2025-07-03",
+    "size": "5.9 MB"
+  },
+  {
+    "id": "DOC-0307",
+    "title": "Contrato · CTR-0194",
+    "category": "contrato",
+    "relatedId": "CTR-0194",
+    "fileType": "pdf",
+    "uploadedAt": "2025-06-10",
+    "size": "4.1 MB"
+  },
+  {
+    "id": "DOC-0308",
+    "title": "Imovel · MKT-IMV-0696",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0696",
+    "fileType": "pdf",
+    "uploadedAt": "2025-04-02",
+    "size": "0.9 MB"
+  },
+  {
+    "id": "DOC-0309",
+    "title": "Proposta · PRP-0129",
+    "category": "proposta",
+    "relatedId": "PRP-0129",
+    "fileType": "jpg",
+    "uploadedAt": "2025-07-06",
+    "size": "7 MB"
+  },
+  {
+    "id": "DOC-0310",
+    "title": "Contrato · CTR-0507",
+    "category": "contrato",
+    "relatedId": "CTR-0507",
+    "fileType": "jpg",
+    "uploadedAt": "2026-01-16",
+    "size": "0.4 MB"
+  },
+  {
+    "id": "DOC-0311",
+    "title": "Financeiro · FIN-0323",
+    "category": "financeiro",
+    "relatedId": "FIN-0323",
+    "fileType": "pdf",
+    "uploadedAt": "2026-02-16",
+    "size": "1.4 MB"
+  },
+  {
+    "id": "DOC-0312",
+    "title": "Imovel · MKT-IMV-0051",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0051",
+    "fileType": "pdf",
+    "uploadedAt": "2026-01-06",
+    "size": "1.9 MB"
+  },
+  {
+    "id": "DOC-0313",
+    "title": "Financeiro · FIN-0059",
+    "category": "financeiro",
+    "relatedId": "FIN-0059",
+    "fileType": "docx",
+    "uploadedAt": "2025-12-12",
+    "size": "2.4 MB"
+  },
+  {
+    "id": "DOC-0314",
+    "title": "Imovel · MKT-IMV-0323",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0323",
+    "fileType": "docx",
+    "uploadedAt": "2025-05-29",
+    "size": "6.1 MB"
+  },
+  {
+    "id": "DOC-0315",
+    "title": "Contrato · CTR-0269",
+    "category": "contrato",
+    "relatedId": "CTR-0269",
+    "fileType": "docx",
+    "uploadedAt": "2025-06-16",
+    "size": "4.1 MB"
+  },
+  {
+    "id": "DOC-0316",
+    "title": "Imovel · MKT-IMV-0752",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0752",
+    "fileType": "jpg",
+    "uploadedAt": "2026-03-23",
+    "size": "4 MB"
+  },
+  {
+    "id": "DOC-0317",
+    "title": "Cliente · MKT-CLI-1385",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1385",
+    "fileType": "pdf",
+    "uploadedAt": "2025-12-31",
+    "size": "4.7 MB"
+  },
+  {
+    "id": "DOC-0318",
+    "title": "Contrato · CTR-0512",
+    "category": "contrato",
+    "relatedId": "CTR-0512",
+    "fileType": "docx",
+    "uploadedAt": "2025-09-18",
+    "size": "5.8 MB"
+  },
+  {
+    "id": "DOC-0319",
+    "title": "Imovel · MKT-IMV-0607",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0607",
+    "fileType": "pdf",
+    "uploadedAt": "2026-04-10",
+    "size": "1 MB"
+  },
+  {
+    "id": "DOC-0320",
+    "title": "Imovel · MKT-IMV-0483",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0483",
+    "fileType": "jpg",
+    "uploadedAt": "2025-06-29",
+    "size": "1.4 MB"
+  },
+  {
+    "id": "DOC-0321",
+    "title": "Financeiro · FIN-0356",
+    "category": "financeiro",
+    "relatedId": "FIN-0356",
+    "fileType": "docx",
+    "uploadedAt": "2025-11-21",
+    "size": "5.1 MB"
+  },
+  {
+    "id": "DOC-0322",
+    "title": "Contrato · CTR-0212",
+    "category": "contrato",
+    "relatedId": "CTR-0212",
+    "fileType": "jpg",
+    "uploadedAt": "2026-04-07",
+    "size": "4.4 MB"
+  },
+  {
+    "id": "DOC-0323",
+    "title": "Contrato · CTR-0010",
+    "category": "contrato",
+    "relatedId": "CTR-0010",
+    "fileType": "jpg",
+    "uploadedAt": "2025-12-28",
+    "size": "4.7 MB"
+  },
+  {
+    "id": "DOC-0324",
+    "title": "Financeiro · FIN-0072",
+    "category": "financeiro",
+    "relatedId": "FIN-0072",
+    "fileType": "jpg",
+    "uploadedAt": "2026-05-20",
+    "size": "5.9 MB"
+  },
+  {
+    "id": "DOC-0325",
+    "title": "Contrato · CTR-0661",
+    "category": "contrato",
+    "relatedId": "CTR-0661",
+    "fileType": "pdf",
+    "uploadedAt": "2025-10-14",
+    "size": "4.6 MB"
+  },
+  {
+    "id": "DOC-0326",
+    "title": "Financeiro · FIN-0232",
+    "category": "financeiro",
+    "relatedId": "FIN-0232",
+    "fileType": "pdf",
+    "uploadedAt": "2025-09-13",
+    "size": "2.9 MB"
+  },
+  {
+    "id": "DOC-0327",
+    "title": "Imovel · MKT-IMV-0161",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0161",
+    "fileType": "jpg",
+    "uploadedAt": "2026-04-03",
+    "size": "2.7 MB"
+  },
+  {
+    "id": "DOC-0328",
+    "title": "Financeiro · FIN-0169",
+    "category": "financeiro",
+    "relatedId": "FIN-0169",
+    "fileType": "jpg",
+    "uploadedAt": "2025-11-05",
+    "size": "6.7 MB"
+  },
+  {
+    "id": "DOC-0329",
+    "title": "Proposta · PRP-0155",
+    "category": "proposta",
+    "relatedId": "PRP-0155",
+    "fileType": "docx",
+    "uploadedAt": "2026-05-11",
+    "size": "5.3 MB"
+  },
+  {
+    "id": "DOC-0330",
+    "title": "Cliente · MKT-CLI-0737",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0737",
+    "fileType": "jpg",
+    "uploadedAt": "2025-06-12",
+    "size": "1.7 MB"
+  },
+  {
+    "id": "DOC-0331",
+    "title": "Financeiro · FIN-0341",
+    "category": "financeiro",
+    "relatedId": "FIN-0341",
+    "fileType": "docx",
+    "uploadedAt": "2025-10-16",
+    "size": "1.8 MB"
+  },
+  {
+    "id": "DOC-0332",
+    "title": "Cliente · MKT-CLI-0265",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0265",
+    "fileType": "docx",
+    "uploadedAt": "2026-01-05",
+    "size": "1.1 MB"
+  },
+  {
+    "id": "DOC-0333",
+    "title": "Proposta · PRP-0140",
+    "category": "proposta",
+    "relatedId": "PRP-0140",
+    "fileType": "pdf",
+    "uploadedAt": "2025-06-14",
+    "size": "1.4 MB"
+  },
+  {
+    "id": "DOC-0334",
+    "title": "Proposta · PRP-0020",
+    "category": "proposta",
+    "relatedId": "PRP-0020",
+    "fileType": "jpg",
+    "uploadedAt": "2026-06-27",
+    "size": "5.5 MB"
+  },
+  {
+    "id": "DOC-0335",
+    "title": "Cliente · MKT-CLI-0782",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0782",
+    "fileType": "docx",
+    "uploadedAt": "2026-02-17",
+    "size": "4.5 MB"
+  },
+  {
+    "id": "DOC-0336",
+    "title": "Cliente · MKT-CLI-1026",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1026",
+    "fileType": "docx",
+    "uploadedAt": "2025-12-28",
+    "size": "0.7 MB"
+  },
+  {
+    "id": "DOC-0337",
+    "title": "Financeiro · FIN-0308",
+    "category": "financeiro",
+    "relatedId": "FIN-0308",
+    "fileType": "jpg",
+    "uploadedAt": "2025-03-19",
+    "size": "6.6 MB"
+  },
+  {
+    "id": "DOC-0338",
+    "title": "Financeiro · FIN-0247",
+    "category": "financeiro",
+    "relatedId": "FIN-0247",
+    "fileType": "pdf",
+    "uploadedAt": "2025-12-22",
+    "size": "5.9 MB"
+  },
+  {
+    "id": "DOC-0339",
+    "title": "Imovel · MKT-IMV-0266",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0266",
+    "fileType": "docx",
+    "uploadedAt": "2025-04-15",
+    "size": "4.2 MB"
+  },
+  {
+    "id": "DOC-0340",
+    "title": "Financeiro · FIN-0236",
+    "category": "financeiro",
+    "relatedId": "FIN-0236",
+    "fileType": "docx",
+    "uploadedAt": "2025-03-08",
+    "size": "0.8 MB"
+  },
+  {
+    "id": "DOC-0341",
+    "title": "Imovel · MKT-IMV-0093",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0093",
+    "fileType": "jpg",
+    "uploadedAt": "2025-09-14",
+    "size": "3.1 MB"
+  },
+  {
+    "id": "DOC-0342",
+    "title": "Proposta · PRP-0043",
+    "category": "proposta",
+    "relatedId": "PRP-0043",
+    "fileType": "pdf",
+    "uploadedAt": "2025-06-17",
+    "size": "6.7 MB"
+  },
+  {
+    "id": "DOC-0343",
+    "title": "Financeiro · FIN-0023",
+    "category": "financeiro",
+    "relatedId": "FIN-0023",
+    "fileType": "pdf",
+    "uploadedAt": "2025-12-07",
+    "size": "3.7 MB"
+  },
+  {
+    "id": "DOC-0344",
+    "title": "Proposta · PRP-0295",
+    "category": "proposta",
+    "relatedId": "PRP-0295",
+    "fileType": "jpg",
+    "uploadedAt": "2026-05-23",
+    "size": "5.7 MB"
+  },
+  {
+    "id": "DOC-0345",
+    "title": "Proposta · PRP-0291",
+    "category": "proposta",
+    "relatedId": "PRP-0291",
+    "fileType": "jpg",
+    "uploadedAt": "2026-06-01",
+    "size": "0.5 MB"
+  },
+  {
+    "id": "DOC-0346",
+    "title": "Proposta · PRP-0167",
+    "category": "proposta",
+    "relatedId": "PRP-0167",
+    "fileType": "docx",
+    "uploadedAt": "2025-10-13",
+    "size": "6.1 MB"
+  },
+  {
+    "id": "DOC-0347",
+    "title": "Financeiro · FIN-0085",
+    "category": "financeiro",
+    "relatedId": "FIN-0085",
+    "fileType": "pdf",
+    "uploadedAt": "2026-05-30",
+    "size": "6.8 MB"
+  },
+  {
+    "id": "DOC-0348",
+    "title": "Imovel · MKT-IMV-0303",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0303",
+    "fileType": "jpg",
+    "uploadedAt": "2025-05-02",
+    "size": "5.5 MB"
+  },
+  {
+    "id": "DOC-0349",
+    "title": "Contrato · CTR-0681",
+    "category": "contrato",
+    "relatedId": "CTR-0681",
+    "fileType": "docx",
+    "uploadedAt": "2025-11-23",
+    "size": "7.2 MB"
+  },
+  {
+    "id": "DOC-0350",
+    "title": "Financeiro · FIN-0338",
+    "category": "financeiro",
+    "relatedId": "FIN-0338",
+    "fileType": "pdf",
+    "uploadedAt": "2025-11-01",
+    "size": "6.9 MB"
+  },
+  {
+    "id": "DOC-0351",
+    "title": "Cliente · MKT-CLI-1480",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1480",
+    "fileType": "docx",
+    "uploadedAt": "2025-05-21",
+    "size": "7.4 MB"
+  },
+  {
+    "id": "DOC-0352",
+    "title": "Proposta · PRP-0013",
+    "category": "proposta",
+    "relatedId": "PRP-0013",
+    "fileType": "pdf",
+    "uploadedAt": "2025-11-02",
+    "size": "5.9 MB"
+  },
+  {
+    "id": "DOC-0353",
+    "title": "Imovel · MKT-IMV-0418",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0418",
+    "fileType": "jpg",
+    "uploadedAt": "2026-03-08",
+    "size": "7.7 MB"
+  },
+  {
+    "id": "DOC-0354",
+    "title": "Contrato · CTR-0373",
+    "category": "contrato",
+    "relatedId": "CTR-0373",
+    "fileType": "docx",
+    "uploadedAt": "2025-11-04",
+    "size": "5.5 MB"
+  },
+  {
+    "id": "DOC-0355",
+    "title": "Proposta · PRP-0136",
+    "category": "proposta",
+    "relatedId": "PRP-0136",
+    "fileType": "pdf",
+    "uploadedAt": "2025-03-20",
+    "size": "2.5 MB"
+  },
+  {
+    "id": "DOC-0356",
+    "title": "Proposta · PRP-0055",
+    "category": "proposta",
+    "relatedId": "PRP-0055",
+    "fileType": "docx",
+    "uploadedAt": "2026-02-21",
+    "size": "3.8 MB"
+  },
+  {
+    "id": "DOC-0357",
+    "title": "Contrato · CTR-0733",
+    "category": "contrato",
+    "relatedId": "CTR-0733",
+    "fileType": "docx",
+    "uploadedAt": "2025-08-13",
+    "size": "5.4 MB"
+  },
+  {
+    "id": "DOC-0358",
+    "title": "Proposta · PRP-0238",
+    "category": "proposta",
+    "relatedId": "PRP-0238",
+    "fileType": "pdf",
+    "uploadedAt": "2026-03-17",
+    "size": "0.4 MB"
+  },
+  {
+    "id": "DOC-0359",
+    "title": "Contrato · CTR-0380",
+    "category": "contrato",
+    "relatedId": "CTR-0380",
+    "fileType": "docx",
+    "uploadedAt": "2025-08-02",
+    "size": "6.8 MB"
+  },
+  {
+    "id": "DOC-0360",
+    "title": "Financeiro · FIN-0157",
+    "category": "financeiro",
+    "relatedId": "FIN-0157",
+    "fileType": "pdf",
+    "uploadedAt": "2026-03-05",
+    "size": "1.1 MB"
+  },
+  {
+    "id": "DOC-0361",
+    "title": "Contrato · CTR-0562",
+    "category": "contrato",
+    "relatedId": "CTR-0562",
+    "fileType": "pdf",
+    "uploadedAt": "2025-11-26",
+    "size": "6.8 MB"
+  },
+  {
+    "id": "DOC-0362",
+    "title": "Proposta · PRP-0127",
+    "category": "proposta",
+    "relatedId": "PRP-0127",
+    "fileType": "pdf",
+    "uploadedAt": "2026-02-17",
+    "size": "7.2 MB"
+  },
+  {
+    "id": "DOC-0363",
+    "title": "Imovel · MKT-IMV-0138",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0138",
+    "fileType": "docx",
+    "uploadedAt": "2025-04-10",
+    "size": "0.9 MB"
+  },
+  {
+    "id": "DOC-0364",
+    "title": "Contrato · CTR-0052",
+    "category": "contrato",
+    "relatedId": "CTR-0052",
+    "fileType": "docx",
+    "uploadedAt": "2026-04-03",
+    "size": "7.3 MB"
+  },
+  {
+    "id": "DOC-0365",
+    "title": "Financeiro · FIN-0352",
+    "category": "financeiro",
+    "relatedId": "FIN-0352",
+    "fileType": "docx",
+    "uploadedAt": "2026-04-15",
+    "size": "1.5 MB"
+  },
+  {
+    "id": "DOC-0366",
+    "title": "Cliente · MKT-CLI-0861",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0861",
+    "fileType": "docx",
+    "uploadedAt": "2025-04-16",
+    "size": "4.6 MB"
+  },
+  {
+    "id": "DOC-0367",
+    "title": "Proposta · PRP-0043",
+    "category": "proposta",
+    "relatedId": "PRP-0043",
+    "fileType": "docx",
+    "uploadedAt": "2026-06-29",
+    "size": "7.2 MB"
+  },
+  {
+    "id": "DOC-0368",
+    "title": "Contrato · CTR-0221",
+    "category": "contrato",
+    "relatedId": "CTR-0221",
+    "fileType": "jpg",
+    "uploadedAt": "2026-01-17",
+    "size": "1.6 MB"
+  },
+  {
+    "id": "DOC-0369",
+    "title": "Contrato · CTR-0448",
+    "category": "contrato",
+    "relatedId": "CTR-0448",
+    "fileType": "pdf",
+    "uploadedAt": "2025-12-06",
+    "size": "2.2 MB"
+  },
+  {
+    "id": "DOC-0370",
+    "title": "Financeiro · FIN-0237",
+    "category": "financeiro",
+    "relatedId": "FIN-0237",
+    "fileType": "pdf",
+    "uploadedAt": "2026-06-15",
+    "size": "3.5 MB"
+  },
+  {
+    "id": "DOC-0371",
+    "title": "Proposta · PRP-0095",
+    "category": "proposta",
+    "relatedId": "PRP-0095",
+    "fileType": "pdf",
+    "uploadedAt": "2025-12-05",
+    "size": "1 MB"
+  },
+  {
+    "id": "DOC-0372",
+    "title": "Imovel · MKT-IMV-0039",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0039",
+    "fileType": "jpg",
+    "uploadedAt": "2025-12-06",
+    "size": "4.1 MB"
+  },
+  {
+    "id": "DOC-0373",
+    "title": "Financeiro · FIN-0103",
+    "category": "financeiro",
+    "relatedId": "FIN-0103",
+    "fileType": "pdf",
+    "uploadedAt": "2026-06-30",
+    "size": "5.2 MB"
+  },
+  {
+    "id": "DOC-0374",
+    "title": "Financeiro · FIN-0262",
+    "category": "financeiro",
+    "relatedId": "FIN-0262",
+    "fileType": "jpg",
+    "uploadedAt": "2026-02-28",
+    "size": "4.1 MB"
+  },
+  {
+    "id": "DOC-0375",
+    "title": "Contrato · CTR-0595",
+    "category": "contrato",
+    "relatedId": "CTR-0595",
+    "fileType": "docx",
+    "uploadedAt": "2025-05-02",
+    "size": "4.2 MB"
+  },
+  {
+    "id": "DOC-0376",
+    "title": "Proposta · PRP-0136",
+    "category": "proposta",
+    "relatedId": "PRP-0136",
+    "fileType": "jpg",
+    "uploadedAt": "2025-03-27",
+    "size": "2.3 MB"
+  },
+  {
+    "id": "DOC-0377",
+    "title": "Contrato · CTR-0255",
+    "category": "contrato",
+    "relatedId": "CTR-0255",
+    "fileType": "jpg",
+    "uploadedAt": "2025-05-08",
+    "size": "7.8 MB"
+  },
+  {
+    "id": "DOC-0378",
+    "title": "Contrato · CTR-0131",
+    "category": "contrato",
+    "relatedId": "CTR-0131",
+    "fileType": "docx",
+    "uploadedAt": "2025-06-27",
+    "size": "0.8 MB"
+  },
+  {
+    "id": "DOC-0379",
+    "title": "Imovel · MKT-IMV-0787",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0787",
+    "fileType": "jpg",
+    "uploadedAt": "2026-01-17",
+    "size": "4 MB"
+  },
+  {
+    "id": "DOC-0380",
+    "title": "Proposta · PRP-0221",
+    "category": "proposta",
+    "relatedId": "PRP-0221",
+    "fileType": "docx",
+    "uploadedAt": "2026-01-14",
+    "size": "4.6 MB"
+  },
+  {
+    "id": "DOC-0381",
+    "title": "Cliente · MKT-CLI-0192",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0192",
+    "fileType": "jpg",
+    "uploadedAt": "2026-05-16",
+    "size": "6.9 MB"
+  },
+  {
+    "id": "DOC-0382",
+    "title": "Contrato · CTR-0007",
+    "category": "contrato",
+    "relatedId": "CTR-0007",
+    "fileType": "docx",
+    "uploadedAt": "2026-03-02",
+    "size": "5 MB"
+  },
+  {
+    "id": "DOC-0383",
+    "title": "Contrato · CTR-0354",
+    "category": "contrato",
+    "relatedId": "CTR-0354",
+    "fileType": "docx",
+    "uploadedAt": "2025-11-07",
+    "size": "2.6 MB"
+  },
+  {
+    "id": "DOC-0384",
+    "title": "Imovel · MKT-IMV-0797",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0797",
+    "fileType": "pdf",
+    "uploadedAt": "2026-02-22",
+    "size": "5.3 MB"
+  },
+  {
+    "id": "DOC-0385",
+    "title": "Financeiro · FIN-0130",
+    "category": "financeiro",
+    "relatedId": "FIN-0130",
+    "fileType": "docx",
+    "uploadedAt": "2025-05-05",
+    "size": "7.3 MB"
+  },
+  {
+    "id": "DOC-0386",
+    "title": "Financeiro · FIN-0196",
+    "category": "financeiro",
+    "relatedId": "FIN-0196",
+    "fileType": "pdf",
+    "uploadedAt": "2025-12-25",
+    "size": "3.7 MB"
+  },
+  {
+    "id": "DOC-0387",
+    "title": "Imovel · MKT-IMV-0090",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0090",
+    "fileType": "docx",
+    "uploadedAt": "2025-10-04",
+    "size": "7.9 MB"
+  },
+  {
+    "id": "DOC-0388",
+    "title": "Financeiro · FIN-0066",
+    "category": "financeiro",
+    "relatedId": "FIN-0066",
+    "fileType": "jpg",
+    "uploadedAt": "2025-10-29",
+    "size": "1.6 MB"
+  },
+  {
+    "id": "DOC-0389",
+    "title": "Contrato · CTR-0259",
+    "category": "contrato",
+    "relatedId": "CTR-0259",
+    "fileType": "jpg",
+    "uploadedAt": "2025-12-11",
+    "size": "7.4 MB"
+  },
+  {
+    "id": "DOC-0390",
+    "title": "Proposta · PRP-0262",
+    "category": "proposta",
+    "relatedId": "PRP-0262",
+    "fileType": "pdf",
+    "uploadedAt": "2025-12-03",
+    "size": "7.9 MB"
+  },
+  {
+    "id": "DOC-0391",
+    "title": "Imovel · MKT-IMV-0751",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0751",
+    "fileType": "pdf",
+    "uploadedAt": "2026-03-06",
+    "size": "2.8 MB"
+  },
+  {
+    "id": "DOC-0392",
+    "title": "Financeiro · FIN-0232",
+    "category": "financeiro",
+    "relatedId": "FIN-0232",
+    "fileType": "pdf",
+    "uploadedAt": "2026-06-23",
+    "size": "2.7 MB"
+  },
+  {
+    "id": "DOC-0393",
+    "title": "Cliente · MKT-CLI-1172",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1172",
+    "fileType": "docx",
+    "uploadedAt": "2025-04-06",
+    "size": "1.1 MB"
+  },
+  {
+    "id": "DOC-0394",
+    "title": "Cliente · MKT-CLI-1190",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-1190",
+    "fileType": "docx",
+    "uploadedAt": "2025-06-28",
+    "size": "2 MB"
+  },
+  {
+    "id": "DOC-0395",
+    "title": "Imovel · MKT-IMV-0167",
+    "category": "imovel",
+    "relatedId": "MKT-IMV-0167",
+    "fileType": "docx",
+    "uploadedAt": "2025-07-30",
+    "size": "0.2 MB"
+  },
+  {
+    "id": "DOC-0396",
+    "title": "Contrato · CTR-0363",
+    "category": "contrato",
+    "relatedId": "CTR-0363",
+    "fileType": "pdf",
+    "uploadedAt": "2026-01-12",
+    "size": "7.1 MB"
+  },
+  {
+    "id": "DOC-0397",
+    "title": "Cliente · MKT-CLI-0383",
+    "category": "cliente",
+    "relatedId": "MKT-CLI-0383",
+    "fileType": "pdf",
+    "uploadedAt": "2026-02-02",
+    "size": "7.8 MB"
+  },
+  {
+    "id": "DOC-0398",
+    "title": "Proposta · PRP-0058",
+    "category": "proposta",
+    "relatedId": "PRP-0058",
+    "fileType": "docx",
+    "uploadedAt": "2025-07-01",
+    "size": "6.9 MB"
+  },
+  {
+    "id": "DOC-0399",
+    "title": "Contrato · CTR-0250",
+    "category": "contrato",
+    "relatedId": "CTR-0250",
+    "fileType": "jpg",
+    "uploadedAt": "2026-01-05",
+    "size": "3.2 MB"
+  },
+  {
+    "id": "DOC-0400",
+    "title": "Financeiro · FIN-0184",
+    "category": "financeiro",
+    "relatedId": "FIN-0184",
+    "fileType": "pdf",
+    "uploadedAt": "2026-02-09",
+    "size": "5.4 MB"
+  }
+]

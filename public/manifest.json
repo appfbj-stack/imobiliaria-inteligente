@@ -1,11 +1,11 @@
 {
-  "name": "Imobiliária Inteligente",
-  "short_name": "ImobiIntel",
-  "description": "Gerenciamento inteligente de imóveis, clientes, visitas e matchmaking por IA.",
+  "name": "Kairós Imobiliária",
+  "short_name": "Kairós",
+  "description": "CRM imobiliário premium da plataforma Kairós, com Aion como consultor inteligente para imóveis, clientes, corretores, contratos e visitas.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#0f172a",
-  "theme_color": "#1e1b4b",
+  "background_color": "#0a0f1f",
+  "theme_color": "#0a0f1f",
   "orientation": "portrait-primary",
   "icons": [
     {

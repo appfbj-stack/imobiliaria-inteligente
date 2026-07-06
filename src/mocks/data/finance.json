@@ -1,0 +1,3310 @@
+[
+  {
+    "id": "FIN-0001",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Oliveira S.A.",
+    "value": 31851,
+    "date": "2026-02-21"
+  },
+  {
+    "id": "FIN-0002",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Santos, Franco e Melo",
+    "value": 10744,
+    "date": "2025-08-01"
+  },
+  {
+    "id": "FIN-0003",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Nogueira EIRELI",
+    "value": 35924,
+    "date": "2025-09-02"
+  },
+  {
+    "id": "FIN-0004",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Nogueira, Costa e Nogueira",
+    "value": 43348,
+    "date": "2025-12-05"
+  },
+  {
+    "id": "FIN-0005",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração · Carvalho S.A.",
+    "value": 2075,
+    "date": "2025-12-16"
+  },
+  {
+    "id": "FIN-0006",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Macedo, Saraiva e Xavier",
+    "value": 11080,
+    "date": "2026-07-01"
+  },
+  {
+    "id": "FIN-0007",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0228 (venda)",
+    "value": 5727,
+    "date": "2026-06-25",
+    "relatedContractId": "CTR-0228"
+  },
+  {
+    "id": "FIN-0008",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Moraes-Batista",
+    "value": 31226,
+    "date": "2025-08-13"
+  },
+  {
+    "id": "FIN-0009",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação referente ao contrato CTR-0544 (locacao)",
+    "value": 591,
+    "date": "2026-03-11",
+    "relatedContractId": "CTR-0544"
+  },
+  {
+    "id": "FIN-0010",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Barros EIRELI",
+    "value": 27068,
+    "date": "2025-11-18"
+  },
+  {
+    "id": "FIN-0011",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0479 (venda)",
+    "value": 4173,
+    "date": "2026-04-21",
+    "relatedContractId": "CTR-0479"
+  },
+  {
+    "id": "FIN-0012",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda referente ao contrato CTR-0505 (locacao)",
+    "value": 1381,
+    "date": "2026-07-02",
+    "relatedContractId": "CTR-0505"
+  },
+  {
+    "id": "FIN-0013",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda · Franco, Batista e Braga",
+    "value": 4910,
+    "date": "2025-11-02"
+  },
+  {
+    "id": "FIN-0014",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Albuquerque, Oliveira e Souza",
+    "value": 30667,
+    "date": "2025-10-20"
+  },
+  {
+    "id": "FIN-0015",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Reis, Pereira e Albuquerque",
+    "value": 18414,
+    "date": "2026-06-01"
+  },
+  {
+    "id": "FIN-0016",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0097 (venda)",
+    "value": 77838,
+    "date": "2026-02-10",
+    "relatedContractId": "CTR-0097"
+  },
+  {
+    "id": "FIN-0017",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Xavier S.A.",
+    "value": 3830,
+    "date": "2026-03-08"
+  },
+  {
+    "id": "FIN-0018",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Souza, Macedo e Martins",
+    "value": 12438,
+    "date": "2026-01-12"
+  },
+  {
+    "id": "FIN-0019",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Souza, Costa e Albuquerque",
+    "value": 9215,
+    "date": "2025-09-17"
+  },
+  {
+    "id": "FIN-0020",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Barros-Souza",
+    "value": 26536,
+    "date": "2026-07-04"
+  },
+  {
+    "id": "FIN-0021",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0113 (venda)",
+    "value": 43195,
+    "date": "2025-12-30",
+    "relatedContractId": "CTR-0113"
+  },
+  {
+    "id": "FIN-0022",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Souza-Franco",
+    "value": 40504,
+    "date": "2026-03-18"
+  },
+  {
+    "id": "FIN-0023",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda · Reis, Albuquerque e Albuquerque",
+    "value": 21528,
+    "date": "2025-07-19"
+  },
+  {
+    "id": "FIN-0024",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação referente ao contrato CTR-0167 (venda)",
+    "value": 83578,
+    "date": "2026-06-24",
+    "relatedContractId": "CTR-0167"
+  },
+  {
+    "id": "FIN-0025",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Albuquerque-Oliveira",
+    "value": 39045,
+    "date": "2025-08-07"
+  },
+  {
+    "id": "FIN-0026",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0660 (locacao)",
+    "value": 77,
+    "date": "2026-05-16",
+    "relatedContractId": "CTR-0660"
+  },
+  {
+    "id": "FIN-0027",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação · Costa e Associados",
+    "value": 42416,
+    "date": "2025-10-08"
+  },
+  {
+    "id": "FIN-0028",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Saraiva, Franco e Franco",
+    "value": 3182,
+    "date": "2025-11-06"
+  },
+  {
+    "id": "FIN-0029",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Pereira, Oliveira e Costa",
+    "value": 8002,
+    "date": "2026-02-19"
+  },
+  {
+    "id": "FIN-0030",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda referente ao contrato CTR-0707 (locacao)",
+    "value": 59,
+    "date": "2026-05-20",
+    "relatedContractId": "CTR-0707"
+  },
+  {
+    "id": "FIN-0031",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Souza LTDA",
+    "value": 11326,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FIN-0032",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Silva, Melo e Nogueira",
+    "value": 31070,
+    "date": "2025-07-28"
+  },
+  {
+    "id": "FIN-0033",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0425 (venda)",
+    "value": 7040,
+    "date": "2026-04-12",
+    "relatedContractId": "CTR-0425"
+  },
+  {
+    "id": "FIN-0034",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Franco, Pereira e Reis",
+    "value": 29594,
+    "date": "2025-09-02"
+  },
+  {
+    "id": "FIN-0035",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Martins, Reis e Barros",
+    "value": 29159,
+    "date": "2025-07-07"
+  },
+  {
+    "id": "FIN-0036",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Santos, Souza e Souza",
+    "value": 13181,
+    "date": "2025-09-29"
+  },
+  {
+    "id": "FIN-0037",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação · Moraes-Martins",
+    "value": 4893,
+    "date": "2026-03-22"
+  },
+  {
+    "id": "FIN-0038",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Melo, Santos e Reis",
+    "value": 38265,
+    "date": "2026-04-07"
+  },
+  {
+    "id": "FIN-0039",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação referente ao contrato CTR-0052 (venda)",
+    "value": 31629,
+    "date": "2025-10-02",
+    "relatedContractId": "CTR-0052"
+  },
+  {
+    "id": "FIN-0040",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação · Macedo S.A.",
+    "value": 11112,
+    "date": "2025-07-15"
+  },
+  {
+    "id": "FIN-0041",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação referente ao contrato CTR-0641 (locacao)",
+    "value": 225,
+    "date": "2025-10-17",
+    "relatedContractId": "CTR-0641"
+  },
+  {
+    "id": "FIN-0042",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0260 (venda)",
+    "value": 5576,
+    "date": "2026-03-29",
+    "relatedContractId": "CTR-0260"
+  },
+  {
+    "id": "FIN-0043",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Saraiva-Moraes",
+    "value": 19339,
+    "date": "2025-11-10"
+  },
+  {
+    "id": "FIN-0044",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração · Reis LTDA",
+    "value": 25228,
+    "date": "2025-08-07"
+  },
+  {
+    "id": "FIN-0045",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Melo, Santos e Batista",
+    "value": 24615,
+    "date": "2026-06-27"
+  },
+  {
+    "id": "FIN-0046",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Moraes EIRELI",
+    "value": 25098,
+    "date": "2026-05-05"
+  },
+  {
+    "id": "FIN-0047",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Melo LTDA",
+    "value": 16074,
+    "date": "2026-01-21"
+  },
+  {
+    "id": "FIN-0048",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Pereira, Albuquerque e Souza",
+    "value": 10611,
+    "date": "2025-10-12"
+  },
+  {
+    "id": "FIN-0049",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Reis, Xavier e Reis",
+    "value": 8543,
+    "date": "2026-01-10"
+  },
+  {
+    "id": "FIN-0050",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Pereira-Reis",
+    "value": 969,
+    "date": "2026-04-02"
+  },
+  {
+    "id": "FIN-0051",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda · Reis, Carvalho e Barros",
+    "value": 44714,
+    "date": "2026-06-23"
+  },
+  {
+    "id": "FIN-0052",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação referente ao contrato CTR-0459 (venda)",
+    "value": 75618,
+    "date": "2026-06-13",
+    "relatedContractId": "CTR-0459"
+  },
+  {
+    "id": "FIN-0053",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Saraiva, Pereira e Moraes",
+    "value": 11094,
+    "date": "2026-03-23"
+  },
+  {
+    "id": "FIN-0054",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda · Oliveira-Pereira",
+    "value": 27100,
+    "date": "2026-06-23"
+  },
+  {
+    "id": "FIN-0055",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Santos, Franco e Melo",
+    "value": 20579,
+    "date": "2025-08-19"
+  },
+  {
+    "id": "FIN-0056",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda · Braga e Associados",
+    "value": 2825,
+    "date": "2026-03-11"
+  },
+  {
+    "id": "FIN-0057",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Moreira EIRELI",
+    "value": 7395,
+    "date": "2025-11-19"
+  },
+  {
+    "id": "FIN-0058",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0336 (venda)",
+    "value": 16698,
+    "date": "2026-03-30",
+    "relatedContractId": "CTR-0336"
+  },
+  {
+    "id": "FIN-0059",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Braga, Moraes e Santos",
+    "value": 16433,
+    "date": "2025-12-01"
+  },
+  {
+    "id": "FIN-0060",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Macedo, Santos e Costa",
+    "value": 24983,
+    "date": "2026-03-28"
+  },
+  {
+    "id": "FIN-0061",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Costa-Moraes",
+    "value": 18053,
+    "date": "2026-04-09"
+  },
+  {
+    "id": "FIN-0062",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda · Melo-Nogueira",
+    "value": 30983,
+    "date": "2026-02-18"
+  },
+  {
+    "id": "FIN-0063",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação · Braga-Moreira",
+    "value": 12026,
+    "date": "2026-04-04"
+  },
+  {
+    "id": "FIN-0064",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Pereira-Souza",
+    "value": 24824,
+    "date": "2026-04-25"
+  },
+  {
+    "id": "FIN-0065",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação · Xavier e Associados",
+    "value": 1194,
+    "date": "2026-07-03"
+  },
+  {
+    "id": "FIN-0066",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Costa Comércio",
+    "value": 39416,
+    "date": "2025-12-23"
+  },
+  {
+    "id": "FIN-0067",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda referente ao contrato CTR-0703 (locacao)",
+    "value": 614,
+    "date": "2025-12-17",
+    "relatedContractId": "CTR-0703"
+  },
+  {
+    "id": "FIN-0068",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Braga-Costa",
+    "value": 1445,
+    "date": "2025-07-20"
+  },
+  {
+    "id": "FIN-0069",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Barros LTDA",
+    "value": 19958,
+    "date": "2026-02-19"
+  },
+  {
+    "id": "FIN-0070",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Carvalho Comércio",
+    "value": 27500,
+    "date": "2026-01-09"
+  },
+  {
+    "id": "FIN-0071",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Braga EIRELI",
+    "value": 14313,
+    "date": "2025-10-20"
+  },
+  {
+    "id": "FIN-0072",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração · Martins EIRELI",
+    "value": 40945,
+    "date": "2025-09-15"
+  },
+  {
+    "id": "FIN-0073",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Pereira e Associados",
+    "value": 26834,
+    "date": "2026-03-29"
+  },
+  {
+    "id": "FIN-0074",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação · Martins, Costa e Batista",
+    "value": 37172,
+    "date": "2026-02-06"
+  },
+  {
+    "id": "FIN-0075",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda referente ao contrato CTR-0591 (locacao)",
+    "value": 570,
+    "date": "2025-12-11",
+    "relatedContractId": "CTR-0591"
+  },
+  {
+    "id": "FIN-0076",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Moreira Comércio",
+    "value": 7125,
+    "date": "2025-09-23"
+  },
+  {
+    "id": "FIN-0077",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0705 (locacao)",
+    "value": 1630,
+    "date": "2025-07-14",
+    "relatedContractId": "CTR-0705"
+  },
+  {
+    "id": "FIN-0078",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0386 (venda)",
+    "value": 6502,
+    "date": "2026-03-20",
+    "relatedContractId": "CTR-0386"
+  },
+  {
+    "id": "FIN-0079",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda referente ao contrato CTR-0460 (venda)",
+    "value": 69709,
+    "date": "2026-04-11",
+    "relatedContractId": "CTR-0460"
+  },
+  {
+    "id": "FIN-0080",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação · Moraes, Souza e Barros",
+    "value": 34861,
+    "date": "2026-05-25"
+  },
+  {
+    "id": "FIN-0081",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Franco, Xavier e Costa",
+    "value": 43572,
+    "date": "2025-07-11"
+  },
+  {
+    "id": "FIN-0082",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Reis-Santos",
+    "value": 8724,
+    "date": "2025-12-17"
+  },
+  {
+    "id": "FIN-0083",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Reis-Albuquerque",
+    "value": 30268,
+    "date": "2025-10-31"
+  },
+  {
+    "id": "FIN-0084",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Costa, Costa e Braga",
+    "value": 11809,
+    "date": "2026-05-30"
+  },
+  {
+    "id": "FIN-0085",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Franco-Oliveira",
+    "value": 11396,
+    "date": "2026-03-23"
+  },
+  {
+    "id": "FIN-0086",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação · Souza-Xavier",
+    "value": 37138,
+    "date": "2025-07-29"
+  },
+  {
+    "id": "FIN-0087",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Pereira-Batista",
+    "value": 6727,
+    "date": "2025-07-28"
+  },
+  {
+    "id": "FIN-0088",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Melo-Santos",
+    "value": 19071,
+    "date": "2026-05-01"
+  },
+  {
+    "id": "FIN-0089",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação · Reis-Barros",
+    "value": 17642,
+    "date": "2025-09-26"
+  },
+  {
+    "id": "FIN-0090",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda referente ao contrato CTR-0424 (venda)",
+    "value": 88104,
+    "date": "2025-11-09",
+    "relatedContractId": "CTR-0424"
+  },
+  {
+    "id": "FIN-0091",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda referente ao contrato CTR-0578 (locacao)",
+    "value": 188,
+    "date": "2025-12-14",
+    "relatedContractId": "CTR-0578"
+  },
+  {
+    "id": "FIN-0092",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação referente ao contrato CTR-0139 (venda)",
+    "value": 54572,
+    "date": "2026-04-14",
+    "relatedContractId": "CTR-0139"
+  },
+  {
+    "id": "FIN-0093",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda · Albuquerque, Silva e Santos",
+    "value": 23226,
+    "date": "2025-12-03"
+  },
+  {
+    "id": "FIN-0094",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Melo-Oliveira",
+    "value": 14043,
+    "date": "2026-02-12"
+  },
+  {
+    "id": "FIN-0095",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0576 (locacao)",
+    "value": 45,
+    "date": "2025-08-11",
+    "relatedContractId": "CTR-0576"
+  },
+  {
+    "id": "FIN-0096",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Xavier, Barros e Costa",
+    "value": 18943,
+    "date": "2025-09-14"
+  },
+  {
+    "id": "FIN-0097",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Silva Comércio",
+    "value": 8264,
+    "date": "2025-09-07"
+  },
+  {
+    "id": "FIN-0098",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Macedo, Braga e Macedo",
+    "value": 28240,
+    "date": "2025-10-01"
+  },
+  {
+    "id": "FIN-0099",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Silva e Associados",
+    "value": 9020,
+    "date": "2026-01-16"
+  },
+  {
+    "id": "FIN-0100",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0601 (locacao)",
+    "value": 231,
+    "date": "2026-02-04",
+    "relatedContractId": "CTR-0601"
+  },
+  {
+    "id": "FIN-0101",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação referente ao contrato CTR-0232 (venda)",
+    "value": 8041,
+    "date": "2026-01-22",
+    "relatedContractId": "CTR-0232"
+  },
+  {
+    "id": "FIN-0102",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração · Macedo, Souza e Batista",
+    "value": 2903,
+    "date": "2026-03-19"
+  },
+  {
+    "id": "FIN-0103",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0204 (venda)",
+    "value": 17799,
+    "date": "2026-04-17",
+    "relatedContractId": "CTR-0204"
+  },
+  {
+    "id": "FIN-0104",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Nogueira, Costa e Franco",
+    "value": 24284,
+    "date": "2026-02-17"
+  },
+  {
+    "id": "FIN-0105",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Carvalho, Franco e Albuquerque",
+    "value": 15419,
+    "date": "2026-04-10"
+  },
+  {
+    "id": "FIN-0106",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Braga, Melo e Oliveira",
+    "value": 24021,
+    "date": "2026-02-08"
+  },
+  {
+    "id": "FIN-0107",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração · Martins EIRELI",
+    "value": 14405,
+    "date": "2026-03-22"
+  },
+  {
+    "id": "FIN-0108",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Melo, Santos e Silva",
+    "value": 35149,
+    "date": "2026-06-15"
+  },
+  {
+    "id": "FIN-0109",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Barros-Moraes",
+    "value": 40096,
+    "date": "2026-04-16"
+  },
+  {
+    "id": "FIN-0110",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0469 (venda)",
+    "value": 6301,
+    "date": "2025-10-25",
+    "relatedContractId": "CTR-0469"
+  },
+  {
+    "id": "FIN-0111",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0075 (venda)",
+    "value": 13839,
+    "date": "2025-10-20",
+    "relatedContractId": "CTR-0075"
+  },
+  {
+    "id": "FIN-0112",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda referente ao contrato CTR-0144 (venda)",
+    "value": 78892,
+    "date": "2025-12-26",
+    "relatedContractId": "CTR-0144"
+  },
+  {
+    "id": "FIN-0113",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração · Macedo-Martins",
+    "value": 11680,
+    "date": "2026-06-01"
+  },
+  {
+    "id": "FIN-0114",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0311 (venda)",
+    "value": 82099,
+    "date": "2025-12-17",
+    "relatedContractId": "CTR-0311"
+  },
+  {
+    "id": "FIN-0115",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0650 (locacao)",
+    "value": 522,
+    "date": "2025-11-28",
+    "relatedContractId": "CTR-0650"
+  },
+  {
+    "id": "FIN-0116",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Martins S.A.",
+    "value": 6189,
+    "date": "2026-03-05"
+  },
+  {
+    "id": "FIN-0117",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0746 (locacao)",
+    "value": 767,
+    "date": "2025-10-24",
+    "relatedContractId": "CTR-0746"
+  },
+  {
+    "id": "FIN-0118",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração · Moraes-Macedo",
+    "value": 4995,
+    "date": "2026-04-13"
+  },
+  {
+    "id": "FIN-0119",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda referente ao contrato CTR-0113 (venda)",
+    "value": 43195,
+    "date": "2026-02-21",
+    "relatedContractId": "CTR-0113"
+  },
+  {
+    "id": "FIN-0120",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Pereira S.A.",
+    "value": 22760,
+    "date": "2026-06-08"
+  },
+  {
+    "id": "FIN-0121",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Batista EIRELI",
+    "value": 8957,
+    "date": "2025-08-26"
+  },
+  {
+    "id": "FIN-0122",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0005 (venda)",
+    "value": 3820,
+    "date": "2026-02-28",
+    "relatedContractId": "CTR-0005"
+  },
+  {
+    "id": "FIN-0123",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Carvalho, Santos e Silva",
+    "value": 37931,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "FIN-0124",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Moreira e Associados",
+    "value": 26616,
+    "date": "2025-11-16"
+  },
+  {
+    "id": "FIN-0125",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Oliveira, Batista e Macedo",
+    "value": 11310,
+    "date": "2026-05-06"
+  },
+  {
+    "id": "FIN-0126",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Silva-Souza",
+    "value": 6368,
+    "date": "2025-07-15"
+  },
+  {
+    "id": "FIN-0127",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Braga-Costa",
+    "value": 11869,
+    "date": "2026-05-05"
+  },
+  {
+    "id": "FIN-0128",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Pereira-Saraiva",
+    "value": 17939,
+    "date": "2026-02-20"
+  },
+  {
+    "id": "FIN-0129",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Moreira-Xavier",
+    "value": 15485,
+    "date": "2025-09-07"
+  },
+  {
+    "id": "FIN-0130",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Barros LTDA",
+    "value": 40006,
+    "date": "2025-10-24"
+  },
+  {
+    "id": "FIN-0131",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0129 (venda)",
+    "value": 18254,
+    "date": "2026-06-22",
+    "relatedContractId": "CTR-0129"
+  },
+  {
+    "id": "FIN-0132",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0548 (locacao)",
+    "value": 493,
+    "date": "2026-05-25",
+    "relatedContractId": "CTR-0548"
+  },
+  {
+    "id": "FIN-0133",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação referente ao contrato CTR-0380 (venda)",
+    "value": 20029,
+    "date": "2026-01-05",
+    "relatedContractId": "CTR-0380"
+  },
+  {
+    "id": "FIN-0134",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0354 (venda)",
+    "value": 51393,
+    "date": "2026-02-22",
+    "relatedContractId": "CTR-0354"
+  },
+  {
+    "id": "FIN-0135",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Martins-Moreira",
+    "value": 1310,
+    "date": "2025-09-03"
+  },
+  {
+    "id": "FIN-0136",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação · Saraiva Comércio",
+    "value": 40949,
+    "date": "2025-12-03"
+  },
+  {
+    "id": "FIN-0137",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Santos, Moreira e Carvalho",
+    "value": 40385,
+    "date": "2026-02-06"
+  },
+  {
+    "id": "FIN-0138",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação · Carvalho-Souza",
+    "value": 34700,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FIN-0139",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Albuquerque e Associados",
+    "value": 19085,
+    "date": "2025-12-22"
+  },
+  {
+    "id": "FIN-0140",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Nogueira Comércio",
+    "value": 29740,
+    "date": "2025-11-29"
+  },
+  {
+    "id": "FIN-0141",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda referente ao contrato CTR-0070 (venda)",
+    "value": 54390,
+    "date": "2026-06-19",
+    "relatedContractId": "CTR-0070"
+  },
+  {
+    "id": "FIN-0142",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação · Moraes LTDA",
+    "value": 4389,
+    "date": "2025-12-26"
+  },
+  {
+    "id": "FIN-0143",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Barros, Oliveira e Souza",
+    "value": 25671,
+    "date": "2026-06-09"
+  },
+  {
+    "id": "FIN-0144",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação referente ao contrato CTR-0287 (venda)",
+    "value": 4599,
+    "date": "2025-08-11",
+    "relatedContractId": "CTR-0287"
+  },
+  {
+    "id": "FIN-0145",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Oliveira Comércio",
+    "value": 29666,
+    "date": "2026-07-06"
+  },
+  {
+    "id": "FIN-0146",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0075 (venda)",
+    "value": 13839,
+    "date": "2026-04-23",
+    "relatedContractId": "CTR-0075"
+  },
+  {
+    "id": "FIN-0147",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0665 (locacao)",
+    "value": 1038,
+    "date": "2026-06-30",
+    "relatedContractId": "CTR-0665"
+  },
+  {
+    "id": "FIN-0148",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0140 (venda)",
+    "value": 7629,
+    "date": "2026-05-03",
+    "relatedContractId": "CTR-0140"
+  },
+  {
+    "id": "FIN-0149",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação · Martins, Costa e Batista",
+    "value": 8542,
+    "date": "2026-06-22"
+  },
+  {
+    "id": "FIN-0150",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0612 (locacao)",
+    "value": 107,
+    "date": "2025-12-05",
+    "relatedContractId": "CTR-0612"
+  },
+  {
+    "id": "FIN-0151",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Oliveira, Albuquerque e Silva",
+    "value": 22893,
+    "date": "2026-03-24"
+  },
+  {
+    "id": "FIN-0152",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Souza-Martins",
+    "value": 25993,
+    "date": "2025-11-24"
+  },
+  {
+    "id": "FIN-0153",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Macedo EIRELI",
+    "value": 10450,
+    "date": "2025-10-22"
+  },
+  {
+    "id": "FIN-0154",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Xavier-Braga",
+    "value": 4909,
+    "date": "2026-06-28"
+  },
+  {
+    "id": "FIN-0155",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Saraiva, Carvalho e Pereira",
+    "value": 6754,
+    "date": "2026-01-01"
+  },
+  {
+    "id": "FIN-0156",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Silva-Santos",
+    "value": 1548,
+    "date": "2025-07-29"
+  },
+  {
+    "id": "FIN-0157",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação · Franco, Braga e Reis",
+    "value": 25001,
+    "date": "2025-11-17"
+  },
+  {
+    "id": "FIN-0158",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Albuquerque, Nogueira e Oliveira",
+    "value": 20430,
+    "date": "2025-07-08"
+  },
+  {
+    "id": "FIN-0159",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Melo-Carvalho",
+    "value": 14265,
+    "date": "2025-11-07"
+  },
+  {
+    "id": "FIN-0160",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Macedo EIRELI",
+    "value": 22826,
+    "date": "2025-12-10"
+  },
+  {
+    "id": "FIN-0161",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Carvalho EIRELI",
+    "value": 18763,
+    "date": "2026-06-30"
+  },
+  {
+    "id": "FIN-0162",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração · Martins-Souza",
+    "value": 40779,
+    "date": "2025-09-02"
+  },
+  {
+    "id": "FIN-0163",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Nogueira-Batista",
+    "value": 15741,
+    "date": "2025-08-26"
+  },
+  {
+    "id": "FIN-0164",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Costa LTDA",
+    "value": 24911,
+    "date": "2026-06-16"
+  },
+  {
+    "id": "FIN-0165",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Silva, Martins e Albuquerque",
+    "value": 24779,
+    "date": "2026-06-18"
+  },
+  {
+    "id": "FIN-0166",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0050 (venda)",
+    "value": 99557,
+    "date": "2025-11-02",
+    "relatedContractId": "CTR-0050"
+  },
+  {
+    "id": "FIN-0167",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Franco-Braga",
+    "value": 36247,
+    "date": "2026-06-01"
+  },
+  {
+    "id": "FIN-0168",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação referente ao contrato CTR-0173 (venda)",
+    "value": 201718,
+    "date": "2025-07-06",
+    "relatedContractId": "CTR-0173"
+  },
+  {
+    "id": "FIN-0169",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação · Moraes, Oliveira e Barros",
+    "value": 19683,
+    "date": "2026-01-11"
+  },
+  {
+    "id": "FIN-0170",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0277 (venda)",
+    "value": 46586,
+    "date": "2026-05-23",
+    "relatedContractId": "CTR-0277"
+  },
+  {
+    "id": "FIN-0171",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Braga Comércio",
+    "value": 36130,
+    "date": "2026-06-01"
+  },
+  {
+    "id": "FIN-0172",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Albuquerque, Silva e Batista",
+    "value": 26762,
+    "date": "2026-01-21"
+  },
+  {
+    "id": "FIN-0173",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Pereira, Franco e Melo",
+    "value": 34895,
+    "date": "2025-09-20"
+  },
+  {
+    "id": "FIN-0174",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0244 (venda)",
+    "value": 25368,
+    "date": "2026-03-19",
+    "relatedContractId": "CTR-0244"
+  },
+  {
+    "id": "FIN-0175",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Barros EIRELI",
+    "value": 11916,
+    "date": "2026-05-04"
+  },
+  {
+    "id": "FIN-0176",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0727 (locacao)",
+    "value": 582,
+    "date": "2026-01-24",
+    "relatedContractId": "CTR-0727"
+  },
+  {
+    "id": "FIN-0177",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda · Costa EIRELI",
+    "value": 10646,
+    "date": "2026-03-06"
+  },
+  {
+    "id": "FIN-0178",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação referente ao contrato CTR-0198 (venda)",
+    "value": 50831,
+    "date": "2025-07-26",
+    "relatedContractId": "CTR-0198"
+  },
+  {
+    "id": "FIN-0179",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Moreira, Moreira e Moreira",
+    "value": 30890,
+    "date": "2025-12-15"
+  },
+  {
+    "id": "FIN-0180",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0061 (venda)",
+    "value": 20505,
+    "date": "2026-05-30",
+    "relatedContractId": "CTR-0061"
+  },
+  {
+    "id": "FIN-0181",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação · Moraes, Reis e Xavier",
+    "value": 14376,
+    "date": "2025-07-25"
+  },
+  {
+    "id": "FIN-0182",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração · Pereira, Batista e Moreira",
+    "value": 36022,
+    "date": "2025-07-06"
+  },
+  {
+    "id": "FIN-0183",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0223 (venda)",
+    "value": 32736,
+    "date": "2026-01-01",
+    "relatedContractId": "CTR-0223"
+  },
+  {
+    "id": "FIN-0184",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração · Silva-Melo",
+    "value": 1752,
+    "date": "2026-05-28"
+  },
+  {
+    "id": "FIN-0185",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Oliveira, Costa e Carvalho",
+    "value": 7879,
+    "date": "2026-05-01"
+  },
+  {
+    "id": "FIN-0186",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Souza Comércio",
+    "value": 40390,
+    "date": "2025-09-29"
+  },
+  {
+    "id": "FIN-0187",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Batista e Associados",
+    "value": 41372,
+    "date": "2026-04-07"
+  },
+  {
+    "id": "FIN-0188",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Oliveira, Macedo e Pereira",
+    "value": 38039,
+    "date": "2025-10-01"
+  },
+  {
+    "id": "FIN-0189",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação referente ao contrato CTR-0063 (venda)",
+    "value": 58922,
+    "date": "2025-12-14",
+    "relatedContractId": "CTR-0063"
+  },
+  {
+    "id": "FIN-0190",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Santos-Souza",
+    "value": 35972,
+    "date": "2026-05-07"
+  },
+  {
+    "id": "FIN-0191",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Macedo, Nogueira e Oliveira",
+    "value": 11820,
+    "date": "2025-08-03"
+  },
+  {
+    "id": "FIN-0192",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Franco-Braga",
+    "value": 24418,
+    "date": "2026-04-16"
+  },
+  {
+    "id": "FIN-0193",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Carvalho-Barros",
+    "value": 22510,
+    "date": "2025-10-11"
+  },
+  {
+    "id": "FIN-0194",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação · Franco-Saraiva",
+    "value": 17848,
+    "date": "2026-07-03"
+  },
+  {
+    "id": "FIN-0195",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0044 (venda)",
+    "value": 8020,
+    "date": "2026-06-07",
+    "relatedContractId": "CTR-0044"
+  },
+  {
+    "id": "FIN-0196",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Melo-Braga",
+    "value": 15542,
+    "date": "2026-07-03"
+  },
+  {
+    "id": "FIN-0197",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Saraiva-Franco",
+    "value": 16913,
+    "date": "2025-11-14"
+  },
+  {
+    "id": "FIN-0198",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda · Silva, Carvalho e Moreira",
+    "value": 9787,
+    "date": "2026-01-17"
+  },
+  {
+    "id": "FIN-0199",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Moreira, Moreira e Saraiva",
+    "value": 889,
+    "date": "2026-06-13"
+  },
+  {
+    "id": "FIN-0200",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Moreira EIRELI",
+    "value": 10465,
+    "date": "2026-03-19"
+  },
+  {
+    "id": "FIN-0201",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Batista-Costa",
+    "value": 24654,
+    "date": "2025-11-11"
+  },
+  {
+    "id": "FIN-0202",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Macedo, Batista e Barros",
+    "value": 20881,
+    "date": "2025-07-26"
+  },
+  {
+    "id": "FIN-0203",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Xavier, Souza e Carvalho",
+    "value": 3168,
+    "date": "2025-11-24"
+  },
+  {
+    "id": "FIN-0204",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Carvalho e Associados",
+    "value": 1449,
+    "date": "2026-05-22"
+  },
+  {
+    "id": "FIN-0205",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Melo-Saraiva",
+    "value": 38903,
+    "date": "2026-01-31"
+  },
+  {
+    "id": "FIN-0206",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Franco, Costa e Carvalho",
+    "value": 22562,
+    "date": "2025-08-20"
+  },
+  {
+    "id": "FIN-0207",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação referente ao contrato CTR-0129 (venda)",
+    "value": 18254,
+    "date": "2026-06-05",
+    "relatedContractId": "CTR-0129"
+  },
+  {
+    "id": "FIN-0208",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0580 (locacao)",
+    "value": 1075,
+    "date": "2026-04-30",
+    "relatedContractId": "CTR-0580"
+  },
+  {
+    "id": "FIN-0209",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda referente ao contrato CTR-0385 (venda)",
+    "value": 35175,
+    "date": "2026-05-06",
+    "relatedContractId": "CTR-0385"
+  },
+  {
+    "id": "FIN-0210",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação · Pereira LTDA",
+    "value": 23163,
+    "date": "2026-01-11"
+  },
+  {
+    "id": "FIN-0211",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação · Reis, Reis e Melo",
+    "value": 14373,
+    "date": "2026-06-24"
+  },
+  {
+    "id": "FIN-0212",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação · Melo Comércio",
+    "value": 6751,
+    "date": "2026-01-21"
+  },
+  {
+    "id": "FIN-0213",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Silva e Associados",
+    "value": 29768,
+    "date": "2026-02-12"
+  },
+  {
+    "id": "FIN-0214",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0088 (venda)",
+    "value": 53113,
+    "date": "2026-05-07",
+    "relatedContractId": "CTR-0088"
+  },
+  {
+    "id": "FIN-0215",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação referente ao contrato CTR-0405 (venda)",
+    "value": 92065,
+    "date": "2025-12-31",
+    "relatedContractId": "CTR-0405"
+  },
+  {
+    "id": "FIN-0216",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0603 (locacao)",
+    "value": 878,
+    "date": "2026-05-02",
+    "relatedContractId": "CTR-0603"
+  },
+  {
+    "id": "FIN-0217",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Albuquerque-Albuquerque",
+    "value": 3994,
+    "date": "2025-09-14"
+  },
+  {
+    "id": "FIN-0218",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Costa-Souza",
+    "value": 11078,
+    "date": "2025-07-22"
+  },
+  {
+    "id": "FIN-0219",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda referente ao contrato CTR-0727 (locacao)",
+    "value": 582,
+    "date": "2025-10-19",
+    "relatedContractId": "CTR-0727"
+  },
+  {
+    "id": "FIN-0220",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda · Saraiva-Saraiva",
+    "value": 19179,
+    "date": "2026-02-19"
+  },
+  {
+    "id": "FIN-0221",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Albuquerque, Braga e Martins",
+    "value": 31225,
+    "date": "2025-11-19"
+  },
+  {
+    "id": "FIN-0222",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação referente ao contrato CTR-0696 (locacao)",
+    "value": 72,
+    "date": "2025-12-19",
+    "relatedContractId": "CTR-0696"
+  },
+  {
+    "id": "FIN-0223",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda · Braga, Santos e Batista",
+    "value": 41327,
+    "date": "2026-06-15"
+  },
+  {
+    "id": "FIN-0224",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação referente ao contrato CTR-0703 (locacao)",
+    "value": 614,
+    "date": "2026-02-26",
+    "relatedContractId": "CTR-0703"
+  },
+  {
+    "id": "FIN-0225",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0299 (venda)",
+    "value": 35066,
+    "date": "2026-02-21",
+    "relatedContractId": "CTR-0299"
+  },
+  {
+    "id": "FIN-0226",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação referente ao contrato CTR-0201 (venda)",
+    "value": 96472,
+    "date": "2026-04-23",
+    "relatedContractId": "CTR-0201"
+  },
+  {
+    "id": "FIN-0227",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Franco LTDA",
+    "value": 37376,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "FIN-0228",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0644 (locacao)",
+    "value": 88,
+    "date": "2026-05-03",
+    "relatedContractId": "CTR-0644"
+  },
+  {
+    "id": "FIN-0229",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Silva, Saraiva e Moreira",
+    "value": 29782,
+    "date": "2026-01-07"
+  },
+  {
+    "id": "FIN-0230",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Melo, Silva e Martins",
+    "value": 2327,
+    "date": "2025-08-12"
+  },
+  {
+    "id": "FIN-0231",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0337 (venda)",
+    "value": 99600,
+    "date": "2026-01-27",
+    "relatedContractId": "CTR-0337"
+  },
+  {
+    "id": "FIN-0232",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Reis-Pereira",
+    "value": 28797,
+    "date": "2026-04-02"
+  },
+  {
+    "id": "FIN-0233",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0327 (venda)",
+    "value": 54924,
+    "date": "2026-06-22",
+    "relatedContractId": "CTR-0327"
+  },
+  {
+    "id": "FIN-0234",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0057 (venda)",
+    "value": 115704,
+    "date": "2025-12-28",
+    "relatedContractId": "CTR-0057"
+  },
+  {
+    "id": "FIN-0235",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Moraes-Oliveira",
+    "value": 38740,
+    "date": "2026-02-06"
+  },
+  {
+    "id": "FIN-0236",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Pereira-Pereira",
+    "value": 37926,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FIN-0237",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Barros, Moraes e Souza",
+    "value": 31160,
+    "date": "2026-04-26"
+  },
+  {
+    "id": "FIN-0238",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Albuquerque-Santos",
+    "value": 39419,
+    "date": "2025-09-28"
+  },
+  {
+    "id": "FIN-0239",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Barros S.A.",
+    "value": 29328,
+    "date": "2026-06-24"
+  },
+  {
+    "id": "FIN-0240",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Franco S.A.",
+    "value": 15559,
+    "date": "2026-03-08"
+  },
+  {
+    "id": "FIN-0241",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Souza, Macedo e Souza",
+    "value": 30403,
+    "date": "2026-02-27"
+  },
+  {
+    "id": "FIN-0242",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Moreira EIRELI",
+    "value": 9742,
+    "date": "2026-03-22"
+  },
+  {
+    "id": "FIN-0243",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0047 (venda)",
+    "value": 12807,
+    "date": "2025-10-13",
+    "relatedContractId": "CTR-0047"
+  },
+  {
+    "id": "FIN-0244",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação · Melo-Oliveira",
+    "value": 2627,
+    "date": "2025-08-26"
+  },
+  {
+    "id": "FIN-0245",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Nogueira, Albuquerque e Moreira",
+    "value": 1427,
+    "date": "2025-12-08"
+  },
+  {
+    "id": "FIN-0246",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação · Pereira EIRELI",
+    "value": 44073,
+    "date": "2026-06-01"
+  },
+  {
+    "id": "FIN-0247",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0332 (venda)",
+    "value": 139248,
+    "date": "2026-02-19",
+    "relatedContractId": "CTR-0332"
+  },
+  {
+    "id": "FIN-0248",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação · Moraes-Macedo",
+    "value": 21480,
+    "date": "2026-06-20"
+  },
+  {
+    "id": "FIN-0249",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação · Saraiva, Silva e Barros",
+    "value": 13960,
+    "date": "2025-09-19"
+  },
+  {
+    "id": "FIN-0250",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Saraiva-Costa",
+    "value": 20135,
+    "date": "2026-03-19"
+  },
+  {
+    "id": "FIN-0251",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0150 (venda)",
+    "value": 91332,
+    "date": "2026-04-21",
+    "relatedContractId": "CTR-0150"
+  },
+  {
+    "id": "FIN-0252",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Saraiva EIRELI",
+    "value": 36070,
+    "date": "2025-11-26"
+  },
+  {
+    "id": "FIN-0253",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Melo-Albuquerque",
+    "value": 31907,
+    "date": "2026-07-06"
+  },
+  {
+    "id": "FIN-0254",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Santos, Franco e Barros",
+    "value": 18809,
+    "date": "2025-08-11"
+  },
+  {
+    "id": "FIN-0255",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda · Silva-Reis",
+    "value": 9209,
+    "date": "2026-03-31"
+  },
+  {
+    "id": "FIN-0256",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Souza, Barros e Franco",
+    "value": 10909,
+    "date": "2026-04-03"
+  },
+  {
+    "id": "FIN-0257",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0543 (locacao)",
+    "value": 284,
+    "date": "2025-09-18",
+    "relatedContractId": "CTR-0543"
+  },
+  {
+    "id": "FIN-0258",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração · Albuquerque, Xavier e Batista",
+    "value": 38344,
+    "date": "2026-04-20"
+  },
+  {
+    "id": "FIN-0259",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Moraes, Franco e Santos",
+    "value": 3416,
+    "date": "2025-10-16"
+  },
+  {
+    "id": "FIN-0260",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Moreira S.A.",
+    "value": 3866,
+    "date": "2025-09-24"
+  },
+  {
+    "id": "FIN-0261",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda · Souza, Franco e Macedo",
+    "value": 1178,
+    "date": "2025-09-25"
+  },
+  {
+    "id": "FIN-0262",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação · Albuquerque, Oliveira e Martins",
+    "value": 13631,
+    "date": "2025-12-21"
+  },
+  {
+    "id": "FIN-0263",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0178 (venda)",
+    "value": 9409,
+    "date": "2025-08-17",
+    "relatedContractId": "CTR-0178"
+  },
+  {
+    "id": "FIN-0264",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Souza, Oliveira e Braga",
+    "value": 35830,
+    "date": "2026-04-18"
+  },
+  {
+    "id": "FIN-0265",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Xavier S.A.",
+    "value": 8343,
+    "date": "2025-07-24"
+  },
+  {
+    "id": "FIN-0266",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Costa, Franco e Saraiva",
+    "value": 41273,
+    "date": "2025-07-28"
+  },
+  {
+    "id": "FIN-0267",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Silva, Braga e Franco",
+    "value": 30058,
+    "date": "2026-01-02"
+  },
+  {
+    "id": "FIN-0268",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Braga-Costa",
+    "value": 26639,
+    "date": "2026-04-07"
+  },
+  {
+    "id": "FIN-0269",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação · Nogueira, Batista e Batista",
+    "value": 15843,
+    "date": "2025-07-18"
+  },
+  {
+    "id": "FIN-0270",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Moraes Comércio",
+    "value": 26704,
+    "date": "2025-10-01"
+  },
+  {
+    "id": "FIN-0271",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0608 (locacao)",
+    "value": 59,
+    "date": "2026-06-18",
+    "relatedContractId": "CTR-0608"
+  },
+  {
+    "id": "FIN-0272",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda referente ao contrato CTR-0726 (locacao)",
+    "value": 929,
+    "date": "2026-04-23",
+    "relatedContractId": "CTR-0726"
+  },
+  {
+    "id": "FIN-0273",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Batista-Martins",
+    "value": 27056,
+    "date": "2026-07-03"
+  },
+  {
+    "id": "FIN-0274",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0004 (venda)",
+    "value": 58006,
+    "date": "2025-09-15",
+    "relatedContractId": "CTR-0004"
+  },
+  {
+    "id": "FIN-0275",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Macedo-Macedo",
+    "value": 30067,
+    "date": "2026-04-30"
+  },
+  {
+    "id": "FIN-0276",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0499 (venda)",
+    "value": 63166,
+    "date": "2026-03-14",
+    "relatedContractId": "CTR-0499"
+  },
+  {
+    "id": "FIN-0277",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Silva, Oliveira e Albuquerque",
+    "value": 41589,
+    "date": "2025-07-24"
+  },
+  {
+    "id": "FIN-0278",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Martins e Associados",
+    "value": 35433,
+    "date": "2025-11-03"
+  },
+  {
+    "id": "FIN-0279",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0657 (locacao)",
+    "value": 350,
+    "date": "2026-06-26",
+    "relatedContractId": "CTR-0657"
+  },
+  {
+    "id": "FIN-0280",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração · Santos-Albuquerque",
+    "value": 43361,
+    "date": "2025-12-18"
+  },
+  {
+    "id": "FIN-0281",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda · Souza-Batista",
+    "value": 6625,
+    "date": "2025-12-12"
+  },
+  {
+    "id": "FIN-0282",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0092 (venda)",
+    "value": 100348,
+    "date": "2026-06-24",
+    "relatedContractId": "CTR-0092"
+  },
+  {
+    "id": "FIN-0283",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação · Oliveira-Xavier",
+    "value": 9611,
+    "date": "2026-05-05"
+  },
+  {
+    "id": "FIN-0284",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Carvalho, Moreira e Moreira",
+    "value": 39271,
+    "date": "2026-01-23"
+  },
+  {
+    "id": "FIN-0285",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação referente ao contrato CTR-0217 (venda)",
+    "value": 77617,
+    "date": "2026-04-10",
+    "relatedContractId": "CTR-0217"
+  },
+  {
+    "id": "FIN-0286",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Braga-Macedo",
+    "value": 1783,
+    "date": "2026-06-12"
+  },
+  {
+    "id": "FIN-0287",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0018 (venda)",
+    "value": 16227,
+    "date": "2025-09-26",
+    "relatedContractId": "CTR-0018"
+  },
+  {
+    "id": "FIN-0288",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0414 (venda)",
+    "value": 91472,
+    "date": "2025-07-22",
+    "relatedContractId": "CTR-0414"
+  },
+  {
+    "id": "FIN-0289",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0643 (locacao)",
+    "value": 86,
+    "date": "2026-05-09",
+    "relatedContractId": "CTR-0643"
+  },
+  {
+    "id": "FIN-0290",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Souza, Reis e Albuquerque",
+    "value": 29826,
+    "date": "2026-05-04"
+  },
+  {
+    "id": "FIN-0291",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Xavier e Associados",
+    "value": 10314,
+    "date": "2026-06-10"
+  },
+  {
+    "id": "FIN-0292",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Franco-Costa",
+    "value": 18677,
+    "date": "2025-11-26"
+  },
+  {
+    "id": "FIN-0293",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Reis LTDA",
+    "value": 19551,
+    "date": "2026-04-17"
+  },
+  {
+    "id": "FIN-0294",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Pereira-Nogueira",
+    "value": 39422,
+    "date": "2026-02-09"
+  },
+  {
+    "id": "FIN-0295",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Moraes Comércio",
+    "value": 11662,
+    "date": "2025-09-24"
+  },
+  {
+    "id": "FIN-0296",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação · Pereira-Melo",
+    "value": 32326,
+    "date": "2025-09-13"
+  },
+  {
+    "id": "FIN-0297",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Silva-Souza",
+    "value": 35878,
+    "date": "2025-09-25"
+  },
+  {
+    "id": "FIN-0298",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Souza EIRELI",
+    "value": 4199,
+    "date": "2025-11-20"
+  },
+  {
+    "id": "FIN-0299",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação · Batista-Reis",
+    "value": 34204,
+    "date": "2026-02-20"
+  },
+  {
+    "id": "FIN-0300",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Melo-Macedo",
+    "value": 2158,
+    "date": "2025-10-21"
+  },
+  {
+    "id": "FIN-0301",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Souza S.A.",
+    "value": 32809,
+    "date": "2025-12-27"
+  },
+  {
+    "id": "FIN-0302",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Barros LTDA",
+    "value": 43818,
+    "date": "2025-10-01"
+  },
+  {
+    "id": "FIN-0303",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda · Costa-Reis",
+    "value": 4817,
+    "date": "2026-06-06"
+  },
+  {
+    "id": "FIN-0304",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda · Saraiva LTDA",
+    "value": 35717,
+    "date": "2026-02-24"
+  },
+  {
+    "id": "FIN-0305",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação · Albuquerque-Xavier",
+    "value": 39633,
+    "date": "2026-04-29"
+  },
+  {
+    "id": "FIN-0306",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Martins-Silva",
+    "value": 33837,
+    "date": "2026-02-24"
+  },
+  {
+    "id": "FIN-0307",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Saraiva, Silva e Silva",
+    "value": 22977,
+    "date": "2026-02-20"
+  },
+  {
+    "id": "FIN-0308",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Souza EIRELI",
+    "value": 28765,
+    "date": "2026-03-09"
+  },
+  {
+    "id": "FIN-0309",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0186 (venda)",
+    "value": 6890,
+    "date": "2026-01-09",
+    "relatedContractId": "CTR-0186"
+  },
+  {
+    "id": "FIN-0310",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Macedo, Batista e Carvalho",
+    "value": 10895,
+    "date": "2026-02-06"
+  },
+  {
+    "id": "FIN-0311",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Souza, Franco e Xavier",
+    "value": 10186,
+    "date": "2026-05-27"
+  },
+  {
+    "id": "FIN-0312",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação · Batista, Xavier e Reis",
+    "value": 29602,
+    "date": "2025-07-10"
+  },
+  {
+    "id": "FIN-0313",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração · Saraiva, Reis e Franco",
+    "value": 41731,
+    "date": "2026-04-15"
+  },
+  {
+    "id": "FIN-0314",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Oliveira EIRELI",
+    "value": 27875,
+    "date": "2026-06-22"
+  },
+  {
+    "id": "FIN-0315",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda · Carvalho e Associados",
+    "value": 4995,
+    "date": "2025-12-28"
+  },
+  {
+    "id": "FIN-0316",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação referente ao contrato CTR-0205 (venda)",
+    "value": 57294,
+    "date": "2026-06-24",
+    "relatedContractId": "CTR-0205"
+  },
+  {
+    "id": "FIN-0317",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Albuquerque Comércio",
+    "value": 15289,
+    "date": "2026-04-09"
+  },
+  {
+    "id": "FIN-0318",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Saraiva, Moreira e Moreira",
+    "value": 39254,
+    "date": "2026-05-29"
+  },
+  {
+    "id": "FIN-0319",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração · Franco, Barros e Reis",
+    "value": 22055,
+    "date": "2025-10-28"
+  },
+  {
+    "id": "FIN-0320",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação referente ao contrato CTR-0499 (venda)",
+    "value": 63166,
+    "date": "2026-02-07",
+    "relatedContractId": "CTR-0499"
+  },
+  {
+    "id": "FIN-0321",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação referente ao contrato CTR-0043 (venda)",
+    "value": 121428,
+    "date": "2026-06-18",
+    "relatedContractId": "CTR-0043"
+  },
+  {
+    "id": "FIN-0322",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação referente ao contrato CTR-0287 (venda)",
+    "value": 4599,
+    "date": "2025-09-07",
+    "relatedContractId": "CTR-0287"
+  },
+  {
+    "id": "FIN-0323",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda · Saraiva, Pereira e Oliveira",
+    "value": 7802,
+    "date": "2025-07-23"
+  },
+  {
+    "id": "FIN-0324",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Moreira Comércio",
+    "value": 21914,
+    "date": "2025-11-22"
+  },
+  {
+    "id": "FIN-0325",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Pereira, Santos e Moraes",
+    "value": 4818,
+    "date": "2026-01-26"
+  },
+  {
+    "id": "FIN-0326",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Batista e Associados",
+    "value": 30496,
+    "date": "2025-09-23"
+  },
+  {
+    "id": "FIN-0327",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação · Carvalho Comércio",
+    "value": 22954,
+    "date": "2025-11-19"
+  },
+  {
+    "id": "FIN-0328",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação · Carvalho-Reis",
+    "value": 5892,
+    "date": "2026-02-01"
+  },
+  {
+    "id": "FIN-0329",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Barros Comércio",
+    "value": 22556,
+    "date": "2026-05-16"
+  },
+  {
+    "id": "FIN-0330",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0290 (venda)",
+    "value": 84059,
+    "date": "2026-03-16",
+    "relatedContractId": "CTR-0290"
+  },
+  {
+    "id": "FIN-0331",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0534 (locacao)",
+    "value": 756,
+    "date": "2026-05-08",
+    "relatedContractId": "CTR-0534"
+  },
+  {
+    "id": "FIN-0332",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda referente ao contrato CTR-0272 (venda)",
+    "value": 88959,
+    "date": "2025-08-23",
+    "relatedContractId": "CTR-0272"
+  },
+  {
+    "id": "FIN-0333",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Braga-Santos",
+    "value": 6783,
+    "date": "2025-12-29"
+  },
+  {
+    "id": "FIN-0334",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Costa, Albuquerque e Carvalho",
+    "value": 32850,
+    "date": "2025-09-26"
+  },
+  {
+    "id": "FIN-0335",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0539 (locacao)",
+    "value": 1381,
+    "date": "2025-08-10",
+    "relatedContractId": "CTR-0539"
+  },
+  {
+    "id": "FIN-0336",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação · Moraes, Braga e Santos",
+    "value": 42090,
+    "date": "2025-07-22"
+  },
+  {
+    "id": "FIN-0337",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração · Silva-Saraiva",
+    "value": 44654,
+    "date": "2026-01-22"
+  },
+  {
+    "id": "FIN-0338",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Costa LTDA",
+    "value": 11736,
+    "date": "2025-09-11"
+  },
+  {
+    "id": "FIN-0339",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0439 (venda)",
+    "value": 5355,
+    "date": "2025-11-12",
+    "relatedContractId": "CTR-0439"
+  },
+  {
+    "id": "FIN-0340",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Batista, Macedo e Nogueira",
+    "value": 30910,
+    "date": "2026-06-22"
+  },
+  {
+    "id": "FIN-0341",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação · Barros, Carvalho e Carvalho",
+    "value": 39824,
+    "date": "2026-06-01"
+  },
+  {
+    "id": "FIN-0342",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Melo-Macedo",
+    "value": 44367,
+    "date": "2025-12-09"
+  },
+  {
+    "id": "FIN-0343",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Pereira, Melo e Albuquerque",
+    "value": 41673,
+    "date": "2026-03-25"
+  },
+  {
+    "id": "FIN-0344",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação referente ao contrato CTR-0515 (locacao)",
+    "value": 48,
+    "date": "2026-01-19",
+    "relatedContractId": "CTR-0515"
+  },
+  {
+    "id": "FIN-0345",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0710 (locacao)",
+    "value": 935,
+    "date": "2026-02-14",
+    "relatedContractId": "CTR-0710"
+  },
+  {
+    "id": "FIN-0346",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração · Souza-Martins",
+    "value": 10337,
+    "date": "2026-01-29"
+  },
+  {
+    "id": "FIN-0347",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Barros e Associados",
+    "value": 41848,
+    "date": "2025-09-08"
+  },
+  {
+    "id": "FIN-0348",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0207 (venda)",
+    "value": 7456,
+    "date": "2026-04-24",
+    "relatedContractId": "CTR-0207"
+  },
+  {
+    "id": "FIN-0349",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Martins, Pereira e Melo",
+    "value": 3113,
+    "date": "2025-07-12"
+  },
+  {
+    "id": "FIN-0350",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração · Batista, Batista e Albuquerque",
+    "value": 36199,
+    "date": "2026-06-21"
+  },
+  {
+    "id": "FIN-0351",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Silva Comércio",
+    "value": 33520,
+    "date": "2026-03-10"
+  },
+  {
+    "id": "FIN-0352",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0273 (venda)",
+    "value": 14096,
+    "date": "2025-08-16",
+    "relatedContractId": "CTR-0273"
+  },
+  {
+    "id": "FIN-0353",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Carvalho, Xavier e Carvalho",
+    "value": 15047,
+    "date": "2025-08-23"
+  },
+  {
+    "id": "FIN-0354",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação · Franco-Santos",
+    "value": 822,
+    "date": "2025-12-07"
+  },
+  {
+    "id": "FIN-0355",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda · Macedo, Moreira e Carvalho",
+    "value": 26085,
+    "date": "2025-09-18"
+  },
+  {
+    "id": "FIN-0356",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0116 (venda)",
+    "value": 42426,
+    "date": "2026-04-11",
+    "relatedContractId": "CTR-0116"
+  },
+  {
+    "id": "FIN-0357",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Martins S.A.",
+    "value": 41289,
+    "date": "2026-02-23"
+  },
+  {
+    "id": "FIN-0358",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Albuquerque-Reis",
+    "value": 3909,
+    "date": "2025-11-29"
+  },
+  {
+    "id": "FIN-0359",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração · Martins-Nogueira",
+    "value": 30499,
+    "date": "2025-07-07"
+  },
+  {
+    "id": "FIN-0360",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Melo LTDA",
+    "value": 22005,
+    "date": "2025-08-10"
+  },
+  {
+    "id": "FIN-0361",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Saraiva, Moreira e Xavier",
+    "value": 12697,
+    "date": "2025-10-19"
+  },
+  {
+    "id": "FIN-0362",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Franco-Moreira",
+    "value": 31479,
+    "date": "2025-08-25"
+  },
+  {
+    "id": "FIN-0363",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda referente ao contrato CTR-0623 (locacao)",
+    "value": 658,
+    "date": "2026-03-25",
+    "relatedContractId": "CTR-0623"
+  },
+  {
+    "id": "FIN-0364",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Batista, Braga e Barros",
+    "value": 11110,
+    "date": "2025-07-10"
+  },
+  {
+    "id": "FIN-0365",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação referente ao contrato CTR-0584 (locacao)",
+    "value": 86,
+    "date": "2026-04-10",
+    "relatedContractId": "CTR-0584"
+  },
+  {
+    "id": "FIN-0366",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Barros-Nogueira",
+    "value": 21762,
+    "date": "2026-03-15"
+  },
+  {
+    "id": "FIN-0367",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0704 (locacao)",
+    "value": 201,
+    "date": "2025-12-17",
+    "relatedContractId": "CTR-0704"
+  },
+  {
+    "id": "FIN-0368",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Moraes Comércio",
+    "value": 8344,
+    "date": "2025-08-28"
+  },
+  {
+    "id": "FIN-0369",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Macedo, Pereira e Reis",
+    "value": 31793,
+    "date": "2026-02-10"
+  },
+  {
+    "id": "FIN-0370",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Nogueira, Barros e Reis",
+    "value": 8222,
+    "date": "2026-05-03"
+  },
+  {
+    "id": "FIN-0371",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda · Braga-Carvalho",
+    "value": 13365,
+    "date": "2026-06-01"
+  },
+  {
+    "id": "FIN-0372",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Souza Comércio",
+    "value": 13557,
+    "date": "2025-09-04"
+  },
+  {
+    "id": "FIN-0373",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0466 (venda)",
+    "value": 24203,
+    "date": "2025-10-27",
+    "relatedContractId": "CTR-0466"
+  },
+  {
+    "id": "FIN-0374",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda · Macedo, Reis e Martins",
+    "value": 8415,
+    "date": "2026-02-21"
+  },
+  {
+    "id": "FIN-0375",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação · Batista-Macedo",
+    "value": 22604,
+    "date": "2026-06-28"
+  },
+  {
+    "id": "FIN-0376",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação · Macedo e Associados",
+    "value": 4649,
+    "date": "2026-03-12"
+  },
+  {
+    "id": "FIN-0377",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Reis, Xavier e Souza",
+    "value": 10061,
+    "date": "2026-01-03"
+  },
+  {
+    "id": "FIN-0378",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Pereira, Martins e Franco",
+    "value": 8727,
+    "date": "2025-07-24"
+  },
+  {
+    "id": "FIN-0379",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Braga e Associados",
+    "value": 937,
+    "date": "2026-05-05"
+  },
+  {
+    "id": "FIN-0380",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Moraes, Batista e Santos",
+    "value": 18231,
+    "date": "2025-09-28"
+  },
+  {
+    "id": "FIN-0381",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Macedo-Nogueira",
+    "value": 25300,
+    "date": "2025-07-23"
+  },
+  {
+    "id": "FIN-0382",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Reis-Santos",
+    "value": 21221,
+    "date": "2026-07-05"
+  },
+  {
+    "id": "FIN-0383",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação referente ao contrato CTR-0501 (locacao)",
+    "value": 170,
+    "date": "2026-01-16",
+    "relatedContractId": "CTR-0501"
+  },
+  {
+    "id": "FIN-0384",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Xavier, Carvalho e Martins",
+    "value": 43970,
+    "date": "2025-10-04"
+  },
+  {
+    "id": "FIN-0385",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda · Barros-Silva",
+    "value": 24325,
+    "date": "2026-02-10"
+  },
+  {
+    "id": "FIN-0386",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração referente ao contrato CTR-0482 (venda)",
+    "value": 6784,
+    "date": "2026-07-01",
+    "relatedContractId": "CTR-0482"
+  },
+  {
+    "id": "FIN-0387",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda · Moraes S.A.",
+    "value": 37925,
+    "date": "2025-10-07"
+  },
+  {
+    "id": "FIN-0388",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Silva-Souza",
+    "value": 16678,
+    "date": "2025-07-14"
+  },
+  {
+    "id": "FIN-0389",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação referente ao contrato CTR-0480 (venda)",
+    "value": 8272,
+    "date": "2025-08-06",
+    "relatedContractId": "CTR-0480"
+  },
+  {
+    "id": "FIN-0390",
+    "type": "entrada",
+    "category": "Comissão de locação",
+    "description": "Comissão de locação · Martins e Associados",
+    "value": 12513,
+    "date": "2026-03-17"
+  },
+  {
+    "id": "FIN-0391",
+    "type": "entrada",
+    "category": "Comissão de venda",
+    "description": "Comissão de venda referente ao contrato CTR-0291 (venda)",
+    "value": 4084,
+    "date": "2026-01-28",
+    "relatedContractId": "CTR-0291"
+  },
+  {
+    "id": "FIN-0392",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação · Melo-Melo",
+    "value": 38334,
+    "date": "2026-05-03"
+  },
+  {
+    "id": "FIN-0393",
+    "type": "entrada",
+    "category": "Taxa de captação",
+    "description": "Taxa de captação · Macedo-Carvalho",
+    "value": 40709,
+    "date": "2025-08-09"
+  },
+  {
+    "id": "FIN-0394",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Reis S.A.",
+    "value": 26856,
+    "date": "2026-02-10"
+  },
+  {
+    "id": "FIN-0395",
+    "type": "entrada",
+    "category": "Taxa de administração",
+    "description": "Taxa de administração · Xavier, Moreira e Silva",
+    "value": 11903,
+    "date": "2025-08-14"
+  },
+  {
+    "id": "FIN-0396",
+    "type": "saida",
+    "category": "Marketing",
+    "description": "Marketing · Albuquerque S.A.",
+    "value": 28111,
+    "date": "2025-07-10"
+  },
+  {
+    "id": "FIN-0397",
+    "type": "saida",
+    "category": "Despesas administrativas",
+    "description": "Despesas administrativas · Batista LTDA",
+    "value": 32595,
+    "date": "2026-05-18"
+  },
+  {
+    "id": "FIN-0398",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Costa, Saraiva e Reis",
+    "value": 8224,
+    "date": "2025-09-24"
+  },
+  {
+    "id": "FIN-0399",
+    "type": "saida",
+    "category": "Manutenção de imóveis",
+    "description": "Manutenção de imóveis · Moraes, Moraes e Pereira",
+    "value": 28058,
+    "date": "2025-10-03"
+  },
+  {
+    "id": "FIN-0400",
+    "type": "saida",
+    "category": "Folha de pagamento",
+    "description": "Folha de pagamento · Santos, Xavier e Martins",
+    "value": 23399,
+    "date": "2025-10-04"
+  }
+]

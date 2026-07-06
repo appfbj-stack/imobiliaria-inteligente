@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Property } from '../types';
+import { Property } from '../../types';
 import { 
   Home, BedDouble, Bath, Car, Maximize, MapPin, 
   Share2, Edit, Trash2, CheckCircle, AlertCircle, XCircle, 
@@ -11,9 +11,10 @@ interface PropertyCardProps {
   property: Property;
   onEdit: (property: Property) => void;
   onDelete: (id: string) => void | Promise<void>;
+  demo?: boolean;
 }
 
-export default function PropertyCard({ property, onEdit, onDelete }: PropertyCardProps) {
+export default function PropertyCard({ property, onEdit, onDelete, demo = false }: PropertyCardProps) {
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
   const [showShareMenu, setShowShareMenu] = useState(false);
 
@@ -22,21 +23,21 @@ export default function PropertyCard({ property, onEdit, onDelete }: PropertyCar
     switch (property.status) {
       case 'Disponível':
         return (
-          <span className="inline-flex items-center gap-1.5 px-3 py-1 text-xs font-semibold rounded-full bg-emerald-50 text-emerald-700 border border-emerald-200">
+          <span className="inline-flex items-center gap-1.5 px-3 py-1 text-xs font-semibold rounded-full bg-success/10 text-success border border-success/30">
             <CheckCircle className="w-3.5 h-3.5" />
             Disponível
           </span>
         );
       case 'Vendido':
         return (
-          <span className="inline-flex items-center gap-1.5 px-3 py-1 text-xs font-semibold rounded-full bg-blue-50 text-blue-700 border border-blue-200">
+          <span className="inline-flex items-center gap-1.5 px-3 py-1 text-xs font-semibold rounded-full bg-primary/10 text-primary border border-primary/30">
             <XCircle className="w-3.5 h-3.5" />
             Vendido
           </span>
         );
       case 'Alugado':
         return (
-          <span className="inline-flex items-center gap-1.5 px-3 py-1 text-xs font-semibold rounded-full bg-amber-50 text-amber-700 border border-amber-200">
+          <span className="inline-flex items-center gap-1.5 px-3 py-1 text-xs font-semibold rounded-full bg-warning/10 text-warning border border-warning/30">
             <AlertCircle className="w-3.5 h-3.5" />
             Alugado
           </span>
@@ -73,9 +74,9 @@ export default function PropertyCard({ property, onEdit, onDelete }: PropertyCar
   const currentImg = property.images[currentImageIndex] || 'https://images.unsplash.com/photo-1564013799919-ab600027ffc6?auto=format&fit=crop&w=800&q=80';
 
   return (
-    <div id={`card-${property.id}`} className="bg-white rounded-2xl border border-slate-100 overflow-hidden shadow-sm hover:shadow-md transition-all duration-300 flex flex-col h-full group relative">
+    <div id={`card-${property.id}`} className="bg-surface rounded-2xl border border-border overflow-hidden shadow-sm hover:shadow-md transition-all duration-300 flex flex-col h-full group relative">
       {/* Photo carousel container */}
-      <div className="relative h-60 w-full overflow-hidden bg-slate-100">
+      <div className="relative h-60 w-full overflow-hidden bg-surface-hover">
         <img 
           src={currentImg} 
           alt={property.address}
@@ -94,7 +95,7 @@ export default function PropertyCard({ property, onEdit, onDelete }: PropertyCar
                   e.stopPropagation();
                   setCurrentImageIndex(idx);
                 }}
-                className={`w-1.5 h-1.5 rounded-full transition-all ${idx === currentImageIndex ? 'bg-white w-3' : 'bg-white/40'}`}
+                className={`w-1.5 h-1.5 rounded-full transition-all ${idx === currentImageIndex ? 'bg-surface w-3' : 'bg-surface/40'}`}
               />
             ))}
           </div>
@@ -106,10 +107,15 @@ export default function PropertyCard({ property, onEdit, onDelete }: PropertyCar
             {property.code}
           </span>
           {getStatusBadge()}
+          {demo && (
+            <span className="bg-fuchsia-500/20 border border-fuchsia-400/40 backdrop-blur-xs text-fuchsia-200 text-[10px] uppercase tracking-wider font-bold px-2.5 py-1 rounded-md">
+              Demonstração
+            </span>
+          )}
         </div>
 
         {/* Floating Status / Property Type pill */}
-        <div className="absolute top-4 right-4 bg-white/95 backdrop-blur-xs py-1 px-3 rounded-lg shadow-xs text-slate-800 text-[11px] font-semibold uppercase tracking-wider">
+        <div className="absolute top-4 right-4 bg-surface/95 backdrop-blur-xs py-1 px-3 rounded-lg shadow-xs text-text-primary text-[11px] font-semibold uppercase tracking-wider">
           {property.type}
         </div>
       </div>
@@ -119,46 +125,46 @@ export default function PropertyCard({ property, onEdit, onDelete }: PropertyCar
         <div>
           {/* Price & Address */}
           <div className="mb-2">
-            <span className="text-[13px] text-slate-400 font-medium block">Preço de Venda / Aluguel</span>
+            <span className="text-[13px] text-text-secondary font-medium block">Preço de Venda / Aluguel</span>
             <div className="flex items-baseline gap-1">
-              <span className="text-xl font-extrabold text-slate-900">R$ {property.price.toLocaleString('pt-BR')}</span>
+              <span className="text-xl font-extrabold text-text-primary">R$ {property.price.toLocaleString('pt-BR')}</span>
             </div>
           </div>
 
-          <div className="flex items-start gap-1.5 text-slate-600 mb-4">
-            <MapPin className="w-4 h-4 shrink-0 text-indigo-500 mt-0.5" />
+          <div className="flex items-start gap-1.5 text-text-secondary mb-4">
+            <MapPin className="w-4 h-4 shrink-0 text-primary mt-0.5" />
             <div className="text-sm">
-              <p className="font-semibold text-slate-800 leading-snug">{property.address}</p>
-              <p className="text-xs text-slate-500">{property.bairro}, {property.cidade}</p>
+              <p className="font-semibold text-text-primary leading-snug">{property.address}</p>
+              <p className="text-xs text-text-secondary">{property.bairro}, {property.cidade}</p>
             </div>
           </div>
 
           {/* Core attributes grid */}
-          <div className="grid grid-cols-4 gap-2 py-3.5 border-y border-slate-50 mb-4 bg-slate-50/50 rounded-xl px-3 text-slate-700">
+          <div className="grid grid-cols-4 gap-2 py-3.5 border-y border-border mb-4 bg-surface-hover/50 rounded-xl px-3 text-text-primary">
             <div className="text-center flex flex-col items-center">
-              <BedDouble className="w-4 h-4 text-slate-400 mb-1" />
+              <BedDouble className="w-4 h-4 text-text-secondary mb-1" />
               <span className="text-xs font-bold block">{property.bedrooms}</span>
-              <span className="text-[10px] text-slate-400 font-medium">Quat.</span>
+              <span className="text-[10px] text-text-secondary font-medium">Quat.</span>
             </div>
             <div className="text-center flex flex-col items-center">
-              <Bath className="w-4 h-4 text-slate-400 mb-1" />
+              <Bath className="w-4 h-4 text-text-secondary mb-1" />
               <span className="text-xs font-bold block">{property.bathrooms}</span>
-              <span className="text-[10px] text-slate-400 font-medium">Banh.</span>
+              <span className="text-[10px] text-text-secondary font-medium">Banh.</span>
             </div>
             <div className="text-center flex flex-col items-center">
-              <Car className="w-4 h-4 text-slate-400 mb-1" />
+              <Car className="w-4 h-4 text-text-secondary mb-1" />
               <span className="text-xs font-bold block">{property.garage}</span>
-              <span className="text-[10px] text-slate-400 font-medium">Vagas</span>
+              <span className="text-[10px] text-text-secondary font-medium">Vagas</span>
             </div>
             <div className="text-center flex flex-col items-center">
-              <Maximize className="w-4 h-4 text-slate-400 mb-1" />
+              <Maximize className="w-4 h-4 text-text-secondary mb-1" />
               <span className="text-xs font-bold block">{property.builtArea}m²</span>
-              <span className="text-[10px] text-slate-400 font-medium">Const.</span>
+              <span className="text-[10px] text-text-secondary font-medium">Const.</span>
             </div>
           </div>
 
           {/* Description */}
-          <p className="text-xs text-slate-500 line-clamp-3 mb-4 leading-relaxed italic">
+          <p className="text-xs text-text-secondary line-clamp-3 mb-4 leading-relaxed italic">
             "{property.description}"
           </p>
         </div>
@@ -172,7 +178,7 @@ export default function PropertyCard({ property, onEdit, onDelete }: PropertyCar
               target="_blank" 
               rel="noopener noreferrer"
               id={`video-btn-${property.id}`}
-              className="inline-flex w-full items-center justify-center gap-1.5 px-3 py-1.5 mb-3 rounded-lg border border-red-200 bg-red-50 text-xs font-semibold text-red-700 hover:bg-red-100 transition-colors"
+              className="inline-flex w-full items-center justify-center gap-1.5 px-3 py-1.5 mb-3 rounded-lg border border-danger/30 bg-danger/10 text-xs font-semibold text-danger hover:bg-danger/15 transition-colors"
             >
               <Video className="w-3.5 h-3.5" />
               Assistir Vídeo de Apresentação
@@ -185,9 +191,9 @@ export default function PropertyCard({ property, onEdit, onDelete }: PropertyCar
             <button 
               id={`share-menu-btn-${property.id}`}
               onClick={() => setShowShareMenu(!showShareMenu)}
-              className="w-full flex items-center justify-center gap-2 bg-emerald-50 hover:bg-emerald-100 border border-emerald-200 text-emerald-800 text-xs font-bold py-2.5 px-3 rounded-xl transition-all duration-200"
+              className="w-full flex items-center justify-center gap-2 bg-success/10 hover:bg-success/15 border border-success/30 text-success text-xs font-bold py-2.5 px-3 rounded-xl transition-all duration-200"
             >
-              <Share2 className="w-4 h-4 shrink-0 text-emerald-600" />
+              <Share2 className="w-4 h-4 shrink-0 text-success" />
               Compartilhar no WhatsApp
             </button>
 
@@ -199,9 +205,9 @@ export default function PropertyCard({ property, onEdit, onDelete }: PropertyCar
                     initial={{ opacity: 0, y: 10 }}
                     animate={{ opacity: 1, y: 0 }}
                     exit={{ opacity: 0, y: 10 }}
-                    className="absolute bottom-full left-0 right-0 mb-2 bg-white rounded-xl shadow-lg border border-slate-100 p-2 z-20 flex flex-col gap-1"
+                    className="absolute bottom-full left-0 right-0 mb-2 bg-surface rounded-xl shadow-lg border border-border p-2 z-20 flex flex-col gap-1"
                   >
-                    <p className="text-[11px] text-slate-400 font-bold uppercase tracking-wider px-2 py-1 border-b border-slate-50 mb-1">
+                    <p className="text-[11px] text-text-secondary font-bold uppercase tracking-wider px-2 py-1 border-b border-border mb-1">
                       Visualizar Opções
                     </p>
                     <a
@@ -209,10 +215,10 @@ export default function PropertyCard({ property, onEdit, onDelete }: PropertyCar
                       target="_blank"
                       rel="noopener noreferrer"
                       id={`share-summary-wa-${property.id}`}
-                      className="flex items-center gap-2 hover:bg-slate-50 p-2 rounded-lg text-xs font-semibold text-slate-700 transition"
+                      className="flex items-center gap-2 hover:bg-surface-hover p-2 rounded-lg text-xs font-semibold text-text-primary transition"
                       onClick={() => setShowShareMenu(false)}
                     >
-                      <Send className="w-3.5 h-3.5 text-emerald-500" />
+                      <Send className="w-3.5 h-3.5 text-success" />
                       Enviar Resumo do Imóvel
                     </a>
                     <a
@@ -220,10 +226,10 @@ export default function PropertyCard({ property, onEdit, onDelete }: PropertyCar
                       target="_blank"
                       rel="noopener noreferrer"
                       id={`share-gallery-wa-${property.id}`}
-                      className="flex items-center gap-2 hover:bg-slate-50 p-2 rounded-lg text-xs font-semibold text-slate-700 transition"
+                      className="flex items-center gap-2 hover:bg-surface-hover p-2 rounded-lg text-xs font-semibold text-text-primary transition"
                       onClick={() => setShowShareMenu(false)}
                     >
-                      <ImageIcon className="w-3.5 h-3.5 text-indigo-500" />
+                      <ImageIcon className="w-3.5 h-3.5 text-primary" />
                       Compartilhar Links de Fotos
                     </a>
                     <a
@@ -231,10 +237,10 @@ export default function PropertyCard({ property, onEdit, onDelete }: PropertyCar
                       target="_blank"
                       rel="noopener noreferrer"
                       id={`share-map-wa-${property.id}`}
-                      className="flex items-center gap-2 hover:bg-slate-50 p-2 rounded-lg text-xs font-semibold text-slate-700 transition"
+                      className="flex items-center gap-2 hover:bg-surface-hover p-2 rounded-lg text-xs font-semibold text-text-primary transition"
                       onClick={() => setShowShareMenu(false)}
                     >
-                      <MapPin className="w-3.5 h-3.5 text-red-500" />
+                      <MapPin className="w-3.5 h-3.5 text-danger" />
                       Compartilhar Localização (Maps)
                     </a>
                   </motion.div>
@@ -248,7 +254,7 @@ export default function PropertyCard({ property, onEdit, onDelete }: PropertyCar
             <button
               id={`edit-property-btn-${property.id}`}
               onClick={() => onEdit(property)}
-              className="flex-1 flex items-center justify-center gap-1 py-1.5 px-3 rounded-lg text-xs font-bold border border-slate-200 text-slate-600 hover:bg-slate-50 hover:border-slate-300 transition-colors"
+              className="flex-1 flex items-center justify-center gap-1 py-1.5 px-3 rounded-lg text-xs font-bold border border-border text-text-secondary hover:bg-surface-hover hover:border-border transition-colors"
             >
               <Edit className="w-3.5 h-3.5" />
               Editar
@@ -256,7 +262,7 @@ export default function PropertyCard({ property, onEdit, onDelete }: PropertyCar
             <button
               id={`delete-property-btn-${property.id}`}
               onClick={() => onDelete(property.id)}
-              className="flex items-center justify-center p-2 rounded-lg text-xs font-bold border border-rose-100 text-rose-600 hover:bg-rose-50 hover:border-rose-200 transition-colors"
+              className="flex items-center justify-center p-2 rounded-lg text-xs font-bold border border-danger/30 text-danger hover:bg-danger/10 hover:border-danger/30 transition-colors"
               title="Excluir Imóvel"
             >
               <Trash2 className="w-3.5 h-3.5" />
