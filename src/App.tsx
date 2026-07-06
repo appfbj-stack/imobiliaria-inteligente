@@ -5,24 +5,19 @@ import { PropertiesPage } from './pages/PropertiesPage';
 import { ClientsPage } from './pages/ClientsPage';
 import { VisitsPage } from './pages/VisitsPage';
 import { MapaPage } from './pages/MapaPage';
-import { PlaceholderPage } from './pages/PlaceholderPage';
-import { NAV_ITEMS } from './config/navigation';
-
-const PLACEHOLDER_DESCRIPTIONS: Record<string, string> = {
-  captacao: 'Pipeline de captação de novos imóveis e leads de proprietários.',
-  corretores: 'Produção, comissões, vendas, locações, agenda, avaliações e metas por corretor.',
-  proprietarios: 'Imóveis, receitas, contratos, documentos e histórico por proprietário.',
-  agenda: 'Visão de calendário unificada de visitas, retornos e compromissos.',
-  propostas: 'Propostas pendentes, aceitas, recusadas e em negociação.',
-  contratos: 'Contratos de venda e locação, renovações, vencimentos e assinaturas.',
-  locacoes: 'Contratos de locação ativos, com receita e vencimentos.',
-  vendas: 'Contratos de venda concluídos e em andamento.',
-  financeiro: 'Entradas, saídas, comissões, recebimentos, fluxo de caixa e inadimplência.',
-  documentos: 'Documentos de imóveis, clientes e contratos centralizados.',
-  aniversariantes: 'Clientes, corretores, proprietários e parceiros aniversariantes do período.',
-  relatorios: 'Relatórios exportáveis em PDF e Excel sobre todo o negócio.',
-  configuracoes: 'Preferências da conta, equipe e integrações da Kairós.',
-};
+import { CaptacaoPage } from './pages/CaptacaoPage';
+import { CorretoresPage } from './pages/CorretoresPage';
+import { ProprietariosPage } from './pages/ProprietariosPage';
+import { AgendaPage } from './pages/AgendaPage';
+import { PropostasPage } from './pages/PropostasPage';
+import { ContratosPage } from './pages/ContratosPage';
+import { LocacoesPage } from './pages/LocacoesPage';
+import { VendasPage } from './pages/VendasPage';
+import { FinanceiroPage } from './pages/FinanceiroPage';
+import { DocumentosPage } from './pages/DocumentosPage';
+import { AniversariantesPage } from './pages/AniversariantesPage';
+import { RelatoriosPage } from './pages/RelatoriosPage';
+import { ConfiguracoesPage } from './pages/ConfiguracoesPage';
 
 export default function App() {
   return (
@@ -30,17 +25,22 @@ export default function App() {
       <Route element={<AppShell />}>
         <Route path="/" element={<DashboardPage />} />
         <Route path="/imoveis" element={<PropertiesPage />} />
-        <Route path="/clientes" element={<ClientsPage />} />
-        <Route path="/visitas" element={<VisitsPage />} />
+        <Route path="/captacao" element={<CaptacaoPage />} />
         <Route path="/mapa" element={<MapaPage />} />
-
-        {NAV_ITEMS.filter((item) => PLACEHOLDER_DESCRIPTIONS[item.id]).map((item) => (
-          <Route
-            key={item.id}
-            path={item.path}
-            element={<PlaceholderPage title={item.label} description={PLACEHOLDER_DESCRIPTIONS[item.id]} icon={item.icon} />}
-          />
-        ))}
+        <Route path="/clientes" element={<ClientsPage />} />
+        <Route path="/corretores" element={<CorretoresPage />} />
+        <Route path="/proprietarios" element={<ProprietariosPage />} />
+        <Route path="/aniversariantes" element={<AniversariantesPage />} />
+        <Route path="/visitas" element={<VisitsPage />} />
+        <Route path="/agenda" element={<AgendaPage />} />
+        <Route path="/propostas" element={<PropostasPage />} />
+        <Route path="/contratos" element={<ContratosPage />} />
+        <Route path="/locacoes" element={<LocacoesPage />} />
+        <Route path="/vendas" element={<VendasPage />} />
+        <Route path="/financeiro" element={<FinanceiroPage />} />
+        <Route path="/documentos" element={<DocumentosPage />} />
+        <Route path="/relatorios" element={<RelatoriosPage />} />
+        <Route path="/configuracoes" element={<ConfiguracoesPage />} />
       </Route>
     </Routes>
   );
